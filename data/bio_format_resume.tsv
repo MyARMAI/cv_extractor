@@ -13,16 +13,16 @@ experience	O
 Years	Duration
 6	Duration
 Months	Duration
-Cloud	Companies worked at
-Lending	Companies worked at
-Solutions	Companies worked at
+Cloud	Companies_worked_at
+Lending	Companies_worked_at
+Solutions	Companies_worked_at
 INC	O
 4	O
 Month	O
 
 Salesforce	Profil
 Developer	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 5	Duration
 Years	Duration
 2	Duration
@@ -56,9 +56,9 @@ EXPERIENCE	O
 Senior	Profil
 Software	Profil
 Engineer	Profil
-Cloud	Companies worked at
-Lending	Companies worked at
-Solutions	Companies worked at
+Cloud	Companies_worked_at
+Lending	Companies_worked_at
+Solutions	Companies_worked_at
 -	O
 Bangalore	Location
 Karnataka	Location
@@ -69,7 +69,7 @@ to	O
 Present	Duration
 Senior	Profil
 Consultant	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 -	O
 Bangalore	Location
 Karnataka	Location
@@ -81,7 +81,7 @@ December	Duration
 2017	Duration
 Staff	Profil
 Consultant	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 -	O
 Bangalore	Location
 Karnataka	Location
@@ -93,13 +93,13 @@ October	Duration
 2016	Duration
 Associate	Profil
 Consultant	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 -	O
 Bangalore	Location
 Karnataka	Location
 -	O
 November	O
-2012	Graduation Year
+2012	Graduation_Year
 to	O
 December	O
 2013	O
@@ -109,10 +109,10 @@ in	Degree
 Computer	Degree
 Science	Degree
 Engineering	Degree
-Adithya	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
+Adithya	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
 -	O
 Tamil	O
 Nadu	O
@@ -120,7 +120,7 @@ September	O
 2008	O
 to	O
 June	O
-2012	Graduation Year
+2012	Graduation_Year
 https://www.indeed.com/r/Govardhana-K/b2de315d95905b68?isid=rex-download&ikw=download-top&co=IN	O
 https://www.indeed.com/r/Govardhana-K/b2de315d95905b68?isid=rex-download&ikw=download-top&co=IN	O
 Skills	O
@@ -206,7 +206,7 @@ Versions	Skills
 11.x	Skills
 and	Skills
 12.x	Skills
-h	Companies worked at
+h	Companies_worked_at
 ttps://www.linkedin.com/in/govardhana-k-61024944/	O
 
 Harini	Name
@@ -214,7 +214,7 @@ Komaravelli	Name
 Test	Profil
 Analyst	Profil
 at	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Hyderabad	Location
 Hyderabad	Location
@@ -243,11 +243,11 @@ WORK	O
 EXPERIENCE	O
 QA	Profil
 Analyst	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Test	Profil
 Analyst	Profil
 at	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Hyderabad	Location
 Infosys	O
@@ -291,7 +291,7 @@ a	O
 Test	Profil
 Analyst	Profil
 at	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Hyderabad	Location
 QA	Profil
@@ -302,17 +302,17 @@ years	Duration
 of	O
 IT	O
 experience	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 EDUCATION	O
 MCA	Degree
-Osmania	College Name
-University	College Name
+Osmania	College_Name
+University	College_Name
 B.Sc.	Degree
 in	Degree
 Computer	Degree
 Science	Degree
-Osmania	College Name
-University	College Name
+Osmania	College_Name
+University	College_Name
 Skills	O
 Functional	Skills
 Testing	Skills
@@ -397,7 +397,7 @@ Microsoft	O
 Test	O
 Manager	O
 &	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Test	O
 Manager	O
 as	O
@@ -493,14 +493,14 @@ Tool:	O
 Microsoft	Skills
 Test	Skills
 Manager	Skills
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Test	Skills
 Manager	Skills
 &	O
 JIRA	Skills
 ?	O
 Databases:	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 10g	O
 SQL	Skills
 Server.	Skills
@@ -516,8 +516,8 @@ Data	Profil
 Analyst	Profil
 Intern	Profil
 -	O
-Oracle	Companies worked at
-Retail	Companies worked at
+Oracle	Companies_worked_at
+Retail	Companies_worked_at
 
 Haryana	O
 WORK	O
@@ -603,10 +603,10 @@ EDUCATION	O
 Statistics	Degree
 and	Degree
 Probability	Degree
-Manipal	College Name
-University	College Name
+Manipal	College_Name
+University	College_Name
 May	O
-2018	Graduation Year
+2018	Graduation_Year
 B.	Degree
 Tech	Degree
 in	Degree
@@ -617,10 +617,10 @@ in	Degree
 Embedded	Degree
 Systems	Degree
 MIT	O
-Manipal	College Name
-University	College Name
+Manipal	College_Name
+University	College_Name
 May	O
-2016	Graduation Year
+2016	Graduation_Year
 Skills	O
 Python	Skills
 (2	Skills
@@ -687,8 +687,8 @@ Nizamuddin	Name
 Associate	Profil
 Consultant	Profil
 -	O
-State	Companies worked at
-Street	Companies worked at
+State	Companies_worked_at
+Street	Companies_worked_at
 Irinchayam	Location
 B.O	Location
 	O
@@ -698,8 +698,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ijas-	Email Address
-Nizamuddin/6748d77f76f94eed	Email Address
+indeed.com/r/Ijas-	Email_Address
+Nizamuddin/6748d77f76f94eed	Email_Address
 With	O
 close	O
 to	O
@@ -750,8 +750,8 @@ WORK	O
 EXPERIENCE	O
 Associate	Profil
 Consultant	Profil
-Oracle	Companies worked at
-Corporation	Companies worked at
+Oracle	Companies_worked_at
+Corporation	Companies_worked_at
 
 Software	O
 Used:	O
@@ -759,8 +759,8 @@ Java	Skills
 GWT	Skills
 Associate	Profil
 Consultant	Profil
-Oracle	Companies worked at
-Corporation	Companies worked at
+Oracle	Companies_worked_at
+Corporation	Companies_worked_at
 -	O
 Bangalore	O
 Karnataka	O
@@ -769,7 +769,7 @@ May	O
 2010	O
 to	O
 June	O
-2011	Graduation Year
+2011	Graduation_Year
 This	O
 project	O
 is	O
@@ -825,8 +825,8 @@ Springs Skills
 MVC	O
 Associate	Profil
 Consultant	Profil
-Oracle	Companies worked at
-Corporation	Companies worked at
+Oracle	Companies_worked_at
+Corporation	Companies_worked_at
 -	O
 Bangalore	O
 Karnataka	O
@@ -903,34 +903,34 @@ Training	O
 on	O
 Finance	O
 By	O
-Oracle	Companies worked at
-Corporation	Companies worked at
+Oracle	Companies_worked_at
+Corporation	Companies_worked_at
 EDUCATION	O
-Birla	College Name
-Institute	College Name
-Of	College Name
-Technology	College Name
+Birla	College_Name
+Institute	College_Name
+Of	College_Name
+Technology	College_Name
 -	O
 Pilani	O
 Rajasthan	O
-2011	Graduation Year
+2011	Graduation_Year
 Bachelor	Degree
 of	Degree
 Technology	Degree
 in	Degree
 Computer	Degree
 Science	Degree
-University	College Name
-College	College Name
-Of	College Name
-Engineering	College Name
+University	College_Name
+College	College_Name
+Of	College_Name
+Engineering	College_Name
 	O
 University	O
 Of	O
 Kerala	O
 2005	O
 to	O
-2009	Graduation Year
+2009	Graduation_Year
 ADDITIONAL	O
 INFORMATION	O
 SKILL	O
@@ -967,7 +967,6 @@ Ansari	Name
 java	Profil
 developer	Profil
 Pune	Location
-	O
 Maharashtra	O
 -	O
 Email	O
@@ -986,10 +985,10 @@ WORK	O
 EXPERIENCE	O
 Application	Profil
 Developer	Profil
-Oracle	Companies worked at
-Financial	Companies worked at
-Software	Companies worked at
-Services	Companies worked at
+Oracle	Companies_worked_at
+Financial	Companies_worked_at
+Software	Companies_worked_at
+Services	Companies_worked_at
 EDUCATION	O
 Bachelor	Degree
 of	Degree
@@ -997,42 +996,42 @@ Enginerring	Degree
 in	Degree
 Information	Degree
 Technology	Degree
-Army	College Name
-institute	College Name
-of	College Name
-technology	College Name
+Army	College_Name
+institute	College_Name
+of	College_Name
+technology	College_Name
 -	O
 Pune	Location
 	O
 Maharashtra	O
 2012	O
 to	O
-2016	Graduation Year
+2016	Graduation_Year
 CBSE	O
 in	O
 Physics	O
 Chemistry	O
 Mathematics	O
-Rashtriya	College Name
-Military	College Name
-School	College Name
-Bangalore	College Name
+Rashtriya	College_Name
+Military	College_Name
+School	College_Name
+Bangalore	College_Name
 
 CBSE	Degree
 in	Degree
 Mathematics	Degree
 and	Degree
 English	Degree
-Rashtriya	College Name
-Military	College Name
-School	College Name
-Bangalore	College Name
+Rashtriya	College_Name
+Military	College_Name
+School	College_Name
+Bangalore	College_Name
 -	O
 Bengaluru	O
 Karnataka	O
 2008	O
 to	O
-2009	Graduation Year
+2009	Graduation_Year
 Skills	O
 JAVA	Skills
 (1	Skills
@@ -1103,7 +1102,7 @@ SVN.	Skills
 
 WORK	O
 EXPERIENCE	O
-NIIT	Companies worked at
+NIIT	Companies_worked_at
 -	O
 2016	O
 to	O
@@ -1121,9 +1120,9 @@ B+	O
 Average	O
 MSCIT	O
 -	O
-2011	Graduation Year
+2011	Graduation_Year
 to	O
-2011	Graduation Year
+2011	Graduation_Year
 
 
 EDUCATION	O
@@ -1133,10 +1132,10 @@ Science)	Degree
 in	Degree
 Computer	Degree
 Science	Degree
-Saraswati	College Name
-College	College Name
-Of	College Name
-Engineering	College Name
+Saraswati	College_Name
+College	College_Name
+Of	College_Name
+Engineering	College_Name
 	O
 Kharghar	O
 -	O
@@ -1144,24 +1143,24 @@ Mumbai	O
 Maharashtra	O
 2014	O
 to	O
-2017	Graduation Year
+2017	Graduation_Year
 HSC	Degree
 in	Degree
 Computer	Degree
 science	Degree
-Acharya	College Name
-College	College Name
-Chembur	College Name
+Acharya	College_Name
+College	College_Name
+Chembur	College_Name
 -	O
 Mumbai	O
 Maharashtra	O
-2011	Graduation Year
+2011	Graduation_Year
 to	O
-2013	Graduation Year
+2013	Graduation_Year
 SSC	O
 State	Degree
 Board	Degree
-2011	Graduation Year
+2011	Graduation_Year
 ADDITIONAL	O
 INFORMATION	O
 
@@ -1205,8 +1204,8 @@ in	Profil
 Tech	Profil
 Mahindra	Profil
 -	O
-SAP	Companies worked at
-FICO	Companies worked at
+SAP	Companies_worked_at
+FICO	Companies_worked_at
 Chennai	Location
 	O
 Tamil	O
@@ -1216,7 +1215,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Jitendra-Babu/bc3ea69a183395ed	Email Address
+indeed.com/r/Jitendra-Babu/bc3ea69a183395ed	Email_Address
 
 Having	O
 3.2-years	Duration
@@ -1434,8 +1433,8 @@ strong	O
 problem	O
 solving	O
 Skills.	O
-SAP	Companies worked at
-FICO	Companies worked at
+SAP	Companies_worked_at
+FICO	Companies_worked_at
 SKILL	O
 SET:	O
 Finance	Skills
@@ -1462,17 +1461,17 @@ Consultant	Profil
 in	Profil
 Tech	Profil
 Mahindra	Profil
-SAP	Companies worked at
-FICO	Companies worked at
+SAP	Companies_worked_at
+FICO	Companies_worked_at
 -	O
 2015	O
 to	O
 Present	O
-SAP	Companies worked at
-FICO	Companies worked at
+SAP	Companies_worked_at
+FICO	Companies_worked_at
 Consultant	O
-SAP	Companies worked at
-FICO	Companies worked at
+SAP	Companies_worked_at
+FICO	Companies_worked_at
 -	O
 April	O
 2017	O
@@ -1801,8 +1800,8 @@ Tally	O
 ERP	O
 9.0	O
 package.	O
-SAP	Companies worked at
-FICO	Companies worked at
+SAP	Companies_worked_at
+FICO	Companies_worked_at
 -	O
 March	O
 2015	O
@@ -1993,17 +1992,17 @@ requirements	O
 Project:	O
 EDUCATION	O
 B.com	Degree
-Degree	College Name
-College	College Name
+Degree	College_Name
+College	College_Name
 -	O
 Machilipatnam	O
 Andhra	O
 Pradesh	O
-2014	Graduation Year
-AG&SGS	College Name
-Intermediate	College Name
-College	College Name
-2011	Graduation Year
+2014	Graduation_Year
+AG&SGS	College_Name
+Intermediate	College_Name
+College	College_Name
+2011	Graduation_Year
 
 Jyotirbindu	Name
 Patnaik	Name
@@ -2022,8 +2021,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Jyotirbindu-	Email Address
-Patnaik/77e3ceda47fbb7e4	Email Address
+indeed.com/r/Jyotirbindu-	Email_Address
+Patnaik/77e3ceda47fbb7e4	Email_Address
 -	O
 Experienced	O
 incident	O
@@ -2083,8 +2082,8 @@ WORK	O
 EXPERIENCE	O
 Associate	Profil
 consultant	Profil
-Sap	Companies worked at
-labs	Companies worked at
+Sap	Companies_worked_at
+labs	Companies_worked_at
 Incident	O
 and	O
 change	O
@@ -2123,8 +2122,8 @@ provide	O
 RCA.	O
 Associate	Profil
 consultant	Profil
-Sap	Companies worked at
-labs	Companies worked at
+Sap	Companies_worked_at
+labs	Companies_worked_at
 -	O
 Joining	O
 date	O
@@ -2417,9 +2416,9 @@ in	Degree
 Electronics	Degree
 and	Degree
 Communication	Degree
-Biju	College Name
-Patnaik	College Name
-University	College Name
+Biju	College_Name
+Patnaik	College_Name
+University	College_Name
 -	O
 Rayagada	O
 Orissa	O
@@ -2433,8 +2432,8 @@ C	Name
 Systems	Profil
 Engineer	Profil
 -	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 Rajapalaiyam	Location
 	O
 Tamil	O
@@ -2444,8 +2443,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Karthihayini-	Email Address
-C/627254c443836b3c	Email Address
+indeed.com/r/Karthihayini-	Email_Address
+C/627254c443836b3c	Email_Address
 To	O
 be	O
 a	O
@@ -2489,8 +2488,8 @@ WORK	O
 EXPERIENCE	O
 Systems	Profil
 Engineer	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 Chennai	O
 Tamil	O
@@ -2501,8 +2500,8 @@ December	O
 to	O
 Present	O
 Trainee	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 Mysore	O
 Karnataka	O
@@ -2575,19 +2574,19 @@ E	Degree
 in	Degree
 Production	Degree
 Engineering	Degree
-Velammal	College Name
-Engineering	College Name
-College	College Name
+Velammal	College_Name
+Engineering	College_Name
+College	College_Name
 -	O
 Chennai	O
 Tamil	O
 Nadu	O
 2016	O
-Tamil	College Name
-Nadu	College Name
-Board	College Name
-Of	College Name
-Education	College Name
+Tamil	College_Name
+Nadu	College_Name
+Board	College_Name
+Of	College_Name
+Education	College_Name
 -	O
 Rajapalaiyam	Location
 	O
@@ -2595,9 +2594,9 @@ Tamil	O
 Nadu	O
 2012	O
 Education	O
-Hr.	College Name
-Sec.	College Name
-School	College Name
+Hr.	College_Name
+Sec.	College_Name
+School	College_Name
 2010	O
 https://www.indeed.com/r/Karthihayini-C/627254c443836b3c?isid=rex-download&ikw=download-top&co=IN	O
 https://www.indeed.com/r/Karthihayini-C/627254c443836b3c?isid=rex-download&ikw=download-top&co=IN	O
@@ -2728,8 +2727,8 @@ Karthik	Name
 GV	Name
 Architect	Profil
 -	O
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 Hyderabad	Location
 	O
 Telangana	O
@@ -2748,8 +2747,8 @@ Telangana	O
 WORK	O
 EXPERIENCE	O
 Architect	Profil
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
@@ -2791,14 +2790,14 @@ customer.	O
 Sr.	O
 Program	O
 Manager	O
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 -	O
 March	O
 2016	O
 to	O
 January	O
-2018	Graduation Year
+2018	Graduation_Year
 Key	O
 Projects	O
 -	O
@@ -3015,8 +3014,8 @@ Methodology	O
 Agile	O
 model	O
 Architect	Profil
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
@@ -3284,8 +3283,8 @@ Key	O
 Skills	O
 Sr	Profil
 consultant	Profil
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
@@ -3299,8 +3298,8 @@ March	O
 Sr	Profil
 Test	Profil
 Engineer	Profil
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
@@ -3323,15 +3322,15 @@ UI	O
 Selenium.	O
 EDUCATION	O
 PGDBM	Degree
-Narsee	College Name
-Monjee	College Name
-Institute	College Name
-of	College Name
-Management	College Name
-Studies	College Name
+Narsee	College_Name
+Monjee	College_Name
+Institute	College_Name
+of	College_Name
+Management	College_Name
+Studies	College_Name
 2017	O
 to	O
-2018	Graduation Year
+2018	Graduation_Year
 Skills	O
 Program	Skills
 Management	Skills
@@ -3942,8 +3941,8 @@ Sharma	Name
 Systems	Profil
 Engineer	Profil
 -	O
-Infosys	Companies worked at
-Ltd	Companies worked at
+Infosys	Companies_worked_at
+Ltd	Companies_worked_at
 Delhi	Location
 	O
 Delhi	Location
@@ -3952,7 +3951,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Kartik-Sharma/cc7951fd7809f35e	Email Address
+indeed.com/r/Kartik-Sharma/cc7951fd7809f35e	Email_Address
 ?	O
 Qualified	O
 B.Tech	Degree
@@ -3984,8 +3983,8 @@ Senior	O
 Systems	Profil
 Engineer	Profil
 with	O
-Infosys	Companies worked at
-Ltd	Companies worked at
+Infosys	Companies_worked_at
+Ltd	Companies_worked_at
 Pune	O
 well	O
 versed	O
@@ -4319,7 +4318,7 @@ Infosys	O
 Limited	O
 -	O
 September	O
-2015	Graduation Year
+2015	Graduation_Year
 to	O
 Present	O
 Working	O
@@ -4337,27 +4336,27 @@ EDUCATION	O
 B.Tech	Degree
 in	Degree
 Engineering	Degree
-Northern	College Name
-India	College Name
-engineering	College Name
-college	College Name
-IP	College Name
-UNIVERSITY	College Name
-DELHI	College Name
-2015	Graduation Year
+Northern	College_Name
+India	College_Name
+engineering	College_Name
+college	College_Name
+IP	College_Name
+UNIVERSITY	College_Name
+DELHI	College_Name
+2015	Graduation_Year
 CBSE	Degree
-Lovely	College Name
-Public	College Name
-Sr.	College Name
-Sec.	College Name
-School	College Name
-2011	Graduation Year
+Lovely	College_Name
+Public	College_Name
+Sr.	College_Name
+Sec.	College_Name
+School	College_Name
+2011	Graduation_Year
 CBSE	Degree
-Lovely	College Name
-Public	College Name
-Sr.	College Name
-Sec.	College Name
-School	College Name
+Lovely	College_Name
+Public	College_Name
+Sr.	College_Name
+Sec.	College_Name
+School	College_Name
 2009	O
 University	O
 /	O
@@ -4402,8 +4401,8 @@ Senior	Profil
 System	Profil
 Engineer	Profil
 -	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 Salem	Location
 	O
 Tamil	O
@@ -4413,7 +4412,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Kavitha-K/8977ce8ce48bc800	Email Address
+indeed.com/r/Kavitha-K/8977ce8ce48bc800	Email_Address
 Seeking	O
 to	O
 work	O
@@ -4445,7 +4444,7 @@ Infosys	O
 Limited	O
 -	O
 December	O
-2014	Graduation Year
+2014	Graduation_Year
 to	O
 Present	O
 Unix	O
@@ -4701,12 +4700,12 @@ resolution	O
 and	O
 reporting	O
 https://www.	O
-indeed.com/r/Kavitha-K/8977ce8ce48bc800	Email Address
+indeed.com/r/Kavitha-K/8977ce8ce48bc800	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 EDUCATION	O
-Networking	College Name
-Infosys	College Name
-Limited	College Name
+Networking	College_Name
+Infosys	College_Name
+Limited	College_Name
 Foundation	Degree
 Training	Degree
 Program	Degree
@@ -4719,15 +4718,15 @@ Engineering	Degree
 in	Degree
 Information	Degree
 Technology	Degree
-REiume	College Name
-Institute	College Name
-of	College Name
-road	College Name
+REiume	College_Name
+Institute	College_Name
+of	College_Name
+road	College_Name
 -	O
 Erode	O
 Tamil	O
 Nadu	O
-2014	Graduation Year
+2014	Graduation_Year
 
 
 Khushboo	Name
@@ -4742,8 +4741,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Khushboo-Choudhary/	Email Address
-b10649068fcdfa42	Email Address
+indeed.com/r/Khushboo-Choudhary/	Email_Address
+b10649068fcdfa42	Email_Address
 To	O
 pursue	O
 a	O
@@ -4810,8 +4809,8 @@ Pradesh	O
 Technical	O
 Proficiency	O
 1.	O
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 7.4	O
 2.	O
 OOPS	O
@@ -4890,34 +4889,34 @@ EDUCATION	O
 B.Tech	Degree
 in	Degree
 CSE	Degree
-MM	College Name
-University	College Name
+MM	College_Name
+University	College_Name
 2013	O
 to	O
-2017	Graduation Year
+2017	Graduation_Year
 CBSE	O
 https://www.indeed.com/r/Khushboo-Choudhary/b10649068fcdfa42?isid=rex-download&ikw=download-top&co=IN	O
 https://www.indeed.com/r/Khushboo-Choudhary/b10649068fcdfa42?isid=rex-download&ikw=download-top&co=IN	O
-Paratap	College Name
-Public	College Name
-School	College Name
--	College Name
-Karnal	College Name
-Haryana	College Name
+Paratap	College_Name
+Public	College_Name
+School	College_Name
+-	College_Name
+Karnal	College_Name
+Haryana	College_Name
 December	O
 2011	O
 CBSE	O
 in	O
 Technology	O
 Used	O
-Silver	College Name
-Bells	College Name
-Public	College Name
-School	College Name
--	College Name
-Muzaffarnagar	College Name
-Uttar	College Name
-Pradesh	College Name
+Silver	College_Name
+Bells	College_Name
+Public	College_Name
+School	College_Name
+-	College_Name
+Muzaffarnagar	College_Name
+Uttar	College_Name
+Pradesh	College_Name
 October	O
 2009	O
 Engineering	O
@@ -4996,8 +4995,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/kimaya-	Email Address
-sonawane/1f27a18d2e4b1948	Email Address
+indeed.com/r/kimaya-	Email_Address
+sonawane/1f27a18d2e4b1948	Email_Address
 Quality	O
 education	O
 blended	O
@@ -5030,14 +5029,14 @@ EXPERIENCE	O
 Technical	Profil
 Support	Profil
 Engineer	Profil
-SAP	Companies worked at
--	Companies worked at
+SAP	Companies_worked_at
+-	Companies_worked_at
 Thane	Location
 	O
 Maharashtra	O
 -	O
 November	O
-2016	Graduation Year
+2016	Graduation_Year
 to	O
 Present	O
 EDUCATION	O
@@ -5045,21 +5044,21 @@ BE	Degree
 in	Degree
 computer	Degree
 science	Degree
-SSVPSs	College Name
-Late	College Name
-B.	College Name
-S.	College Name
-Deore	College Name
-College	College Name
-of	College Name
-Engineering	College Name
+SSVPSs	College_Name
+Late	College_Name
+B.	College_Name
+S.	College_Name
+Deore	College_Name
+College	College_Name
+of	College_Name
+Engineering	College_Name
 Dhule	O
 -	O
 Dhule	O
 Maharashtra	O
 2011	O
 to	O
-2016	Graduation Year
+2016	Graduation_Year
 Skills	O
 network	Skills
 engineers	Skills
@@ -5095,7 +5094,7 @@ Certified	O
 Solution	O
 Associate)	O
 July	O
-2016	Graduation Year
+2016	Graduation_Year
 to	O
 Present	O
 ADDITIONAL	O
@@ -5193,7 +5192,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Koushik-Katta/a6b19244854199ec	Email Address
+indeed.com/r/Koushik-Katta/a6b19244854199ec	Email_Address
 DevOps	O
 Administrator	O
 with	O
@@ -5250,22 +5249,22 @@ WORK	O
 EXPERIENCE	O
 Devops	O
 Engineer	O
-Infosys	Companies worked at
-limited	Companies worked at
+Infosys	Companies_worked_at
+limited	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
 Telangana	O
 -	O
 December	O
-2014	Graduation Year
+2014	Graduation_Year
 to	O
 Present	O
 Hyderabad	Location
 	O
 since	O
 December	O
-2014	Graduation Year
+2014	Graduation_Year
 to	O
 till	O
 date.	O
@@ -5331,11 +5330,11 @@ tools	O
 Release	O
 Management	O
 according	O
-Infosys	Companies worked at
-limited	Companies worked at
+Infosys	Companies_worked_at
+limited	Companies_worked_at
 -	O
 December	O
-2014	Graduation Year
+2014	Graduation_Year
 to	O
 Present	O
 to	O
@@ -5373,7 +5372,7 @@ raised	O
 by	O
 client.	O
 https://www.	O
-indeed.com/r/Koushik-Katta/a6b19244854199ec	Email Address
+indeed.com/r/Koushik-Katta/a6b19244854199ec	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 ?	O
 JIRA	O
@@ -5539,12 +5538,12 @@ Engineering	Degree
 in	Degree
 Mechanical	Degree
 Engineering	Degree
-Lovely	College Name
-Professional	College Name
-University	College Name
-2010	Graduation Year
+Lovely	College_Name
+Professional	College_Name
+University	College_Name
+2010	Graduation_Year
 to	O
-2014	Graduation Year
+2014	Graduation_Year
 Secondary	Degree
 School	Degree
 Certificate	Degree
@@ -5560,14 +5559,14 @@ Hyderabad	Location
 Telangana	O
 2008	O
 to	O
-2010	Graduation Year
-Sister	College Name
-Nivedita	College Name
-School	College Name
+2010	Graduation_Year
+Sister	College_Name
+Nivedita	College_Name
+School	College_Name
 -	O
 Karimnagar	O
 Telangana	O
-2008	Graduation Year
+2008	Graduation_Year
 Skills	O
 Jira	Skills
 Ansible	Skills
@@ -5700,9 +5699,9 @@ HPQC	O
 and	O
 Eclipse.	O
 A.P	O
-Padmavani	College Name
-High	College Name
-School	College Name
+Padmavani	College_Name
+High	College_Name
+School	College_Name
 2008	O
 ADDITIONAL	O
 INFORMATION	O
@@ -5753,17 +5752,17 @@ and	O
 Eclipse.	O
 Duration:	O
 September	O
-2014	Graduation Year
+2014	Graduation_Year
 to	O
 December	O
-2014	Graduation Year
+2014	Graduation_Year
 Worked	O
 as	O
 Senior	Profil
 project	Profil
 engineer	Profil
 in	O
-Wipro	Companies worked at
+Wipro	Companies_worked_at
 Technologies	O
 from	O
 Jan2014	O
@@ -5842,7 +5841,7 @@ and	O
 MULTICAST	O
 features	O
 on	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 7600	O
 Routers.	O
 
@@ -5905,7 +5904,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Mahesh-Vijay/a2584aabc9572c30	Email Address
+indeed.com/r/Mahesh-Vijay/a2584aabc9572c30	Email_Address
 Over	O
 6.5	Duration
 years	Duration
@@ -5924,7 +5923,7 @@ domain.	O
 Was	O
 associated	O
 with	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 India	O
 Pvt	O
 Ltd	O
@@ -5947,12 +5946,12 @@ Shared	O
 Service	O
 Center)	O
 for	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 's	O
 Business	O
 from	O
 Sep	O
-2007	Graduation Year
+2007	Graduation_Year
 -	O
 Feb	O
 2014.	O
@@ -5968,7 +5967,7 @@ lead	Profil
 supplier	O
 data	O
 management	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 India	O
 -	O
 Bangalore	O
@@ -5990,7 +5989,7 @@ Tours	O
 Travels	O
 Team	O
 Lead	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 India	O
 Pvt	O
 Ltd	O
@@ -6009,7 +6008,7 @@ Analyst	Profil
 -Supplier	Profil
 Data	Profil
 Management	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 India	O
 Pvt	O
 Ltd	O
@@ -6024,7 +6023,7 @@ Analyst	Profil
 -Supplier	Profil
 Data	Profil
 Management	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 India	O
 Pvt	O
 Ltd	O
@@ -6045,24 +6044,24 @@ in	Degree
 Commerce	Degree
 (B.Com)	Degree
 from	O
-Vivekananda	College Name
-Degree	College Name
-College	College Name
-Bangalore	College Name
-University	College Name
+Vivekananda	College_Name
+Degree	College_Name
+College	College_Name
+Bangalore	College_Name
+University	College_Name
 (	O
-2007	Graduation Year
+2007	Graduation_Year
 )	O
 
 Pre	O
 University	O
 from	O
-Vivekananda	College Name
-PU	College Name
-College	College Name
+Vivekananda	College_Name
+PU	College_Name
+College	College_Name
 	O
 Bangalore(	O
-2004	Graduation Year
+2004	Graduation_Year
 )	O
 
 Passed	O
@@ -6094,12 +6093,12 @@ Community	O
 Architecture	O
 of	O
 the	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 e-business	O
 suite	O
 bundle.	O
 https://www.	O
-indeed.com/r/Mahesh-Vijay/a2584aabc9572c30	Email Address
+indeed.com/r/Mahesh-Vijay/a2584aabc9572c30	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 -	O
 Managing	O
@@ -6117,7 +6116,7 @@ timeframe.	O
 Projects	O
 like	O
 -	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Fusion	O
 Supplier	O
 Self	O
@@ -6143,7 +6142,7 @@ of	O
 supplier	O
 records.	O
 -	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Fusion	O
 -	O
 Related	O
@@ -6158,7 +6157,7 @@ Sound	O
 knowledge	O
 in	O
 the	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Financial	O
 applications	O
 domain	O
@@ -6196,12 +6195,12 @@ reported	O
 defects.	O
 Technical	O
 -	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Applications	O
 Releases:	O
 12	O
 11.5	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Applications	O
 Modules	O
 Purchasing	O
@@ -6211,7 +6210,7 @@ Business	O
 Intelligence	O
 Reporting	O
 Tools:	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Discoverer	O
 &	O
 Accounting	O
@@ -6221,7 +6220,7 @@ Tally	O
 Projects	O
 &	O
 Accomplishments	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Master	O
 Data	O
 Management-	O
@@ -6255,7 +6254,7 @@ information	O
 in	O
 Purchase	O
 orders	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Fusion	O
 UAT-	O
 Supplier	O
@@ -6322,7 +6321,7 @@ and	O
 old	O
 features	O
 assigned	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Supplier	O
 Life	O
 Cycle	O
@@ -6483,7 +6482,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Manisha-Bharti/3573e36088ddc073	Email Address
+indeed.com/r/Manisha-Bharti/3573e36088ddc073	Email_Address
 
 3.5	Duration
 years	Duration
@@ -6873,12 +6872,12 @@ EDUCATION	O
 B.Tech	Degree
 in	Degree
 CSE	Degree
-Meghnad	College Name
-saha	College Name
-institute	College Name
-of	College Name
-technology	College Name
-2013	Graduation Year
+Meghnad	College_Name
+saha	College_Name
+institute	College_Name
+of	College_Name
+technology	College_Name
+2013	Graduation_Year
 Skills	O
 Uft/qtpalm/qcjirajenkinsautomation	Skills
 testingcicdservice	Skills
@@ -7432,7 +7431,7 @@ EXPERIENCE	O
 IT	Profil
 Operations	Profil
 Analyst	Profil
-Accenture	Companies worked at
+Accenture	Companies_worked_at
 I	O
 am	O
 looking	O
@@ -7477,7 +7476,7 @@ November	O
 Currently	O
 working	O
 with	O
-Accenture	Companies worked at
+Accenture	Companies_worked_at
 as	O
 a	O
 Subject	O
@@ -7498,24 +7497,24 @@ in	Degree
 Electronics	Degree
 &	Degree
 Communication	Degree
-Visveswaraiah	College Name
-Technological	College Name
-University	College Name
+Visveswaraiah	College_Name
+Technological	College_Name
+University	College_Name
 -	O
 Bengaluru	Location
 	O
 Karnataka	O
-2013	Graduation Year
+2013	Graduation_Year
 Electronics	O
 Project	O
-Al-Ameen	College Name
-PU	College Name
-College	College Name
-Rajiv	College Name
-Gandhi	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
+Al-Ameen	College_Name
+PU	College_Name
+College	College_Name
+Rajiv	College_Name
+Gandhi	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
 Skills	O
 Active	Skills
 Directory	Skills
@@ -7588,7 +7587,7 @@ Troubleshooting	O
 Microsoft	O
 Office	O
 {	O
-2013	Graduation Year
+2013	Graduation_Year
 	O
 2016	O
 365	O
@@ -7808,7 +7807,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Mohini-Gupta/08b5b8e1acd8cf07	Email Address
+indeed.com/r/Mohini-Gupta/08b5b8e1acd8cf07	Email_Address
 Willing	O
 to	O
 relocate:	O
@@ -7818,7 +7817,7 @@ EXPERIENCE	O
 Server	Profil
 Support	Profil
 Engineer	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 July	O
 2015	O
@@ -7834,7 +7833,7 @@ Technical	O
 Support	O
 Engineer	O
 for	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Enterprise	O
 Platforms	O
 Support.	O
@@ -8038,12 +8037,12 @@ Engg.	O
 EDUCATION	O
 B.tech	Degree
 https://www.	O
-indeed.com/r/Mohini-Gupta/08b5b8e1acd8cf07	Email Address
+indeed.com/r/Mohini-Gupta/08b5b8e1acd8cf07	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
-KIIT	College Name
-college	College Name
-of	College Name
-Engg.	College Name
+KIIT	College_Name
+college	College_Name
+of	College_Name
+Engg.	College_Name
 Skills	O
 active	Skills
 directory	Skills
@@ -8161,10 +8160,10 @@ WORK	O
 EXPERIENCE	O
 System	Profil
 Engineer	Profil
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 -	O
 August	O
-2014	Graduation Year
+2014	Graduation_Year
 to	O
 Present	O
 .NET	O
@@ -8179,7 +8178,7 @@ if	O
 required	O
 Test	Profil
 Engineer	Profil
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 -	O
 June	O
 2015	O
@@ -8278,11 +8277,11 @@ and	O
 Report.	O
 Test	O
 Executive	O
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 Limited	O
 -	O
 August	O
-2014	Graduation Year
+2014	Graduation_Year
 to	O
 May	O
 2015	O
@@ -8386,7 +8385,7 @@ June	O
 2011	O
 to	O
 April	O
-2014	Graduation Year
+2014	Graduation_Year
 Skills	O
 C#	Skills
 (Less	Skills
@@ -8477,13 +8476,13 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Navjyot-Singh-Rathore/	Email Address
-ad92079f3f1a4cad	Email Address
+indeed.com/r/Navjyot-Singh-Rathore/	Email_Address
+ad92079f3f1a4cad	Email_Address
 WORK	O
 EXPERIENCE	O
 fresher	Profil
 job	Profil
-Accenture	Companies worked at
+Accenture	Companies_worked_at
 -	O
 Ulhasnagar	Location
 	O
@@ -8496,31 +8495,31 @@ TYBMS	Degree
 in	Degree
 Management	Degree
 Studies	Degree
-Vedanta	College Name
-College	College Name
-of	College Name
-management	College Name
-and	College Name
-information	College Name
-technology	College Name
+Vedanta	College_Name
+College	College_Name
+of	College_Name
+management	College_Name
+and	College_Name
+information	College_Name
+technology	College_Name
 -	O
 Mumbai	O
 Maharashtra	O
-2015	Graduation Year
+2015	Graduation_Year
 to	O
-2018	Graduation Year
+2018	Graduation_Year
 H.S.C	Degree
-Guru	College Name
-Nanak	College Name
-English	College Name
-High	College Name
-School	College Name
-and	College Name
-Jr	College Name
-cllg	College Name
+Guru	College_Name
+Nanak	College_Name
+English	College_Name
+High	College_Name
+School	College_Name
+and	College_Name
+Jr	College_Name
+cllg	College_Name
 2013	O
 to	O
-2015	Graduation Year
+2015	Graduation_Year
 S.S.C	O
 swami	O
 Vivekananda	O
@@ -8579,8 +8578,8 @@ Nazish	Name
 Alam	Name
 Consultant	Profil
 -	O
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 Ghaziabad	Location
 	O
 Uttar	O
@@ -8590,8 +8589,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Nazish-Alam/	Email Address
-b06dbac9d6236221	Email Address
+indeed.com/r/Nazish-Alam/	Email_Address
+b06dbac9d6236221	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -8609,8 +8608,8 @@ Pradesh	O
 WORK	O
 EXPERIENCE	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Noida	O
 Uttar	O
@@ -8684,8 +8683,8 @@ SAP	O
 ECC	O
 6.0	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 January	O
 2016	O
@@ -9038,27 +9037,27 @@ C	Skills
 C++	Skills
 ACADEMEIC	O
 CREDENTIALS	O
-2015	Graduation Year
+2015	Graduation_Year
 Master	Degree
 of	Degree
 Computer	Degree
 Application	Degree
-UPTU.	College Name
-India	College Name
+UPTU.	College_Name
+India	College_Name
 
 Nidhi	Name
 Pandit	Name
 Test	Profil
 Engineer	Profil
 -	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Nidhi-Pandit/b4b383dbe14789c5	Email Address
+indeed.com/r/Nidhi-Pandit/b4b383dbe14789c5	Email_Address
 Overall	O
 around	O
 4	O
@@ -9283,7 +9282,7 @@ Infosys	O
 Limited	O
 -	O
 https://www.	O
-indeed.com/r/Nidhi-Pandit/b4b383dbe14789c5	Email Address
+indeed.com/r/Nidhi-Pandit/b4b383dbe14789c5	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 July	O
 2014	O
@@ -9456,15 +9455,15 @@ Deployment	O
 EDUCATION	O
 State	Degree
 Board	Degree
-2008	Graduation Year
+2008	Graduation_Year
 Education	O
 Passing	O
 Bachelor	Degree
 in	Degree
 Electronics	Degree
-Central	College Name
-India	College Name
-Institute	College Name
+Central	College_Name
+India	College_Name
+Institute	College_Name
 Engineering	O
 Technical	O
 University	O
@@ -9597,8 +9596,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Nikhileshkumar-Ikhar/	Email Address
-cb907948c3299ef4	Email Address
+indeed.com/r/Nikhileshkumar-Ikhar/	Email_Address
+cb907948c3299ef4	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -9612,7 +9611,7 @@ WORK	O
 EXPERIENCE	O
 Product	Profil
 Development	Profil
-Aggrigator	Companies worked at
+Aggrigator	Companies_worked_at
 -	O
 Bengaluru	Location
 	O
@@ -9621,7 +9620,7 @@ Karnataka	O
 2015	O
 to	O
 Present	O
-Aggrigator	Companies worked at
+Aggrigator	Companies_worked_at
 is	O
 Stanford	O
 incubated	O
@@ -9822,13 +9821,13 @@ Above	O
 Solutions.	O
 Software	Profil
 Engineer	Profil
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 -	O
 Bengaluru	Location
 	O
 Karnataka	O
 -	O
-2012	Graduation Year
+2012	Graduation_Year
 to	O
 2015	O
 Owned	O
@@ -9868,7 +9867,7 @@ Python	O
 Java	O
 Django	O
 Celery	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 routers	O
 SDN	O
 OnePk	O
@@ -9880,16 +9879,16 @@ network	O
 migration	O
 during	O
 intern	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 -	O
 January	O
-2012	Graduation Year
+2012	Graduation_Year
 to	O
 June	O
-2012	Graduation Year
+2012	Graduation_Year
 System	Profil
 Engineer	Profil
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 -	O
 Pune	O
 Maharashtra	O
@@ -9913,17 +9912,17 @@ M.Tech.	Degree
 in	Degree
 IT	Degree
 in	O
-VIT	College Name
+VIT	College_Name
 	O
 Pune	O
-IIIT	College Name
+IIIT	College_Name
 -	O
 Bengaluru	Location
 	O
 Karnataka	O
 2010	O
 to	O
-2012	Graduation Year
+2012	Graduation_Year
 Skills	O
 Django	Skills
 (6	Skills
@@ -9971,15 +9970,15 @@ http://linkedin.com/in/nikhar	O
 
 Bengaluru	O
 Karnataka	O
-2017	Graduation Year
-Vijaya	College Name
-composite	College Name
-p.u.	College Name
-college	College Name
+2017	Graduation_Year
+Vijaya	College_Name
+composite	College_Name
+p.u.	College_Name
+college	College_Name
 e-commerce	Degree
-Vijaya	College Name
-High	College Name
-School	College Name
+Vijaya	College_Name
+High	College_Name
+School	College_Name
 Skills	O
 Php	Skills
 Html5	Skills
@@ -10044,18 +10043,18 @@ V	Name
 LEAD	Profil
 ENGINEER	Profil
 -	O
-CISCO	Companies worked at
+CISCO	Companies_worked_at
 -	O
 Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Pradeeba-V/19ff20f4b8552375	Email Address
+indeed.com/r/Pradeeba-V/19ff20f4b8552375	Email_Address
 WORK	O
 EXPERIENCE	O
 LEAD	Profil
 ENGINEER	Profil
-CISCO	Companies worked at
+CISCO	Companies_worked_at
 -	O
 June	O
 2014	O
@@ -10141,14 +10140,14 @@ HTML	Skills
 
 EDUCATION	O
 B.Tech	Degree
-Institute	College Name
-of	College Name
-Road	College Name
-and	College Name
-Transport	College Name
-May	College Name
+Institute	College_Name
+of	College_Name
+Road	College_Name
+and	College_Name
+Transport	College_Name
+May	College_Name
 October	O
-1980	Graduation Year
+1980	Graduation_Year
 ADDITIONAL	O
 INFORMATION	O
 TECHNICAL	O
@@ -10209,8 +10208,8 @@ Senior	Profil
 System	Profil
 Engineer	Profil
 -	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 Mangalore	Location
 
 Technical	O
@@ -10269,15 +10268,15 @@ Education	O
 Qualification:	O
 B.Tech	Degree
 From	O
-Annamacharya	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
+Annamacharya	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
 	O
 JNTU	O
 Hyderabad	Location
 -	O
-2015	Graduation Year
+2015	Graduation_Year
 Environment:	O
 Maven	Skills
 Jenkins	Skills
@@ -10352,7 +10351,7 @@ Application	O
 Server	O
 9.2	O
 Java	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Apache	O
 Webserver	O
@@ -10381,7 +10380,7 @@ WORK	O
 EXPERIENCE	O
 Configuration	Profil
 Engineer	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
@@ -10633,7 +10632,7 @@ load	O
 balancers	O
 Apache	O
 webservers	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 database	O
 
 Developed	O
@@ -10746,14 +10745,14 @@ External	O
 stage.	O
 Configuration	Profil
 Engineer	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 Devops	O
 EDUCATION	O
 B.TECH/B.E	O
-Annamacharya	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
+Annamacharya	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
 	O
 JNTU	O
 Hyderabad	Location
@@ -10799,7 +10798,7 @@ Hat	O
 LINUX	O
 5	O
 Database	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 11g	O
 Release	O
 Tools	O
@@ -10824,7 +10823,7 @@ R.	Profil
 Johnson	Profil
 (India)	Profil
 -	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 -	O
 R	O
 Dewas	Location
@@ -10836,7 +10835,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Prem-Koshti/a1fec9e7289496f0	Email Address
+indeed.com/r/Prem-Koshti/a1fec9e7289496f0	Email_Address
 ?	O
 To	O
 acquire	O
@@ -10848,7 +10847,7 @@ Human	O
 Resource	O
 Management	O
 /	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 field	O
 by	O
 continuously	O
@@ -10893,7 +10892,7 @@ flexible.	O
 Projects:-	O
 Project	O
 Name:	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 HR	O
 Employee	O
 Administration	O
@@ -10920,7 +10919,7 @@ H.&	Profil
 R.	Profil
 Johnson	Profil
 (India)	Profil
-SAP	Companies worked at
+SAP	Companies_worked_at
 -	O
 R	O
 -	O
@@ -10934,14 +10933,14 @@ July	O
 to	O
 Present	O
 -	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 -	O
 R/3	O
 06	O
 years'	O
 experience	O
 in	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 HR-Functional	O
 Module	O
 Current	O
@@ -11012,7 +11011,7 @@ ADDITIONAL	O
 INFORMATION	O
 Technical	O
 Skills:	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 HR	O
 Module.	O
 Description:-	O
@@ -11115,7 +11114,7 @@ Policy.	O
 Handle	O
 Payroll	O
 on	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 &	O
 responsible	O
 for	O
@@ -11129,7 +11128,7 @@ Maintain	O
 employee	O
 data	O
 on	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 and	O
 updates	O
 them	O
@@ -11276,7 +11275,7 @@ Training	O
 programmes	O
 organize.	O
 ?	O
-SAP	Companies worked at
+SAP	Companies_worked_at
 -	O
 HR	O
 Module	O
@@ -11310,7 +11309,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Pulkit-Saxena/ad3f35bfe88a0410	Email Address
+indeed.com/r/Pulkit-Saxena/ad3f35bfe88a0410	Email_Address
 I	O
 have	O
 a	O
@@ -11422,7 +11421,7 @@ relocate:	O
 Anywhere	O
 WORK	O
 EXPERIENCE	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 -	O
 Samba	O
 Jammu	O
@@ -11516,7 +11515,7 @@ Configuration	O
 VLAN	O
 setup	O
 on	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 1900	O
 2950	O
 2960	O
@@ -11530,7 +11529,7 @@ Configuration	O
 &	O
 monitoring	O
 of	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 2500	O
 2600	O
 1800	O
@@ -11541,7 +11540,7 @@ switching	O
 isl	O
 dotlq	O
 ?	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Firewall	O
 5500	O
 Series:	O
@@ -11719,27 +11718,27 @@ MCL	Degree
 in	Degree
 Computer	Degree
 Application	Degree
-IGNOU	College Name
+IGNOU	College_Name
 BACHELOR'S	Degree
 IN	Degree
 SCIENCE	Degree
 in	Degree
 COMPUTER	Degree
 NETWORKING	Degree
-Karnataka	College Name
-State	College Name
-University	College Name
+Karnataka	College_Name
+State	College_Name
+University	College_Name
 Computer	Degree
 Networking	Degree
-Aptech	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
+Aptech	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
 Computing	O
-Aptech	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
+Aptech	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
 Skills	O
 Firewall	Skills
 (1	Skills
@@ -11818,10 +11817,10 @@ backups	O
 Disaster	O
 recovery	O
 ?	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Router	O
 ?	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Switch	O
 ?	O
 Network	O
@@ -11956,7 +11955,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Puneet-Singh/cb1ede9ee6d21bca	Email Address
+indeed.com/r/Puneet-Singh/cb1ede9ee6d21bca	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -11975,10 +11974,10 @@ Associate	O
 Software	O
 Engineer	O
 in	O
-Oracle	Companies worked at
-India	Companies worked at
-Pvt	Companies worked at
-Ltd	Companies worked at
+Oracle	Companies_worked_at
+India	Companies_worked_at
+Pvt	Companies_worked_at
+Ltd	Companies_worked_at
 .	O
 (through	O
 Trigent	O
@@ -11995,7 +11994,7 @@ and	O
 Automation	O
 Scripting.	O
 (September	O
-2017	Graduation Year
+2017	Graduation_Year
 onwards)	O
 Perform	O
 automation	O
@@ -12014,10 +12013,10 @@ EDUCATION	O
 B.E.	Degree
 in	Degree
 ENC	Degree
-North	College Name
-Maharashtra	College Name
-University	College Name
-2017	Graduation Year
+North	College_Name
+Maharashtra	College_Name
+University	College_Name
+2017	Graduation_Year
 Certificate	O
 Institute/Board	O
 Skills	O
@@ -12093,7 +12092,7 @@ Bollu	Name
 Software	Profil
 Engineer	Profil
 -	O
-Disney	Companies worked at
+Disney	Companies_worked_at
 Hyderabad	Location
 	O
 Telangana	O
@@ -12414,9 +12413,9 @@ LAMP	O
 Software	Profil
 Engineer	Profil
 https://www.indeed.com/r/Rahul-Bollu/dc40f5ce78045741?isid=rex-download&ikw=download-top&co=IN	O
-HCL	Companies worked at
-Technologies	Companies worked at
--	Companies worked at
+HCL	Companies_worked_at
+Technologies	Companies_worked_at
+-	Companies_worked_at
 September	O
 2014	O
 to	O
@@ -12527,7 +12526,7 @@ its	O
 infrastructure).	O
 Process	Profil
 Associate	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 July	O
 2013	O
@@ -12602,12 +12601,12 @@ EDUCATION	O
 Bachelor	Degree
 Of	Degree
 Science	Degree
-Vaughn	College Name
-College	College Name
-of	College Name
-Aeronautics	College Name
-and	College Name
-Technology	College Name
+Vaughn	College_Name
+College	College_Name
+of	College_Name
+Aeronautics	College_Name
+and	College_Name
+Technology	College_Name
 Skills	O
 AWS	Skills
 (3	Skills
@@ -12659,8 +12658,8 @@ Senior	Profil
 Associate	Profil
 Consultant	Profil
 -	O
-Infosys/Offshore	Companies worked at
-Lead	Companies worked at
+Infosys/Offshore	Companies_worked_at
+Lead	Companies_worked_at
 Bengaluru	Location
 	O
 Karnataka	O
@@ -12668,8 +12667,8 @@ Karnataka	O
 Email	O
 me	O
 on	O
-Indeed:	Email Address
-indeed.com/r/Rajeev-Kumar/3f560fd91275495b	Email Address
+Indeed:	Email_Address
+indeed.com/r/Rajeev-Kumar/3f560fd91275495b	Email_Address
 An	O
 erudite	O
 professional	O
@@ -12808,9 +12807,9 @@ Associate	Profil
 Consul	Profil
 t	Profil
 a	O
-nt	Companies worked at
-Infosys	Companies worked at
-Lim	Companies worked at
+nt	Companies_worked_at
+Infosys	Companies_worked_at
+Lim	Companies_worked_at
 ited	O
 -	O
 Bangalore	O
@@ -12864,11 +12863,11 @@ graphy	Profil
 Associate	Profil
 Con	Profil
 s	O
-ultant	Companies worked at
-Infosys	Companies worked at
--	Companies worked at
-Pune	Companies worked at
-Mahara	Companies worked at
+ultant	Companies_worked_at
+Infosys	Companies_worked_at
+-	Companies_worked_at
+Pune	Companies_worked_at
+Mahara	Companies_worked_at
 shtra	O
 -	O
 May	O
@@ -13253,14 +13252,14 @@ Software	Profil
 Development	Profil
 Director	Profil
 -	Profil
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ram-Edupuganti/3ecdecbcba549e21	Email Address
+indeed.com/r/Ram-Edupuganti/3ecdecbcba549e21	Email_Address
 
 Offering	O
 over	O
@@ -13452,15 +13451,15 @@ EXPERIENCE	O
 Software	Profil
 Development	Profil
 Director	Profil
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 April	O
 2015	O
 to	O
 Present	O
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 January	O
 1998	O
@@ -13468,8 +13467,8 @@ to	O
 Present	O
 98	O
 with	O
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 .	O
 Growth	O
 Path	O
@@ -13478,8 +13477,8 @@ Deputations:	O
 Senior	Profil
 Development	Profil
 Manager	Profil
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 December	O
 2011	O
@@ -13489,8 +13488,8 @@ March	O
 Senior	Profil
 Development	Profil
 Manager	Profil
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 March	O
 2010	O
@@ -13501,8 +13500,8 @@ https://www.indeed.com/r/Ram-Edupuganti/3ecdecbcba549e21?isid=rex-download&ikw=d
 Principal	Profil
 Applications	Profil
 Developer	Profil
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 September	O
 2004	O
@@ -13511,8 +13510,8 @@ February	O
 2010	O
 Project	Profil
 Lead	Profil
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 September	O
 1999	O
@@ -13522,8 +13521,8 @@ August	O
 Senior	O
 Software	O
 Developer	O
-Oracle	Companies worked at
-Inc	Companies worked at
+Oracle	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 January	O
 1998	O
@@ -13902,22 +13901,22 @@ M.S.	Degree
 in	Degree
 Computer	Degree
 Engineering	Degree
-Texas	College Name
-A&M	College Name
-University	College Name
--	College Name
-Kingsville	College Name
-TX	College Name
-1994	Graduation Year
+Texas	College_Name
+A&M	College_Name
+University	College_Name
+-	College_Name
+Kingsville	College_Name
+TX	College_Name
+1994	Graduation_Year
 B.S.	Degree
 in	Degree
 Electronics	Degree
 &	Degree
 Communications	Degree
 Engineering	Degree
-Nagarjuna	College Name
-University	College Name
-1992	Graduation Year
+Nagarjuna	College_Name
+University	College_Name
+1992	Graduation_Year
 Skills	O
 SOFTWARE	O
 DEVELOPMENT	O
@@ -13987,7 +13986,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ramesh-HP/95fc615713630c4e	Email Address
+indeed.com/r/Ramesh-HP/95fc615713630c4e	Email_Address
 
 4	O
 years	O
@@ -14119,8 +14118,8 @@ EXPERIENCE	O
 CES	Profil
 ASSOCIATE	Profil
 CONSULTANT	Profil
-SAP	Companies worked at
-ARIBA	Companies worked at
+SAP	Companies_worked_at
+ARIBA	Companies_worked_at
 -	O
 November	O
 2016	O
@@ -14279,7 +14278,7 @@ client	O
 management	O
 team.	O
 https://www.	O
-indeed.com/r/Ramesh-HP/95fc615713630c4e	Email Address
+indeed.com/r/Ramesh-HP/95fc615713630c4e	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 Responsible	O
@@ -14318,11 +14317,11 @@ MCA	Degree
 in	Degree
 COMPUTER	Degree
 APPLICATION	Degree
-Dayananda	College Name
-Sagar	College Name
-College	College Name
-of	College Name
-Engineering	College Name
+Dayananda	College_Name
+Sagar	College_Name
+College	College_Name
+of	College_Name
+Engineering	College_Name
 -	O
 Bengaluru	O
 Karnataka	O
@@ -14331,9 +14330,9 @@ OF	Degree
 SCIENCE	Degree
 in	Degree
 Electronics	Degree
-Govt	College Name
-Science	College Name
-College	College Name
+Govt	College_Name
+Science	College_Name
+College	College_Name
 -	O
 Hassan	O
 Karnataka	O
@@ -14424,7 +14423,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ramya-P/00f125c7b9b95a35	Email Address
+indeed.com/r/Ramya-P/00f125c7b9b95a35	Email_Address
 (	O
 2	O
 year	O
@@ -14433,7 +14432,7 @@ Duration)	O
 Working	O
 currently	O
 with	O
-Accenture	Companies worked at
+Accenture	Companies_worked_at
 services	O
 Pune	O
 as	O
@@ -14443,7 +14442,7 @@ Test	O
 Engineer	O
 with	O
 Client	O
-Accenture	Companies worked at
+Accenture	Companies_worked_at
 on	O
 British	O
 Telecom	O
@@ -14604,14 +14603,14 @@ WORK	O
 EXPERIENCE	O
 Software	Profil
 Engineer	Profil
-Accenture	Companies worked at
+Accenture	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
 Telangana	O
 -	O
 December	O
-2015	Graduation Year
+2015	Graduation_Year
 to	O
 Present	O
 BT	O
@@ -14926,17 +14925,17 @@ BSc	Degree
 in	Degree
 Computer	Degree
 Science	Degree
-vasundhara	College Name
-womens	College Name
-2015	Graduation Year
-narayana	College Name
-jr.college	College Name
-2012	Graduation Year
+vasundhara	College_Name
+womens	College_Name
+2015	Graduation_Year
+narayana	College_Name
+jr.college	College_Name
+2012	Graduation_Year
 SSC	O
-pragathi	College Name
-high	College Name
-school	College Name
-2010	Graduation Year
+pragathi	College_Name
+high	College_Name
+school	College_Name
+2010	Graduation_Year
 Skills	O
 Black	Skills
 Box	Skills
@@ -15008,7 +15007,7 @@ Management	O
 Tools:	O
 AIT	O
 (	O
-Accenture	Companies worked at
+Accenture	Companies_worked_at
 Intelligent	O
 Testing)	O
 QC	O
@@ -15106,7 +15105,7 @@ as	Profil
 Escalation	Profil
 Engineer	Profil
 with	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 .	O
 Pune	Location
 	O
@@ -15116,11 +15115,11 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ravi-Shankar/befa180dc0449299	Email Address
+indeed.com/r/Ravi-Shankar/befa180dc0449299	Email_Address
 
 Working	O
 in	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 EPS	O
 (SCS-MON)	O
@@ -15178,7 +15177,7 @@ WORK	O
 EXPERIENCE	O
 Escalation	O
 Engineer	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Working	O
 on	O
 escalated	O
@@ -15211,7 +15210,7 @@ as	O
 a	O
 Support	O
 Engineer	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 Pune	Location
 	O
@@ -15259,7 +15258,7 @@ responsibilities:	O
 
 Working	O
 in	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Commercial	O
 Technical	O
 Support	O
@@ -15355,7 +15354,7 @@ and	O
 Orchestrator	O
 platform	O
 for	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 customers.	O
 
 My	O
@@ -15403,7 +15402,7 @@ Web	O
 Application	O
 monitoring	O
 https://www.	O
-indeed.com/r/Ravi-Shankar/befa180dc0449299	Email Address
+indeed.com/r/Ravi-Shankar/befa180dc0449299	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 Custom	O
@@ -15451,10 +15450,10 @@ Orchestrator	O
 Deployment	O
 of	O
 various	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 and	O
 Non-	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Integration	O
 Packs	O
 
@@ -15507,8 +15506,8 @@ Jobs	O
 issues	O
 EDUCATION	O
 B.E.	Degree
-Pune	College Name
-University	College Name
+Pune	College_Name
+University	College_Name
 Skills	O
 OPERATIONS	Skills
 MANAGER	Skills
@@ -15532,7 +15531,7 @@ Skills	O
 Operating	O
 systems	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Windows	O
 Server	O
 2012	O
@@ -15542,7 +15541,7 @@ Server	O
 /2003	O
 (R2)	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Windows	O
 Win8.1/Win8/Win7/Vista/XP	O
 
@@ -15558,7 +15557,7 @@ Hat/Fedora	O
 Server	O
 Applications	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 System	O
 Center	O
 Operations	O
@@ -15571,7 +15570,7 @@ SCOM	Skills
 
 R2	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 System	O
 Center	O
 Service	O
@@ -15581,7 +15580,7 @@ Manager	O
 /2012	O
 R2/2012	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 System	O
 Center	O
 Orchestrator	O
@@ -15589,14 +15588,14 @@ Orchestrator	O
 /2012	O
 R2/2012	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 SQL	O
 
 R2	O
 Virtual	O
 Appliances	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Hyper-V	O
 
 VMware	O
@@ -15606,7 +15605,7 @@ VirtualBox	O
 Other	O
 Applications	O
 
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Office	O
 
 
@@ -15617,7 +15616,7 @@ on	O
 Forefront	O
 Identity	O
 Manager	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Identity	O
 Manager	O
 Forefront	O
@@ -15644,7 +15643,7 @@ knowledge	O
 of	O
 basics	O
 of	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Active	O
 Directory	O
 
@@ -15654,7 +15653,7 @@ of	O
 Windows	O
 Failover	O
 Clusters	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Exchange	O
 and	O
 IIS.	O
@@ -15669,7 +15668,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ravi-Shivgond/4018c67548312089	Email Address
+indeed.com/r/Ravi-Shivgond/4018c67548312089	Email_Address
 To	O
 associate	O
 with	O
@@ -15711,7 +15710,7 @@ EXPERIENCE	O
 Technical	Profil
 Support	Profil
 Engineer	Profil
-SAP	Companies worked at
+SAP	Companies_worked_at
 -	O
 Bengaluru	O
 Karnataka	O
@@ -15734,10 +15733,10 @@ rejoin	O
 that	O
 job	O
 EDUCATION	O
-Govt.	College Name
-High	College Name
-school	College Name
-Yernalli	College Name
+Govt.	College_Name
+High	College_Name
+school	College_Name
+Yernalli	College_Name
 B.E.	Degree
 in	Degree
 Electrical	Degree
@@ -15860,7 +15859,7 @@ using	O
 wireless	O
 RF.	O
 https://www.	O
-indeed.com/r/Ravi-Shivgond/4018c67548312089	Email Address
+indeed.com/r/Ravi-Shivgond/4018c67548312089	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 ?	O
 Main	O
@@ -15977,8 +15976,8 @@ Developer/Senior	Profil
 Systems	Profil
 Engineer	Profil
 -	O
-INFOSYS	Companies worked at
-LIMITED	Companies worked at
+INFOSYS	Companies_worked_at
+LIMITED	Companies_worked_at
 Itarsi	Location
 	O
 Madhya	O
@@ -16044,8 +16043,8 @@ JAVA	Profil
 Developer/Senior	Profil
 Systems	Profil
 Engineer	Profil
-INFOSYS	Companies worked at
-LIMITED	Companies worked at
+INFOSYS	Companies_worked_at
+LIMITED	Companies_worked_at
 -	O
 Pune	O
 Maharashtra	O
@@ -16274,17 +16273,17 @@ AQC	O
 project	O
 JAVA	O
 Intern	O
-INFOSYS	Companies worked at
-LIMITED	Companies worked at
+INFOSYS	Companies_worked_at
+LIMITED	Companies_worked_at
 -	O
 Mysore	O
 Karnataka	O
 -	O
 June	O
-2015	Graduation Year
+2015	Graduation_Year
 to	O
 November	O
-2015	Graduation Year
+2015	Graduation_Year
 https://www.indeed.com/r/Rohit-Bijlani/06ecf59ddac448c7?isid=rex-download&ikw=download-top&co=IN	O
 Undergone	O
 6	O
@@ -16321,14 +16320,14 @@ Engineering	Degree
 in	Degree
 Mechanical	Degree
 Eng	Degree
-ITM	College Name
-University	College Name
-Gwalior	College Name
+ITM	College_Name
+University	College_Name
+Gwalior	College_Name
 -	O
 Gwalior	O
 Madhya	O
 Pradesh	O
-2015	Graduation Year
+2015	Graduation_Year
 Skills	O
 J2Ee	O
 Sql	O
@@ -16369,8 +16368,8 @@ Sinha	Name
 Application	Profil
 Developer	Profil
 -	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 Kolkata	Location
 	O
 West	O
@@ -16380,7 +16379,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Roshan-Sinha/ab398efcd288724f	Email Address
+indeed.com/r/Roshan-Sinha/ab398efcd288724f	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -16400,8 +16399,8 @@ WORK	O
 EXPERIENCE	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16466,8 +16465,8 @@ programming	O
 language.	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16506,8 +16505,8 @@ Data	O
 Interfaces.	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 July	O
 2016	O
@@ -16528,8 +16527,8 @@ Credit/Invoice	O
 Note	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16542,7 +16541,7 @@ to	O
 June	O
 2017	O
 https://www.	O
-indeed.com/r/Roshan-Sinha/ab398efcd288724f	Email Address
+indeed.com/r/Roshan-Sinha/ab398efcd288724f	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 from	O
 Repacking	O
@@ -16565,8 +16564,8 @@ Goods	O
 Issue.	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16596,8 +16595,8 @@ C/F	O
 Forms.	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16631,8 +16630,8 @@ CK2/CK3	O
 Interface	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Bengaluru	O
 Karnataka	O
@@ -16715,8 +16714,8 @@ CRM	O
 WEBUI	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16749,8 +16748,8 @@ Search	O
 Help.	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16799,8 +16798,8 @@ TAX	O
 Form.	O
 Application	Profil
 Developer	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Kolkata	Location
 	O
@@ -16825,14 +16824,14 @@ EDUCATION	O
 B.Tech	Degree
 in	Degree
 Technology	Degree
-Anna	College Name
-University	College Name
-Chennai	College Name
+Anna	College_Name
+University	College_Name
+Chennai	College_Name
 -	O
 Chennai	O
 Tamil	O
 Nadu	O
-2010	Graduation Year
+2010	Graduation_Year
 Skills	O
 Sap	O
 Abap	O
@@ -16850,14 +16849,14 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sai-Dhir/e6ed06ed081f04cf	Email Address
+indeed.com/r/Sai-Dhir/e6ed06ed081f04cf	Email_Address
 WORK	O
 EXPERIENCE	O
-Sasken	Companies worked at
-Technologies	Companies worked at
-Pvt.	Companies worked at
-Ltd	Companies worked at
--	Companies worked at
+Sasken	Companies_worked_at
+Technologies	Companies_worked_at
+Pvt.	Companies_worked_at
+Ltd	Companies_worked_at
+-	Companies_worked_at
 Pune	Location
 	O
 Maharashtra	O
@@ -16866,8 +16865,8 @@ January	O
 2017	O
 to	O
 Present	O
-ORACLE	Companies worked at
--	Companies worked at
+ORACLE	Companies_worked_at
+-	Companies_worked_at
 January	O
 2011	O
 to	O
@@ -16969,13 +16968,13 @@ methods	O
 Inside	O
 Order	O
 Invoice	O
-ORACLE	Companies worked at
--	Companies worked at
+ORACLE	Companies_worked_at
+-	Companies_worked_at
 Gurgaon	O
 Haryana	O
 -	O
 October	O
-2016	Graduation Year
+2016	Graduation_Year
 to	O
 January	O
 2017	O
@@ -16986,8 +16985,8 @@ Manager	O
 Karizma	O
 Order	O
 System	O
-ORACLE	Companies worked at
--	Companies worked at
+ORACLE	Companies_worked_at
+-	Companies_worked_at
 March	O
 2011	O
 to	O
@@ -17108,7 +17107,7 @@ case	O
 regarding	O
 it.	O
 https://www.	O
-indeed.com/r/Sai-Dhir/e6ed06ed081f04cf	Email Address
+indeed.com/r/Sai-Dhir/e6ed06ed081f04cf	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 PMJJ	O
 BY:	O
@@ -17202,7 +17201,7 @@ asia	O
 EDUCATION	O
 Client-Server	Degree
 Architecture	Degree
-CDAC	College Name
+CDAC	College_Name
 -	O
 Mohali	O
 Punjab	O
@@ -17215,25 +17214,25 @@ of	Degree
 Engineering	Degree
 in	Degree
 Engineering	Degree
-Punjab	College Name
-Technical	College Name
-University	College Name
-(PTU)	College Name
+Punjab	College_Name
+Technical	College_Name
+University	College_Name
+(PTU)	College_Name
 Jalhandar	O
 2012	O
 to	O
-2016	Graduation Year
+2016	Graduation_Year
 B.E	O
-Punjab	College Name
-Technical	College Name
-University	College Name
+Punjab	College_Name
+Technical	College_Name
+University	College_Name
 2012	O
 to	O
-2016	Graduation Year
+2016	Graduation_Year
 Android	Degree
-CDAC	College Name
-Mohali	College Name
--	College Name
+CDAC	College_Name
+Mohali	College_Name
+-	College_Name
 Mohali	O
 Punjab	O
 Skills	O
@@ -17305,8 +17304,8 @@ ESB	Profil
 Integration	Profil
 Developer	Profil
 -	O
-Cisco	Companies worked at
-Systems	Companies worked at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
 Hyderabad	Location
 	O
 Telangana	O
@@ -17315,7 +17314,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sai-Patha/981ba615ab108e29	Email Address
+indeed.com/r/Sai-Patha/981ba615ab108e29	Email_Address
 
 6+	O
 years	O
@@ -17820,8 +17819,8 @@ Mule	Profil
 ESB	Profil
 Integration	Profil
 Developer	Profil
-Cisco	Companies worked at
-Systems	Companies worked at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
 -	O
 San	O
 Jose	O
@@ -17999,8 +17998,8 @@ Mule	O
 Soft	O
 Team	O
 Lead	O
-Cisco	Companies worked at
-Systems	Companies worked at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
 -	O
 San	O
 Jose	O
@@ -18192,8 +18191,8 @@ Mule	O
 Soft	O
 Team	O
 Lead	O
-Cisco	Companies worked at
-Systems	Companies worked at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
 -	O
 San	O
 Jose	O
@@ -18439,8 +18438,8 @@ ESB	O
 Servers.	O
 Technology	O
 Analyst	O
-Cisco	Companies worked at
-Systems	Companies worked at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
 -	O
 San	O
 Jose	O
@@ -18724,8 +18723,8 @@ uRelease.	O
 Sr.	O
 Software	Profil
 Engineer	Profil
-Cisco	Companies worked at
-Systems	Companies worked at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
 -	O
 San	O
 Jose	O
@@ -18861,8 +18860,8 @@ Kintana	O
 Toad.	O
 Software	Profil
 Engineer	Profil
-Cisco	Companies worked at
-Systems	Companies worked at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
 -	O
 San	O
 Jose	O
@@ -18959,12 +18958,12 @@ Tableau	O
 Xcelsius.	O
 Software	Profil
 Engineer	Profil
-Arrow	Companies worked at
-Electronics	Companies worked at
-Inc	Companies worked at
+Arrow	Companies_worked_at
+Electronics	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 August	O
-2011	Graduation Year
+2011	Graduation_Year
 to	O
 March	O
 2012	O
@@ -19029,13 +19028,13 @@ of	Degree
 Technology	Degree
 in	Degree
 Technology	Degree
-Amrita	College Name
-School	College Name
-of	College Name
-Engineering	College Name
+Amrita	College_Name
+School	College_Name
+of	College_Name
+Engineering	College_Name
 2007	O
 to	O
-2011	Graduation Year
+2011	Graduation_Year
 Skills	O
 ORACLE	Skills
 (3	Skills
@@ -19169,8 +19168,8 @@ years	Duration
 of	O
 experience	O
 in	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 handling	O
 and	O
 managing	O
@@ -19198,8 +19197,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sai-Vivek-Venkatraman/	Email Address
-a009f49bfe728ad1	Email Address
+indeed.com/r/Sai-Vivek-Venkatraman/	Email_Address
+a009f49bfe728ad1	Email_Address
 for	O
 excellence	O
 in	O
@@ -19339,8 +19338,8 @@ Manager	Profil
 /	Profil
 Technology	Profil
 Lead	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 February	O
 2015	O
@@ -19500,8 +19499,8 @@ Manager	Profil
 /	Profil
 Technology	Profil
 Lead	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 February	O
 2015	O
@@ -19666,8 +19665,8 @@ Technology	Profil
 Lead	Profil
 /	Profil
 Analyst	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 
 Key	O
 responsibilities	O
@@ -19798,11 +19797,11 @@ Business	Degree
 Intelligence	Degree
 in	Degree
 BUSINESS	Degree
-Great	College Name
-Lakes	College Name
-Institute	College Name
-Of	College Name
-Management	College Name
+Great	College_Name
+Lakes	College_Name
+Institute	College_Name
+Of	College_Name
+Management	College_Name
 -	O
 Chennai	Location
 	O
@@ -19810,7 +19809,7 @@ Tamil	O
 Nadu	O
 2017	O
 to	O
-2018	Graduation Year
+2018	Graduation_Year
 BACHELOR	Degree
 OF	Degree
 ENGINEERING	Degree
@@ -19819,14 +19818,14 @@ ELECTRONICS	Degree
 &	Degree
 COMMUNICATION	Degree
 ENGINEERING	Degree
-Adhiparasakthi	College Name
-Engineering	College Name
-College	College Name
-(Anna	College Name
-University)	College Name
+Adhiparasakthi	College_Name
+Engineering	College_Name
+College	College_Name
+(Anna	College_Name
+University)	College_Name
 2001	O
 to	O
-2005	Graduation Year
+2005	Graduation_Year
 IBM	O
 Jazz	O
 Quality	O
@@ -19841,12 +19840,12 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sameer-Kujur/0771f65bfa7aff96	Email Address
+indeed.com/r/Sameer-Kujur/0771f65bfa7aff96	Email_Address
 WORK	O
 EXPERIENCE	O
 App	Profil
 develop	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 August	O
 2016	O
@@ -19855,14 +19854,14 @@ Present	O
 EDUCATION	O
 Electrical	Degree
 engineering	Degree
-VSSUTburla	College Name
+VSSUTburla	College_Name
 Skills	O
 Application	Skills
 Development	Skills
 Software	Skills
 Testing	Skills
 https://www.	O
-indeed.com/r/Sameer-Kujur/0771f65bfa7aff96	Email Address
+indeed.com/r/Sameer-Kujur/0771f65bfa7aff96	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 Samyuktha	Name
@@ -19884,8 +19883,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Samyuktha-Shivakumar/	Email Address
-cabce09fe942cb85	Email Address
+indeed.com/r/Samyuktha-Shivakumar/	Email_Address
+cabce09fe942cb85	Email_Address
 WORK	O
 EXPERIENCE	O
 Marketing	O
@@ -20651,11 +20650,11 @@ Marketing	Degree
 and	Degree
 Human	Degree
 Resource	Degree
-Mount	College Name
-Carmel	College Name
-Institute	College Name
-of	College Name
-Management	College Name
+Mount	College_Name
+Carmel	College_Name
+Institute	College_Name
+of	College_Name
+Management	College_Name
 -	O
 Bengaluru	O
 Karnataka	O
@@ -20734,7 +20733,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Santosh-Ganta/4270d63f03e71ee8	Email Address
+indeed.com/r/Santosh-Ganta/4270d63f03e71ee8	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -20754,8 +20753,8 @@ EXPERIENCE	O
 Senior	Profil
 Systems	Profil
 Engineer	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 Chennai	O
 Tamil	O
@@ -20777,31 +20776,31 @@ B.Tech	Degree
 in	Degree
 Information	Degree
 Technology	Degree
-GMR	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
-and	College Name
-Management	College Name
+GMR	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
+and	College_Name
+Management	College_Name
 -	O
 Kakinada	O
 Andhra	O
 Pradesh	O
-2013	Graduation Year
-Pratibha	College Name
-Junior	College Name
-College	College Name
-2009	Graduation Year
+2013	Graduation_Year
+Pratibha	College_Name
+Junior	College_Name
+College	College_Name
+2009	Graduation_Year
 English	O
 Hindi	O
-S.R	College Name
-high	College Name
-School	College Name
--	College Name
-Chennai	College Name
-Tamil	College Name
-Nadu	College Name
-2006	Graduation Year
+S.R	College_Name
+high	College_Name
+School	College_Name
+-	College_Name
+Chennai	College_Name
+Tamil	College_Name
+Nadu	College_Name
+2006	Graduation_Year
 Skills	O
 CA7	Skills
 (4	Skills
@@ -20882,9 +20881,9 @@ Associate	Profil
 network	Profil
 engineer	Profil
 -	O
-TATA	Companies worked at
-Communications	Companies worked at
-Ltd	Companies worked at
+TATA	Companies_worked_at
+Communications	Companies_worked_at
+Ltd	Companies_worked_at
 Muzaffarpur	Location
 	O
 Bihar	O
@@ -21512,18 +21511,18 @@ of	Degree
 Commerce	Degree
 in	Degree
 Commerce	Degree
-R.D.S	College Name
-COLLEGE	College Name
+R.D.S	College_Name
+COLLEGE	College_Name
 -	O
 Bihar	O
 Sharif	O
 Bihar	O
 July	O
-2013	Graduation Year
+2013	Graduation_Year
 H.S.C	Degree
-Dr.	College Name
-R.M.L.S	College Name
-COLLEGE	College Name
+Dr.	College_Name
+R.M.L.S	College_Name
+COLLEGE	College_Name
 -	O
 Bihar	O
 Sharif	O
@@ -21732,14 +21731,14 @@ Senior	Profil
 Technical	Profil
 Lead	Profil
 -	O
-HCL	Companies worked at
-Cisco	Companies worked at
+HCL	Companies_worked_at
+Cisco	Companies_worked_at
 -	O
 Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Senthil-Kumar/d9d82865dd38d449	Email Address
+indeed.com/r/Senthil-Kumar/d9d82865dd38d449	Email_Address
 
 Result	O
 oriented	O
@@ -21841,7 +21840,7 @@ Senior	Profil
 Technical	Profil
 Lead	Profil
 HCL	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 -	O
 Bengaluru	O
 Karnataka	O
@@ -21860,7 +21859,7 @@ on	O
 ACI	O
 fabric	O
 for	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 IT	O
 and	O
 UCSD	O
@@ -21876,7 +21875,7 @@ Multi-POD	O
 environment	O
 
 Deployed	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 ACI	O
 Multi-Site	O
 Controller	O
@@ -21892,7 +21891,7 @@ Data	O
 centers	O
 
 Deployed	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 IT	O
 replica	O
 Setup	O
@@ -21901,7 +21900,7 @@ Local	O
 Lab	O
 
 Handling	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 IT	O
 customer	O
 network	O
@@ -21922,7 +21921,7 @@ to	O
 end	O
 testing	O
 of	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 IT	O
 test	O
 bed	O
@@ -21950,7 +21949,7 @@ manager	O
 APIC	O
 upgrade	O
 downgrade	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Nexus	O
 9k	O
 leaf	O
@@ -21976,7 +21975,7 @@ of	O
 VMware	O
 DVS	O
 and	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 AVS	O
 in	O
 Esxi	O
@@ -22050,7 +22049,7 @@ machines	O
 and	O
 Templates	O
 https://www.	O
-indeed.com/r/Senthil-Kumar/d9d82865dd38d449	Email Address
+indeed.com/r/Senthil-Kumar/d9d82865dd38d449	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 Migration	O
@@ -22071,7 +22070,7 @@ to	O
 VMware	O
 
 Testing	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 APIC	O
 with	O
 UCSD	O
@@ -22083,7 +22082,7 @@ Controller	O
 Technical	Profil
 Lead	Profil
 Aricent	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 -	O
 July	O
 2012	O
@@ -22091,7 +22090,7 @@ to	O
 September	O
 2015	O
 Client	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Systems	O
 Project	O
 Title:	O
@@ -22188,7 +22187,7 @@ Dot1ad	O
 
 Based	O
 on	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Resilient	O
 Ethernet	O
 Protocol	O
@@ -22323,8 +22322,8 @@ the	O
 product	O
 Technical	Profil
 Lead	Profil
-Aricent	Companies worked at
-Group	Companies worked at
+Aricent	Companies_worked_at
+Group	Companies_worked_at
 -	O
 December	O
 2011	O
@@ -22421,7 +22420,7 @@ Technical	Profil
 Lead	Profil
 (HCL)	O
 Client	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Systems	O
 -	O
 January	O
@@ -22429,7 +22428,7 @@ January	O
 to	O
 December	O
 2011	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 12000	O
 Gigabit	O
 Switching	O
@@ -22566,7 +22565,7 @@ Test	O
 Lead	O
 (HCL)	O
 Client	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 Systems	O
 -	O
 May	O
@@ -22709,7 +22708,7 @@ center	O
 Lab	O
 Administrator	O
 HCL	O
-Cisco	Companies worked at
+Cisco	Companies_worked_at
 -	O
 Chennai	O
 Tamil	O
@@ -22737,10 +22736,10 @@ Science	Degree
 in	Degree
 Computer	Degree
 Science	Degree
-Dr	College Name
-MGR	College Name
-University	College Name
-Chennai	College Name
+Dr	College_Name
+MGR	College_Name
+University	College_Name
+Chennai	College_Name
 -	O
 Chennai	O
 Tamil	O
@@ -22860,11 +22859,11 @@ Cat	Skills
 and	Skills
 3550	Skills
 Switches	Skills
-h	Companies worked at
-t	Companies worked at
-t	Companies worked at
-p	Companies worked at
-:	Companies worked at
+h	Companies_worked_at
+t	Companies_worked_at
+t	Companies_worked_at
+p	Companies_worked_at
+:	Companies_worked_at
 //www.linkedin.com/in/senthil-kumar-9600101b	O
 
 Shabnam	Name
@@ -22881,8 +22880,8 @@ Karnataka	O
 Email	O
 me	O
 on	O
-Indeed:	Email Address
-indeed.com/r/Shabnam-Saba/dc70fc366accb67f	Email Address
+Indeed:	Email_Address
+indeed.com/r/Shabnam-Saba/dc70fc366accb67f	Email_Address
 To	O
 understand	O
 the	O
@@ -22954,8 +22953,8 @@ SAP	Profil
 CRM	Profil
 Functional	Profil
 Consultant	Profil
-SAP	Companies worked at
-AG	Companies worked at
+SAP	Companies_worked_at
+AG	Companies_worked_at
 -	O
 July	O
 2014	O
@@ -23069,8 +23068,8 @@ the	O
 tickets.	O
 Quality	Profil
 Engineer	Profil
-SAP	Companies worked at
-Labs	Companies worked at
+SAP	Companies_worked_at
+Labs	Companies_worked_at
 -	O
 July	O
 2002	O
@@ -23110,8 +23109,8 @@ Role	O
 Functional	O
 Consultant	O
 https://www.indeed.com/r/Shabnam-Saba/dc70fc366accb67f?isid=rex-download&ikw=download-top&co=IN	O
-SAP	Companies worked at
-Labs	Companies worked at
+SAP	Companies_worked_at
+Labs	Companies_worked_at
 -	O
 March	O
 2012	O
@@ -23230,8 +23229,8 @@ CRM	O
 '2011-June	O
 2014	O
 Client:	O
-SAP	Companies worked at
-Labs	Companies worked at
+SAP	Companies_worked_at
+Labs	Companies_worked_at
 India	O
 Role:	O
 Functional	O
@@ -23330,16 +23329,16 @@ EDUCATION	O
 B.E	Degree
 in	Degree
 CSE	Degree
-Padmanava	College Name
-College	College Name
-of	College Name
-Engineering	College Name
-2009	Graduation Year
-St.	College Name
-Joseph's	College Name
-convent	College Name
-school	College Name
-2003	Graduation Year
+Padmanava	College_Name
+College	College_Name
+of	College_Name
+Engineering	College_Name
+2009	Graduation_Year
+St.	College_Name
+Joseph's	College_Name
+convent	College_Name
+school	College_Name
+2003	Graduation_Year
 Skills	O
 CRM	Skills
 (10+	Skills
@@ -23753,8 +23752,8 @@ Smartforms)	O
 
 Shaheen	Name
 Unissa	Name
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 Consultant	Profil
 Hyderabad	Location
 	O
@@ -23764,8 +23763,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Shaheen-Unissa/	Email Address
-c54e7a04da30c354	Email Address
+indeed.com/r/Shaheen-Unissa/	Email_Address
+c54e7a04da30c354	Email_Address
 
 Having	O
 8	Duration
@@ -23776,8 +23775,8 @@ in	O
 IT	O
 industry	O
 as	O
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 Developer.	O
 She	O
 was	O
@@ -23936,8 +23935,8 @@ May/2008	O
 May/2016	O
 WORK	O
 EXPERIENCE	O
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 Consultant	Profil
 AcelorMittal	O
 -	O
@@ -24074,8 +24073,8 @@ MM	O
 and	O
 SD.	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 BADI	O
 MADHYA	O
@@ -24381,8 +24380,8 @@ RFX	O
 responses	O
 rejected.	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 December	O
 2011	O
@@ -24567,8 +24566,8 @@ SD	O
 and	O
 IS-Oil.	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 July	O
 2011	O
@@ -24695,8 +24694,8 @@ PM	O
 and	O
 SD.	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Bangalore	O
 Karnataka	O
@@ -24853,8 +24852,8 @@ ECC	O
 
 PM	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 May	O
 2010	O
@@ -24997,8 +24996,8 @@ Handling	O
 over	O
 documentation	O
 Consultant	Profil
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 -	O
 Marmagao	O
 Goa	O
@@ -25451,8 +25450,8 @@ FICO	O
 PM	O
 RE	O
 POS	O
-SAP	Companies worked at
-ABAP	Companies worked at
+SAP	Companies_worked_at
+ABAP	Companies_worked_at
 Consultant	Profil
 8	O
 Federal	O
@@ -25603,11 +25602,11 @@ PP	O
 OTC	O
 EDUCATION	O
 B-TECH	Degree
-JAWAHARLAL	College Name
-NEHRU	College Name
-TECHNOLOGICAL	College Name
-UNIVERSITY	College Name
-2005	Graduation Year
+JAWAHARLAL	College_Name
+NEHRU	College_Name
+TECHNOLOGICAL	College_Name
+UNIVERSITY	College_Name
+2005	Graduation_Year
 ADDITIONAL	O
 INFORMATION	O
 SAP	O
@@ -25689,7 +25688,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sharan-Adla/3a382a7b7296a764	Email Address
+indeed.com/r/Sharan-Adla/3a382a7b7296a764	Email_Address
 
 Having	O
 4yrs.	Duration
@@ -25939,7 +25938,7 @@ Marketing	O
 Automation	O
 Tool	O
 https://www.	O
-indeed.com/r/Sharan-Adla/3a382a7b7296a764	Email Address
+indeed.com/r/Sharan-Adla/3a382a7b7296a764	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 Oracle	O
 Eloqua	O
@@ -25996,13 +25995,13 @@ Bachelors	Degree
 in	Degree
 Computer	Degree
 Science	Degree
-M.	College Name
-V.	College Name
-G.	College Name
-R	College Name
-College	College Name
-of	College Name
-Engineering	College Name
+M.	College_Name
+V.	College_Name
+G.	College_Name
+R	College_Name
+College	College_Name
+of	College_Name
+Engineering	College_Name
 -	O
 Vizianagaram	O
 Andhra	O
@@ -26011,20 +26010,20 @@ December	O
 2008	O
 MPC	Degree
 subject	Degree
-Gowtham	College Name
-Jr.	College Name
-College	College Name
--	College Name
+Gowtham	College_Name
+Jr.	College_Name
+College	College_Name
+-	College_Name
 Vijayawada	O
 Andhra	O
 Pradesh	O
 August	O
 2006	O
 SSC	Degree
-Vignan	College Name
-Vidyalayam	College Name
-High	College Name
-School	College Name
+Vignan	College_Name
+Vidyalayam	College_Name
+High	College_Name
+School	College_Name
 -	O
 Visakhapatnam	O
 Andhra	O
@@ -26055,10 +26054,10 @@ Velocity	Skills
 Web	Skills
 Development	Skills
 at	O
-Amazon	Companies worked at
-Development	Companies worked at
-Centre	Companies worked at
-.	Companies worked at
+Amazon	Companies_worked_at
+Development	Companies_worked_at
+Centre	Companies_worked_at
+.	Companies_worked_at
 Bangalore	O
 Karnataka	O
 -	O
@@ -26066,8 +26065,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Shreyanshu-	Email Address
-Gupta/6bd08d76c29d63c7	Email Address
+indeed.com/r/Shreyanshu-	Email_Address
+Gupta/6bd08d76c29d63c7	Email_Address
 Self-Motivated	O
 and	O
 Hardworking	O
@@ -26094,16 +26093,16 @@ EXPERIENCE	O
 Software	Profil
 Development	Profil
 Engineer	Profil
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Interned	O
 at	O
-Amazon	Companies worked at
-Development	Companies worked at
-Centre	Companies worked at
+Amazon	Companies_worked_at
+Development	Companies_worked_at
+Centre	Companies_worked_at
 for	O
 6	Duration
 months	Duration
-2017	Graduation Year
+2017	Graduation_Year
 Projects	O
 did	O
 during	O
@@ -26114,9 +26113,9 @@ Migration	O
 from	O
 TypePad	O
 to	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 -	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 owns	O
 a	O
 blog	O
@@ -26162,7 +26161,7 @@ TypePad	O
 content	O
 to	O
 the	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 -owned	O
 platform	O
 maintaining	O
@@ -26177,7 +26176,7 @@ Templating	O
 Language	O
 Java	Skills
 	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Tools	O
 and	O
 Many	O
@@ -26194,7 +26193,7 @@ some	O
 recent	O
 changes	O
 in	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 configuration	O
 there	O
 was	O
@@ -26243,18 +26242,18 @@ Java	Skills
 configuration	O
 files	O
 and	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Tools.	O
 
 Physical	O
 to	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Video	O
 Conversion	O
 -	O
 To	O
 promote	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Video	O
 Over	O
 Physical	O
@@ -26315,16 +26314,16 @@ B.Tech	Degree
 in	O
 Computer	O
 Science	O
-Kalinga	College Name
-Institute	College Name
-of	College Name
-Industrial	College Name
-Technology	College Name
+Kalinga	College_Name
+Institute	College_Name
+of	College_Name
+Industrial	College_Name
+Technology	College_Name
 July	O
 2013	O
 to	O
 April	O
-2017	Graduation Year
+2017	Graduation_Year
 Skills	O
 ANDROID	Skills
 (Less	O
@@ -26386,7 +26385,7 @@ Online	Profil
 Content	Profil
 Writer	Profil
 for	O
-Greymeter.com	Companies worked at
+Greymeter.com	Companies_worked_at
 .	O
 Android	Skills
 Application	O
@@ -26412,11 +26411,11 @@ Migration	O
 from	O
 TypePad	O
 to	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 https://www.amazonbookreview.com	O
 July	O
 2017	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 owns	O
 a	O
 blog	O
@@ -26462,7 +26461,7 @@ TypePad	O
 content	O
 to	O
 the	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 owned	O
 platform	O
 while	O
@@ -26478,7 +26477,7 @@ Templating	O
 Language	O
 Java	Skills
 	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Tools	O
 and	O
 Many	O
@@ -26498,7 +26497,7 @@ some	O
 recent	O
 changes	O
 in	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 configuration	O
 files	O
 there	O
@@ -26547,11 +26546,11 @@ Java	Skills
 configuration	O
 files	O
 and	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Tools.	O
 Physical	O
 to	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Video	O
 Conversion	O
 July	O
@@ -26559,7 +26558,7 @@ July	O
 -	O
 To	O
 promote	O
-Amazon	Companies worked at
+Amazon	Companies_worked_at
 Video	O
 Over	O
 Physical	O
@@ -26657,8 +26656,8 @@ Mittal	Name
 System	Profil
 Engineer	Profil
 -	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 Mysore	Location
 	O
 Karnataka	O
@@ -26667,7 +26666,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Shubham-Mittal/4b29ab0545b0f67f	Email Address
+indeed.com/r/Shubham-Mittal/4b29ab0545b0f67f	Email_Address
 
 Having	O
 2.0	Duration
@@ -26933,22 +26932,22 @@ Mysore	Location
 Karnataka	O
 -	O
 June	O
-2016	Graduation Year
+2016	Graduation_Year
 to	O
 Present	O
 EDUCATION	O
 B.Tech	Degree
 in	Degree
 EEE	Degree
-National	College Name
-Institute	College Name
-Of	College Name
-Technology	College Name
-2016	Graduation Year
-St.	College Name
-John's	College Name
-School	College Name
-2009	Graduation Year
+National	College_Name
+Institute	College_Name
+Of	College_Name
+Technology	College_Name
+2016	Graduation_Year
+St.	College_Name
+John's	College_Name
+School	College_Name
+2009	Graduation_Year
 Skills	O
 Html	Skills
 Css	Skills
@@ -26995,8 +26994,8 @@ WORK	O
 EXPERIENCE	O
 DevOps	Profil
 Consultant	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 December	O
 2016	O
@@ -27222,8 +27221,8 @@ Studio	O
 Octopus	O
 Technology	Profil
 Analyst	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 Chennai	Location
 	O
@@ -27243,10 +27242,10 @@ Control	Degree
 Engineering"	Degree
 https://www.indeed.com/r/Sivaganesh-Selvakumar/2d20204ef7c22049?isid=rex-download&ikw=download-top&co=IN	O
 https://www.indeed.com/r/Sivaganesh-Selvakumar/2d20204ef7c22049?isid=rex-download&ikw=download-top&co=IN	O
-Saranathan	College Name
-College	College Name
-of	College Name
-Engineering	College Name
+Saranathan	College_Name
+College	College_Name
+of	College_Name
+Engineering	College_Name
 -	O
 Tiruchchirappalli	O
 Tamil	O
@@ -27307,8 +27306,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Soumya-	Email Address
-Balan/97ead9542c575355	Email Address
+indeed.com/r/Soumya-	Email_Address
+Balan/97ead9542c575355	Email_Address
 ?	O
 To	O
 work	O
@@ -27337,23 +27336,23 @@ EXPERIENCE	O
 Technical	Profil
 support	Profil
 engineer	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Position:	O
 TECHNICAL	O
 SUPPORT	O
 ENGINEER	O
 Company:	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Corporation	O
 -	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 India	O
 Global	O
 Technical	O
 Support	O
 Center	O
 (	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 IGTSC)	O
 Bangalore	O
 Years	O
@@ -27367,7 +27366,7 @@ Months	O
 Responsibilities	O
 ?	O
 Represent	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 and	O
 communicate	O
 with	O
@@ -27387,7 +27386,7 @@ escalated	O
 problems	O
 identified	O
 in	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 software	O
 products	O
 and	O
@@ -27583,7 +27582,7 @@ Server	O
 ?	O
 Exchange	O
 Server	O
-2013	Graduation Year
+2013	Graduation_Year
 ?	O
 O365	O
 UG	O
@@ -27686,7 +27685,7 @@ activities	O
 Star	O
 Performer	O
 in	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 IGTSC	O
 in	O
 2014.	O
@@ -27782,16 +27781,16 @@ Computer	Degree
 Science	Degree
 and	Degree
 Engineering	Degree
-Vivekananda	College Name
-Engineering	College Name
-College	College Name
-for	College Name
-Women	College Name
+Vivekananda	College_Name
+Engineering	College_Name
+College	College_Name
+for	College_Name
+Women	College_Name
 -	O
 Chennai	O
 Tamil	O
 Nadu	O
-2013	Graduation Year
+2013	Graduation_Year
 BTEC	Degree
 HNC	Degree
 in	Degree
@@ -27801,18 +27800,18 @@ Hospitality	Degree
 and	Degree
 Travel	Degree
 Management	Degree
-Frankfinn	College Name
-Institute	College Name
-of	College Name
-Airhostess	College Name
-Training	College Name
+Frankfinn	College_Name
+Institute	College_Name
+of	College_Name
+Airhostess	College_Name
+Training	College_Name
 -	O
 Calicut	O
 Kerala	O
-2008	Graduation Year
+2008	Graduation_Year
 State	Degree
 Board	Degree
-2007	Graduation Year
+2007	Graduation_Year
 Skills	O
 Linux	Skills
 (Less	Skills
@@ -27853,7 +27852,7 @@ in	O
 Computer	O
 Applications	O
 -	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Office	O
 Windows	O
 (Windows	O
@@ -27902,8 +27901,8 @@ yr	Duration
 Work	O
 Duration	O
 at	O
-Microsoft	Companies worked at
-Corporation	Companies worked at
+Microsoft	Companies_worked_at
+Corporation	Companies_worked_at
 Thiruvananthapuram	Location
 	O
 Kerala	O
@@ -28193,7 +28192,7 @@ Knowledge	O
 ?	O
 Exchange	O
 Server	O
-2007	Graduation Year
+2007	Graduation_Year
 ?	O
 Exchange	O
 Server	O
@@ -28201,7 +28200,7 @@ Server	O
 ?	O
 Exchange	O
 Server	O
-2013	Graduation Year
+2013	Graduation_Year
 ?	O
 O365	O
 EDUCATION	O
@@ -28211,33 +28210,33 @@ Computer	O
 Science	O
 and	O
 Engineering	O
-Vivekananda	College Name
-Engineering	College Name
-College	College Name
-for	College Name
-Women	College Name
+Vivekananda	College_Name
+Engineering	College_Name
+College	College_Name
+for	College_Name
+Women	College_Name
 -	O
 Chennai	O
 Tamil	O
 Nadu	O
-2013	Graduation Year
+2013	Graduation_Year
 BTEC	Degree
 HNC	Degree
 in	Degree
 Aviation	Degree
-Frankfinn	College Name
-Institute	College Name
-of	College Name
-Airhostess	College Name
-Training	College Name
+Frankfinn	College_Name
+Institute	College_Name
+of	College_Name
+Airhostess	College_Name
+Training	College_Name
 -	O
 Calicut	O
 Kerala	O
-2008	Graduation Year
+2008	Graduation_Year
 State	Degree
 Board	Degree
 +2	Degree
-2007	Graduation Year
+2007	Graduation_Year
 SSLC	O
 State	O
 2005	O
@@ -28278,7 +28277,7 @@ Applications	O
 Office	O
 Windows	O
 (Windows	O
-2007	Graduation Year
+2007	Graduation_Year
 	O
 XP	O
 8	O
@@ -28508,7 +28507,7 @@ Das	Name
 software	Profil
 engineer	Profil
 -	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Business	O
 Objects	O
@@ -28522,8 +28521,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Srabani-	Email Address
-Das/152269fb5b986c26	Email Address
+indeed.com/r/Srabani-	Email_Address
+Das/152269fb5b986c26	Email_Address
 To	O
 secure	O
 a	O
@@ -28555,13 +28554,13 @@ WORK	O
 EXPERIENCE	O
 software	Profil
 engineer	Profil
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Business	O
 Objects	O
 -	O
 June	O
-2015	Graduation Year
+2015	Graduation_Year
 to	O
 Present	O
 
@@ -28584,7 +28583,7 @@ with	O
 technologies	O
 like	O
 Teradata	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Business	O
 Objects.	O
@@ -28603,7 +28602,7 @@ Pvt.	O
 Ltd.	O
 from	O
 June	O
-2015	Graduation Year
+2015	Graduation_Year
 to	O
 till	O
 date.	O
@@ -28622,17 +28621,17 @@ in	Degree
 Electronics	Degree
 and	Degree
 Telecommunication	Degree
-College	College Name
-of	College Name
-engineering	College Name
+College	College_Name
+of	College_Name
+engineering	College_Name
 -	O
 Bhubaneshwar	O
 Orissa	O
-2015	Graduation Year
+2015	Graduation_Year
 CBSE	Degree
-ODM	College Name
-Pubic	College Name
-school	College Name
+ODM	College_Name
+Pubic	College_Name
+school	College_Name
 -	O
 Bhubaneshwar	O
 Orissa	O
@@ -28949,7 +28948,7 @@ team.	O
 Technology	O
 Used	O
 Teradata	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 BO	O
 Universe	O
@@ -29065,7 +29064,7 @@ expansion.	O
 Technology	O
 Used	O
 Teradata	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 BO	O
 Reporting	O
@@ -29213,7 +29212,7 @@ Support	O
 Technology	O
 Used	O
 Teradata	O
-Oracle	Companies worked at
+Oracle	Companies_worked_at
 	O
 Unix	O
 and	O
@@ -29245,7 +29244,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Srinivas-VO/39c80e42cb6bc97f	Email Address
+indeed.com/r/Srinivas-VO/39c80e42cb6bc97f	Email_Address
 A	O
 Test	O
 Manager	O
@@ -29687,7 +29686,7 @@ Routing	O
 and	O
 Consolidation	O
 https://www.	O
-indeed.com/r/Srinivas-VO/39c80e42cb6bc97f	Email Address
+indeed.com/r/Srinivas-VO/39c80e42cb6bc97f	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 ?	O
 Oracle	O
@@ -30801,14 +30800,14 @@ MSC	Degree
 in	Degree
 Computer	Degree
 science	Degree
-Nagarjuna	College Name
-University	College Name
+Nagarjuna	College_Name
+University	College_Name
 BSC	Degree
 in	Degree
 Computer	Degree
 science	Degree
-Kakatiya	College Name
-University	College Name
+Kakatiya	College_Name
+University	College_Name
 Skills	O
 Testing	Skills
 (10+	Skills
@@ -31376,7 +31375,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Srushti-Bhadale/ffe3d9f99a4b3322	Email Address
+indeed.com/r/Srushti-Bhadale/ffe3d9f99a4b3322	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -31395,9 +31394,9 @@ WORK	O
 EXPERIENCE	O
 Associate	Profil
 Consultant	Profil
-Oracle	Companies worked at
-Financial	Companies worked at
-Services	Companies worked at
+Oracle	Companies_worked_at
+Financial	Companies_worked_at
+Services	Companies_worked_at
 -	O
 Bengaluru	O
 Karnataka	O
@@ -31413,9 +31412,9 @@ as	O
 Associate	Profil
 Consultant	Profil
 with	O
-Oracle	Companies worked at
-Financial	Companies worked at
-Services	Companies worked at
+Oracle	Companies_worked_at
+Financial	Companies_worked_at
+Services	Companies_worked_at
 Software.	O
 
 Trained	O
@@ -31569,18 +31568,18 @@ of	O
 OBP.	O
 EDUCATION	O
 HSC	Degree
-D.G	College Name
-Ruparel	College Name
-College	College Name
-2013	Graduation Year
+D.G	College_Name
+Ruparel	College_Name
+College	College_Name
+2013	Graduation_Year
 SSC	Degree
-Convent	College Name
-Girls'	College Name
-High	College Name
-School	College Name
-2011	Graduation Year
+Convent	College_Name
+Girls'	College_Name
+High	College_Name
+School	College_Name
+2011	Graduation_Year
 https://www.	O
-indeed.com/r/Srushti-Bhadale/ffe3d9f99a4b3322	Email Address
+indeed.com/r/Srushti-Bhadale/ffe3d9f99a4b3322	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 Skills	O
 Associate	Skills
@@ -31733,8 +31732,8 @@ Engineer	Profil
 Technical	Profil
 Staff	Profil
 -	O
-Company	Companies worked at
-1	Companies worked at
+Company	Companies_worked_at
+1	Companies_worked_at
 Bengaluru	Location
 	O
 Karnataka	O
@@ -31743,7 +31742,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sudaya-Puranik/eaf5f7c1a67c6c38	Email Address
+indeed.com/r/Sudaya-Puranik/eaf5f7c1a67c6c38	Email_Address
 To	O
 secure	O
 a	O
@@ -31810,10 +31809,10 @@ management	O
 Skills.	O
 Company	O
 1:	O
-Oracle	Companies worked at
-India	Companies worked at
-Private	Companies worked at
-Limited	Companies worked at
+Oracle	Companies_worked_at
+India	Companies_worked_at
+Private	Companies_worked_at
+Limited	Companies_worked_at
 	O
 Bangalore	O
 Profil:	O
@@ -32013,7 +32012,7 @@ and	O
 database	O
 level	O
 https://www.	O
-indeed.com/r/Sudaya-Puranik/eaf5f7c1a67c6c38	Email Address
+indeed.com/r/Sudaya-Puranik/eaf5f7c1a67c6c38	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 ?	O
 Experienced	O
@@ -32089,23 +32088,23 @@ Science)	Degree
 in	Degree
 Information	Degree
 Science	Degree
-B	College Name
-V	College Name
-Bhoomaraddi	College Name
-College	College Name
-of	College Name
-Engg	College Name
-and	College Name
-Technology	College Name
-Hubli	College Name
+B	College_Name
+V	College_Name
+Bhoomaraddi	College_Name
+College	College_Name
+of	College_Name
+Engg	College_Name
+and	College_Name
+Technology	College_Name
+Hubli	College_Name
 -	O
 Hubli	O
 Karnataka	O
-2005	Graduation Year
-Visveswaraiah	College Name
-Technological	College Name
-University	College Name
--	College Name
+2005	Graduation_Year
+Visveswaraiah	College_Name
+Technological	College_Name
+University	College_Name
+-	College_Name
 Belgaum	O
 Karnataka	O
 Skills	O
@@ -32692,7 +32691,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sumit-Kubade/256d6054d852b2a7	Email Address
+indeed.com/r/Sumit-Kubade/256d6054d852b2a7	Email_Address
 Seeking	O
 a	O
 challenging	O
@@ -33379,25 +33378,25 @@ Tax	O
 Indicator	O
 Configuration.	O
 EDUCATION	O
-Indian	College Name
-Institute	College Name
-Of	College Name
-Company	College Name
-Secretory	College Name
-Of	College Name
-India	College Name
-(Appeared)	College Name
-2014	Graduation Year
-Maharashtra	College Name
-State	College Name
-Government	College Name
-Pune	College Name
-University	College Name
+Indian	College_Name
+Institute	College_Name
+Of	College_Name
+Company	College_Name
+Secretory	College_Name
+Of	College_Name
+India	College_Name
+(Appeared)	College_Name
+2014	Graduation_Year
+Maharashtra	College_Name
+State	College_Name
+Government	College_Name
+Pune	College_Name
+University	College_Name
 -	O
 Pune	Location
 	O
 Maharashtra	O
-2013	Graduation Year
+2013	Graduation_Year
 B.com	Degree
 Pune	Location
 University	O
@@ -33405,7 +33404,7 @@ University	O
 Pune	Location
 	O
 Maharashtra	O
-2012	Graduation Year
+2012	Graduation_Year
 Skills	O
 SAP	Skills
 (1	O
@@ -33446,12 +33445,12 @@ me	O
 on	O
 Indeed:	O
 i	O
-ndeed.com/r/VARUN-AHLUWALIA/725d9b113f3c4f0c	Email Address
+ndeed.com/r/VARUN-AHLUWALIA/725d9b113f3c4f0c	Email_Address
 WORK	O
 EXPERIENCE	O
 Software	Profil
 Engineer	Profil
-Tavant	Companies worked at
+Tavant	Companies_worked_at
 -	O
 Bangalore	O
 Karnataka	O
@@ -33492,7 +33491,7 @@ Bangalore	O
 Karnataka	O
 -	O
 August	O
-2004	Graduation Year
+2004	Graduation_Year
 to	O
 April	O
 2005	O
@@ -33512,28 +33511,28 @@ Science	Degree
 in	Degree
 Financial	Degree
 Mathematics	Degree
-University	College Name
-of	College Name
-Chicago	College Name
+University	College_Name
+of	College_Name
+Chicago	College_Name
 -	O
 Chicago	O
 IL	O
 June	O
-2010	Graduation Year
+2010	Graduation_Year
 Bachelor	Degree
 of	Degree
 Technology	Degree
 in	Degree
 Civil	Degree
 Engineering	Degree
-Indian	College Name
-Institutes	College Name
-of	College Name
-Technology	College Name
-IIT	College Name
-Kanpur	College Name
+Indian	College_Name
+Institutes	College_Name
+of	College_Name
+Technology	College_Name
+IIT	College_Name
+Kanpur	College_Name
 July	O
-2004	Graduation Year
+2004	Graduation_Year
 ADDITIONAL	O
 INFORMATION	O
 Skills	O
@@ -33558,8 +33557,8 @@ as	Profil
 a	Profil
 Consultant	Profil
 -	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 Chennai	Location
 Tamil	O
 Nadu	O
@@ -33568,8 +33567,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Vijayalakshmi-Govindarajan/	Email Address
-d71bfb70a66b0046	Email Address
+indeed.com/r/Vijayalakshmi-Govindarajan/	Email_Address
+d71bfb70a66b0046	Email_Address
 Willing	O
 to	O
 relocate:	O
@@ -33580,8 +33579,8 @@ SAP	O
 as	O
 a	O
 Consultant	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 -	O
 May	O
 2012	O
@@ -33652,44 +33651,44 @@ MCA	Degree
 in	Degree
 Computer	Degree
 Applications	Degree
-Thiagarajar	College Name
-School	College Name
-of	College Name
-Management	College Name
+Thiagarajar	College_Name
+School	College_Name
+of	College_Name
+Management	College_Name
 -	O
 Madurai	O
 Tamil	O
 Nadu	O
 BSc	Degree
-Sri	College Name
-Sathya	College Name
-Sai	College Name
-Institute	College Name
-of	College Name
-Higher	College Name
-Learning	College Name
+Sri	College_Name
+Sathya	College_Name
+Sai	College_Name
+Institute	College_Name
+of	College_Name
+Higher	College_Name
+Learning	College_Name
 -	O
 Anantapur	O
 Andhra	O
 Pradesh	O
 HSC	Degree
-TVS	College Name
-Lakshmi	College Name
-Matriculation	College Name
-Higher	College Name
-Secondary	College Name
-School	College Name
+TVS	College_Name
+Lakshmi	College_Name
+Matriculation	College_Name
+Higher	College_Name
+Secondary	College_Name
+School	College_Name
 -	O
 Madurai	O
 Tamil	O
 Nadu	O
 SSLC	Degree
-TVS	College Name
-Lakshmi	College Name
-Matriculation	College Name
-Higher	College Name
-Secondary	College Name
-School	College Name
+TVS	College_Name
+Lakshmi	College_Name
+Matriculation	College_Name
+Higher	College_Name
+Secondary	College_Name
+School	College_Name
 -	O
 Madurai	O
 Tamil	O
@@ -33920,8 +33919,8 @@ India	O
 PVT	O
 LTD	O
 Role:	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 Consultant	O
 Client:	O
 Maersk	O
@@ -34149,8 +34148,8 @@ India	O
 PVT	O
 LTD	O
 Role:	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 Consultant	O
 Client:	O
 Maersk	O
@@ -34259,8 +34258,8 @@ India	O
 PVT	O
 LTD	O
 Role:	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 Consultant	O
 Client:	O
 Ericsson	O
@@ -34285,8 +34284,8 @@ November	O
 Responsibilities:	O
 Performed	O
 all	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 Activities	O
 like	O
 Performance	O
@@ -34361,8 +34360,8 @@ PVT	O
 LTD	O
 Role:	O
 Associate	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 Consultant	O
 L1	O
 Client:	O
@@ -34394,8 +34393,8 @@ June	O
 Responsibilities:	O
 Performed	O
 all	O
-SAP	Companies worked at
-Basis	Companies worked at
+SAP	Companies_worked_at
+Basis	Companies_worked_at
 Activities	O
 like	O
 Production	O
@@ -34484,7 +34483,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Vikas-Singh/8644db42854c4f6a	Email Address
+indeed.com/r/Vikas-Singh/8644db42854c4f6a	Email_Address
 I've	O
 4.6	O
 years	O
@@ -34599,7 +34598,7 @@ and	O
 Communication	O
 Engineering	O
 in	O
-2013	Graduation Year
+2013	Graduation_Year
 with	O
 excellent	O
 grades.	O
@@ -34621,15 +34620,15 @@ WORK	O
 EXPERIENCE	O
 Technology	Profil
 Analyst	Profil
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 Chandigarh	Location
 	O
 Chandigarh	Location
 -	O
 October	O
-2013	Graduation Year
+2013	Graduation_Year
 to	O
 Present	O
 A.	O
@@ -34960,21 +34959,21 @@ today	O
 Information	O
 Security	O
 Analyst	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 Chandigarh	Location
 	O
 Chandigarh	Location
 -	O
-2013	Graduation Year
+2013	Graduation_Year
 to	O
 Present	O
 A.	O
 Identity	O
 management	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 -	O
 May	O
 2014	O
@@ -35232,12 +35231,12 @@ Electronics	Degree
 and	Degree
 Communication	Degree
 Engineering	Degree
-GLA	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
-and	College Name
-Management	College Name
+GLA	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
+and	College_Name
+Management	College_Name
 -	O
 Mathura	O
 Uttar	O
@@ -35246,7 +35245,7 @@ September	O
 2009	O
 to	O
 June	O
-2013	Graduation Year
+2013	Graduation_Year
 Skills	O
 SECURITY	Skills
 (5	Skills
@@ -35390,21 +35389,21 @@ in	Degree
 Electronics	Degree
 and	Degree
 Communication	Degree
-Nandha	College Name
-Engineering	College Name
-College	College Name
+Nandha	College_Name
+Engineering	College_Name
+College	College_Name
 -	O
 Erode	O
 Tamil	O
 Nadu	O
-2012	Graduation Year
+2012	Graduation_Year
 Secondary	O
 Education	O
-Government	College Name
-Boys	College Name
-Higher	College Name
-Secondary	College Name
-School	College Name
+Government	College_Name
+Boys	College_Name
+Higher	College_Name
+Secondary	College_Name
+School	College_Name
 -	O
 Pallipalayam	O
 Namakkal	Location
@@ -35459,8 +35458,8 @@ Yogi	Name
 Pesaru	Name
 Developer	Profil
 -	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 Hyderabad	Location
 	O
 Telangana	O
@@ -35469,7 +35468,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Yogi-Pesaru/2ed7aded59ecf425	Email Address
+indeed.com/r/Yogi-Pesaru/2ed7aded59ecf425	Email_Address
 
 Total	O
 IT	O
@@ -35727,8 +35726,8 @@ Sterling	O
 Client	O
 SYSCO	O
 Employer	O
-Infosys	Companies worked at
-Limited	Companies worked at
+Infosys	Companies_worked_at
+Limited	Companies_worked_at
 Role	O
 Developer	Profil
 Team	O
@@ -35899,24 +35898,24 @@ B.	Degree
 Tech	Degree
 in	Degree
 ECE	Degree
-Vidya	College Name
-Bharati	College Name
-Institute	College Name
-Of	College Name
-Technology	College Name
--	College Name
-Hindupur	College Name
+Vidya	College_Name
+Bharati	College_Name
+Institute	College_Name
+Of	College_Name
+Technology	College_Name
+-	College_Name
+Hindupur	College_Name
 	O
 Andhra	O
 Pradesh	O
 2008	O
 to	O
-2012	Graduation Year
-Hosanna	College Name
-National	College Name
-High	College Name
-School	College Name
-2006	Graduation Year
+2012	Graduation_Year
+Hosanna	College_Name
+National	College_Name
+High	College_Name
+School	College_Name
+2006	Graduation_Year
 Skills	O
 C+	Skills
 (Less	Skills
@@ -36146,8 +36145,8 @@ Project	Profil
 Manager	Profil
 (APAC)	Profil
 -	O
-Microsoft	Companies worked at
-GPS	Companies worked at
+Microsoft	Companies_worked_at
+GPS	Companies_worked_at
 Bangalore	Location
 	O
 Karnataka	O
@@ -36156,7 +36155,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Asha-Subbaiah/f7489ca1bec4570b	Email Address
+indeed.com/r/Asha-Subbaiah/f7489ca1bec4570b	Email_Address
 WORK	O
 EXPERIENCE	O
 (	O
@@ -36167,8 +36166,8 @@ Operations	Profil
 Project	Profil
 Manager	Profil
 (APAC)	Profil
-Microsoft	Companies worked at
-GPS	Companies worked at
+Microsoft	Companies_worked_at
+GPS	Companies_worked_at
 -	O
 August	O
 2014	O
@@ -36603,11 +36602,11 @@ Bangalore	O
 EDUCATION	Degree
 Bachelor's	Degree
 i	O
-n	College Name
-Commerce	College Name
-NMKRV	College Name
-College	College Name
-Bangalor	College Name
+n	College_Name
+Commerce	College_Name
+NMKRV	College_Name
+College	College_Name
+Bangalor	College_Name
 e	O
 University	O
 -	O
@@ -36624,7 +36623,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Divesh-Singh/a76ddf6e110a74b8	Email Address
+indeed.com/r/Divesh-Singh/a76ddf6e110a74b8	Email_Address
 Seeking	O
 new	O
 challenges	O
@@ -36676,7 +36675,7 @@ EXPERIENCE	O
 Front	Profil
 Office	Profil
 Executive	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 iGTSC	O
 -	O
 Bangalore	O
@@ -36693,7 +36692,7 @@ Having	O
 months	O
 experience	O
 with	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 as	O
 a	O
 FOE.	O
@@ -36701,7 +36700,7 @@ I	O
 have	O
 worked	O
 for	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 as	O
 a	O
 FOE	O
@@ -36746,8 +36745,8 @@ Of	O
 Bangalore	O
 EDUCATION	O
 B.COM	Degree
-JAIN	College Name
-COLLEGE	College Name
+JAIN	College_Name
+COLLEGE	College_Name
 12TH	O
 INDIAN	O
 ACADEMY	O
@@ -36811,20 +36810,20 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ramesh-chokkala/16d5fa56f8c19eb6	Email Address
+indeed.com/r/Ramesh-chokkala/16d5fa56f8c19eb6	Email_Address
 WORK	O
 EXPERIENCE	O
 software	Profil
-MicrosoftInfosis	Companies worked at
-Google	Companies worked at
+MicrosoftInfosis	Companies_worked_at
+Google	Companies_worked_at
 -	O
 May	O
 2018	O
 to	O
 Present	O
 software	Profil
-MicrosoftInfosis	Companies worked at
-Google	Companies worked at
+MicrosoftInfosis	Companies_worked_at
+Google	Companies_worked_at
 -	O
 May	O
 2018	O
@@ -36832,9 +36831,9 @@ to	O
 Present	O
 EDUCATION	O
 btech	Degree
-Trinity	College Name
-engineering	College Name
-college	College Name
+Trinity	College_Name
+engineering	College_Name
+college	College_Name
 https://www.indeed.com/r/Ramesh-chokkala/16d5fa56f8c19eb6?isid=rex-download&ikw=download-top&co=IN	O
 
 Ganesh	Name
@@ -36904,7 +36903,7 @@ WORK	O
 EXPERIENCE	O
 Consultant	Profil
 SDET	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 June	O
 2013	O
@@ -37259,9 +37258,9 @@ Software	Degree
 Product	Degree
 Manage	Degree
 me	O
-nt	College Name
-Product	College Name
-Sc	College Name
+nt	College_Name
+Product	College_Name
+Sc	College_Name
 hool	O
 -	O
 New	O
@@ -37276,9 +37275,9 @@ Computer	Degree
 Science	Degree
 Engineer	Degree
 i	O
-ng	College Name
-Anna	College Name
-Univer	College Name
+ng	College_Name
+Anna	College_Name
+Univer	College_Name
 sity	O
 SKIL	O
 LS	Skills
@@ -37316,8 +37315,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Srinu-Naik-	Email Address
-Ramavath/2d9f28ccfa115f79	Email Address
+indeed.com/r/Srinu-Naik-	Email_Address
+Ramavath/2d9f28ccfa115f79	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -37331,7 +37330,7 @@ WORK	O
 EXPERIENCE	O
 security	Profil
 officer	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 in	O
 G4S	O
 Communication	O
@@ -37352,7 +37351,7 @@ the	O
 company	O
 Security	O
 Officer	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 of	O
 G4S	O
 -	O
@@ -37406,7 +37405,7 @@ SAP	Profil
 SD	Profil
 lead	Profil
 -	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 IT	O
 Pune	Location
 	O
@@ -37416,7 +37415,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Puneet-Bhandari/c9002fa44d6760bd	Email Address
+indeed.com/r/Puneet-Bhandari/c9002fa44d6760bd	Email_Address
 Willing	O
 to	O
 relocate:	O
@@ -37426,7 +37425,7 @@ EXPERIENCE	O
 SAP	Profil
 SD	Profil
 lead	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 IT	O
 -	O
 August	O
@@ -37637,7 +37636,7 @@ and	O
 process	O
 improvement	O
 https://www.	O
-indeed.com/r/Puneet-Bhandari/c9002fa44d6760bd	Email Address
+indeed.com/r/Puneet-Bhandari/c9002fa44d6760bd	Email_Address
 ?	Location
 isid=rex-download&ikw=download-top&co=IN	O
 *	O
@@ -38427,7 +38426,7 @@ Publishing	O
 Phase:	O
 Support	O
 Client:	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 IT	O
 Team	O
 Size:	O
@@ -38444,7 +38443,7 @@ to	O
 cash	O
 cycle	O
 for	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Business	O
 *	O
 Analyzing	O
@@ -38618,12 +38617,12 @@ EDUCATION	O
 MBA	Degree
 in	Degree
 Marketing	Degree
-IIT	College Name
-Roorkee	College Name
+IIT	College_Name
+Roorkee	College_Name
 -	O
 Roorkee	O
 Uttarakhand	O
-2008	Graduation Year
+2008	Graduation_Year
 to	O
 2010	O
 Bachelor	Degree
@@ -38633,22 +38632,22 @@ in	Degree
 Electronics	Degree
 and	Degree
 Communication	Degree
-Shri	College Name
-Vaishnav	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
-and	College Name
-Science	College Name
-RGPV	College Name
-University	College Name
+Shri	College_Name
+Vaishnav	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
+and	College_Name
+Science	College_Name
+RGPV	College_Name
+University	College_Name
 -	O
 Indore	O
 Madhya	O
 Pradesh	O
 2004	O
 to	O
-2008	Graduation Year
+2008	Graduation_Year
 CBSE	O
 St.	O
 Paul	O
@@ -38694,7 +38693,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Aarti-Pimplay/778c7a91033a71ca	Email Address
+indeed.com/r/Aarti-Pimplay/778c7a91033a71ca	Email_Address
 To	O
 work	O
 with	O
@@ -38736,9 +38735,9 @@ Shift	Profil
 Manager	Profil
 (O	Profil
 CS	O
-M)	Companies worked at
-Microsoft	Companies worked at
-Ind	Companies worked at
+M)	Companies_worked_at
+Microsoft	Companies_worked_at
+Ind	Companies_worked_at
 ia	O
 -	O
 August	O
@@ -38913,9 +38912,9 @@ and	O
 procedures	O
 Communication	O
 Supervis	O
-or	Companies worked at
-Microsoft	Companies worked at
-Ind	Companies worked at
+or	Companies_worked_at
+Microsoft	Companies_worked_at
+Ind	Companies_worked_at
 ia	O
 -	O
 February	O
@@ -39010,7 +39009,7 @@ same	Profil
 Service	Profil
 Desk	Profil
 A	O
-nalyst	Companies worked at
+nalyst	Companies_worked_at
 SITEL	O
 -	O
 September	O
@@ -39184,14 +39183,14 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Bangalore-	Email Address
-Tavarekere/8fc92a48cbe9a47c	Email Address
+indeed.com/r/Bangalore-	Email_Address
+Tavarekere/8fc92a48cbe9a47c	Email_Address
 WORK	O
 EXPERIENCE	O
 Volunteer	Profil
 Contestant	Profil
 Yappon	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 2017	O
 to	O
@@ -39209,15 +39208,15 @@ to	O
 560029	O
 EDUCATION	O
 B.Tech	Degree
-Christ	College Name
-University	College Name
-Faculty	College Name
-of	College Name
-Engineering	College Name
+Christ	College_Name
+University	College_Name
+Faculty	College_Name
+of	College_Name
+Engineering	College_Name
 -	O
 Bengaluru	O
 Karnataka	O
-2018	Graduation Year
+2018	Graduation_Year
 Class	O
 XII	O
 Delhi	O
@@ -39247,7 +39246,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Avani-Priya/fe6b4c5516207abe	Email Address
+indeed.com/r/Avani-Priya/fe6b4c5516207abe	Email_Address
 WORK	O
 EXPERIENCE	O
 JavaTally	Profil
@@ -39289,15 +39288,15 @@ depend	O
 on	O
 someone.	O
 EDUCATION	O
-br	College Name
-day	College Name
-public	College Name
-school	College Name
+br	College_Name
+day	College_Name
+public	College_Name
+school	College_Name
 -	O
 Begusarai	O
 Bihar	O
 https://www.	O
-indeed.com/r/Avani-Priya/fe6b4c5516207abe	Email Address
+indeed.com/r/Avani-Priya/fe6b4c5516207abe	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 Sanand	Name
@@ -39322,7 +39321,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sanand-Pal/5c99c42c3400737c	Email Address
+indeed.com/r/Sanand-Pal/5c99c42c3400737c	Email_Address
 I	O
 intend	O
 to	O
@@ -39390,7 +39389,7 @@ WORK	O
 EXPERIENCE	O
 Assistant	Profil
 Consultant	Profil
-TCS	Companies worked at
+TCS	Companies_worked_at
 
 Expertise	O
 in	O
@@ -39661,7 +39660,7 @@ of	O
 the	O
 code.	O
 https://www.	O
-indeed.com/r/Sanand-Pal/5c99c42c3400737c	Email Address
+indeed.com/r/Sanand-Pal/5c99c42c3400737c	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 Actively	O
@@ -39726,13 +39725,13 @@ of	Degree
 Technology	Degree
 in	Degree
 Branch	Degree
-East	College Name
-Point	College Name
-College	College Name
-of	College Name
-Engg.	College Name
-&	College Name
-Tech.	College Name
+East	College_Name
+Point	College_Name
+College	College_Name
+of	College_Name
+Engg.	College_Name
+&	College_Name
+Tech.	College_Name
 -	O
 Bengaluru	O
 Karnataka	O
@@ -39740,7 +39739,7 @@ June	O
 2006	O
 to	O
 July	O
-2010	Graduation Year
+2010	Graduation_Year
 Skills	O
 Sql	Skills
 Server	Skills
@@ -39761,17 +39760,17 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Partho-Sarathi-	Email Address
-Mitra/683dfd08d0246836	Email Address
+indeed.com/r/Partho-Sarathi-	Email_Address
+Mitra/683dfd08d0246836	Email_Address
 WORK	O
 EXPERIENCE	O
 Senior	Profil
 Sales	Profil
 Executive	Profil
-Nokia	Companies worked at
-&	Companies worked at
-Microsoft	Companies worked at
-mobile	Companies worked at
+Nokia	Companies_worked_at
+&	Companies_worked_at
+Microsoft	Companies_worked_at
+mobile	Companies_worked_at
 -	O
 March	O
 2005	O
@@ -39780,9 +39779,9 @@ April	O
 2016	O
 EDUCATION	O
 B.com	Degree
-Surendranath	College Name
-college	College Name
-Barrackpore	College Name
+Surendranath	College_Name
+college	College_Name
+Barrackpore	College_Name
 AWARDS	O
 Best	O
 Promoter	O
@@ -39803,7 +39802,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Pranay-Sathu/ef2fc90d9ec5dde7	Email Address
+indeed.com/r/Pranay-Sathu/ef2fc90d9ec5dde7	Email_Address
 
 Over	O
 3.6	O
@@ -40026,10 +40025,10 @@ Karnataka	O
 WORK	O
 EXPERIENCE	O
 Consultant	Profil
-Neudesic	Companies worked at
-(Vendor	Companies worked at
-@	Companies worked at
-Microsoft)	Companies worked at
+Neudesic	Companies_worked_at
+(Vendor	Companies_worked_at
+@	Companies_worked_at
+Microsoft)	Companies_worked_at
 Working	O
 as	O
 Test	O
@@ -40061,10 +40060,10 @@ of	Degree
 the	Degree
 Education	Degree
 Establishment	Degree
-SR	College Name
-ENGINEERING	College Name
-COLLEGE	College Name
-(SREC)	College Name
+SR	College_Name
+ENGINEERING	College_Name
+COLLEGE	College_Name
+(SREC)	College_Name
 https://www.indeed.com/r/Pranay-Sathu/ef2fc90d9ec5dde7?isid=rex-download&ikw=download-top&co=IN	O
 Skills	O
 C#	Skills
@@ -40158,14 +40157,14 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Tanmoy-Maity/145eb1ed39df317c	Email Address
+indeed.com/r/Tanmoy-Maity/145eb1ed39df317c	Email_Address
 WORK	O
 EXPERIENCE	O
 HVAC	Profil
 Technician	Profil
-Infosys	Companies worked at
-and	Companies worked at
-microsoft	Companies worked at
+Infosys	Companies_worked_at
+and	Companies_worked_at
+microsoft	Companies_worked_at
 -	O
 November	O
 2015	O
@@ -40173,9 +40172,9 @@ to	O
 Present	O
 HVAC	Profil
 Technician	Profil
-Infosys	Companies worked at
-and	Companies worked at
-microsoft	Companies worked at
+Infosys	Companies_worked_at
+and	Companies_worked_at
+microsoft	Companies_worked_at
 -	O
 November	O
 2015	O
@@ -40185,8 +40184,8 @@ EDUCATION	O
 Diploma	Degree
 in	Degree
 Mrac	Degree
-Gtti	College Name
--	College Name
+Gtti	College_Name
+-	College_Name
 Kolkata	Location
 	O
 West	O
@@ -40213,7 +40212,7 @@ Technical	Profil
 Support	Profil
 Executive	Profil
 -	O
-Teleperformance	Companies worked at
+Teleperformance	Companies_worked_at
 Jaipur	Location
 	O
 Rajasthan	O
@@ -40222,7 +40221,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Aanirudh-Razdan/efbf36cc74cec0e5	Email Address
+indeed.com/r/Aanirudh-Razdan/efbf36cc74cec0e5	Email_Address
 To	O
 seek	O
 an	O
@@ -40283,10 +40282,10 @@ system	O
 XP/Vista/7/8/8.1/10)	O
 B2X	O
 Process	O
-Nokia	Companies worked at
-and	Companies worked at
-Microsoft	Companies worked at
--	Companies worked at
+Nokia	Companies_worked_at
+and	Companies_worked_at
+Microsoft	Companies_worked_at
+-	Companies_worked_at
 September	O
 2016	O
 to	O
@@ -40312,17 +40311,17 @@ month	O
 EDUCATION	O
 B.	Degree
 Tech	Degree
-Jaipur	College Name
-Engineering	College Name
-College	College Name
-and	College Name
-Research	College Name
-Center	College Name
+Jaipur	College_Name
+Engineering	College_Name
+College	College_Name
+and	College_Name
+Research	College_Name
+Center	College_Name
 -	O
 Jaipur	Location
 	O
 Rajasthan	O
-2015	Graduation Year
+2015	Graduation_Year
 communication	O
 and	O
 presentation	O
@@ -40364,14 +40363,14 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Shiksha-Bhatnagar/70e68b28225ca499	Email Address
+indeed.com/r/Shiksha-Bhatnagar/70e68b28225ca499	Email_Address
 WORK	O
 EXPERIENCE	O
 online	Profil
 job	Profil
 in	Profil
 home	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 and	O
 copy	O
 past	O
@@ -40426,8 +40425,8 @@ pass	Degree
 12	Degree
 in	Degree
 medical	Degree
-chandigarh	College Name
-university	College Name
+chandigarh	College_Name
+university	College_Name
 -	O
 Chandigarh	O
 Chandigarh	O
@@ -40474,8 +40473,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Chhaya-	Email Address
-Prabhale/99700a3a95e3ccd7	Email Address
+indeed.com/r/Chhaya-	Email_Address
+Prabhale/99700a3a95e3ccd7	Email_Address
 This	O
 application	O
 is	O
@@ -40911,8 +40910,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Karthik-G-	Email Address
-V/283106d88eb4649c	Email Address
+indeed.com/r/Karthik-G-	Email_Address
+V/283106d88eb4649c	Email_Address
 Willing	O
 to	O
 relocate:	O
@@ -40927,7 +40926,7 @@ Product	Profil
 Owner	Profil
 Architect	Profil
 Consultant	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 India	O
 -	O
 Hyderabad	O
@@ -41035,8 +41034,8 @@ in	Degree
 Business	Degree
 Man	Degree
 a	O
-gement	College Name
-Narse	College Name
+gement	College_Name
+Narse	College_Name
 e	O
 Monji	O
 -	O
@@ -41074,8 +41073,8 @@ Management	Skills
 years)	O
 LINKS	O
 https://www.linkedin.com/in/karthik-g-v-7a25462/	O
-AWARDS	Companies worked at
-M	Companies worked at
+AWARDS	Companies_worked_at
+M	Companies_worked_at
 icrosoft	O
 Technology	O
 Guru	O
@@ -41084,8 +41083,8 @@ February	O
 https://www.indeed.com/r/Karthik-G-V/283106d88eb4649c?isid=rex-download&ikw=download-top&co=IN	O
 https://www.indeed.com/r/Karthik-G-V/283106d88eb4649c?isid=rex-download&ikw=download-top&co=IN	O
 https://www.linkedin.com/in/karthik-g-v-7a2	O
-5462/	Companies worked at
-M	Companies worked at
+5462/	Companies_worked_at
+M	Companies_worked_at
 icrosoft	O
 Role	O
 Model	O
@@ -41112,8 +41111,8 @@ Manager	Profil
 Escalation	Profil
 Manager	Profil
 -	O
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 Hyderabad	Location
 	O
 Telangana	O
@@ -41122,8 +41121,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Mohammed-	Email Address
-Murtuza/0cdc3284bf1bbeab	Email Address
+indeed.com/r/Mohammed-	Email_Address
+Murtuza/0cdc3284bf1bbeab	Email_Address
 WORK	O
 EXPERIENCE	O
 Major	Profil
@@ -41132,8 +41131,8 @@ Manager	Profil
 /	Profil
 Escalation	Profil
 Manager	Profil
-Microsoft	Companies worked at
-India	Companies worked at
+Microsoft	Companies_worked_at
+India	Companies_worked_at
 -	O
 June	O
 2016	O
@@ -42214,10 +42213,10 @@ MBA	Degree
 in	Degree
 M	Degree
 ar	O
-keting	College Name
-and	College Name
-Human	College Name
-Re	College Name
+keting	College_Name
+and	College_Name
+Human	College_Name
+Re	College_Name
 sources	O
 Osmania	O
 Universi	O
@@ -42226,10 +42225,10 @@ ty	Degree
 Hyderabad	Degree
 Tel	Degree
 ang	O
-ana	College Name
-B.Sc	College Name
-in	College Name
-Electr	College Name
+ana	College_Name
+B.Sc	College_Name
+in	College_Name
+Electr	College_Name
 onics	O
 Osmania	O
 University	O
@@ -42349,8 +42348,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Saurabh-	Email Address
-Saurabh/87e6b26903460061	Email Address
+indeed.com/r/Saurabh-	Email_Address
+Saurabh/87e6b26903460061	Email_Address
 Willing	O
 to	O
 relocate:	O
@@ -42360,7 +42359,7 @@ EXPERIENCE	O
 Developer	Profil
 Support	Profil
 Engineer	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 iGTSC	O
 -	O
 Bangalore	O
@@ -42375,11 +42374,11 @@ EDUCATION	O
 Certificate	Degree
 of	Degree
 Achievement	Degree
-Microsoft	College Name
-Virtual	College Name
-Academy	College Name
+Microsoft	College_Name
+Virtual	College_Name
+Academy	College_Name
 December	O
-2016	Graduation Year
+2016	Graduation_Year
 Skills	O
 C	Skills
 C++	Skills
@@ -42503,15 +42502,15 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Prabhu-Prasad-	Email Address
-Mohapatra/1e4b62ea17458993	Email Address
+indeed.com/r/Prabhu-Prasad-	Email_Address
+Mohapatra/1e4b62ea17458993	Email_Address
 WORK	O
 EXPERIENCE	O
 Beta	Profil
 Tester	Profil
-Microsoft	Companies worked at
-&	Companies worked at
-Xiaomi	Companies worked at
+Microsoft	Companies_worked_at
+&	Companies_worked_at
+Xiaomi	Companies_worked_at
 -	O
 January	O
 2018	O
@@ -42525,10 +42524,10 @@ tester	O
 EDUCATION	O
 Still	Degree
 Studying	Degree
-Bhagabati	College Name
-Nodal	College Name
-High	College Name
-School	College Name
+Bhagabati	College_Name
+Nodal	College_Name
+High	College_Name
+School	College_Name
 Sarakana	O
 Skills	O
 Typewriting	Skills
@@ -42551,8 +42550,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Raja-Chandra-	Email Address
-Mouli/445cbf3eb0a361cd	Email Address
+indeed.com/r/Raja-Chandra-	Email_Address
+Mouli/445cbf3eb0a361cd	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -42591,9 +42590,9 @@ completed	O
 in	O
 Computer	O
 science	O
-ards	College Name
-collage	College Name
-kadapa	College Name
+ards	College_Name
+collage	College_Name
+kadapa	College_Name
 -	O
 Cuddapah	Location
 	O
@@ -42640,13 +42639,13 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Krishna-Prasad/56249a1d0efd3fca	Email Address
+indeed.com/r/Krishna-Prasad/56249a1d0efd3fca	Email_Address
 WORK	O
 EXPERIENCE	O
 Data	Profil
 Entry	Profil
 Operator	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 Patna	Location
 	O
@@ -42655,8 +42654,8 @@ EDUCATION	O
 BSc	Degree
 in	Degree
 Math	Degree
-Magadh	College Name
-univercity	College Name
+Magadh	College_Name
+univercity	College_Name
 -	O
 Patna	Location
 	O
@@ -42669,8 +42668,8 @@ April	O
 BSc	Degree
 in	Degree
 Computer	Degree
-Magadh	College Name
-univercity	College Name
+Magadh	College_Name
+univercity	College_Name
 -	O
 Patna	Location
 City	O
@@ -42691,8 +42690,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Soumya-	Email Address
-Balan/97ead9542c575355	Email Address
+indeed.com/r/Soumya-	Email_Address
+Balan/97ead9542c575355	Email_Address
 ?	O
 To	O
 work	O
@@ -42966,7 +42965,7 @@ Server	O
 ?	O
 Exchange	O
 Ser	O
-ver	Graduation Year
+ver	Graduation_Year
 2013	O
 ?	O
 O365	O
@@ -43168,18 +43167,18 @@ Science	Degree
 and	Degree
 Engineer	Degree
 i	O
-ng	College Name
-Vivekananda	College Name
-Engineering	College Name
-College	College Name
-for	College Name
-Wo	College Name
+ng	College_Name
+Vivekananda	College_Name
+Engineering	College_Name
+College	College_Name
+for	College_Name
+Wo	College_Name
 men	O
 -	O
 Chennai	O
 Tamil	O
 Na	O
-du	Graduation Year
+du	Graduation_Year
 20	O
 13	Degree
 BTEC	Degree
@@ -43192,12 +43191,12 @@ and	Degree
 Travel	Degree
 Managem	Degree
 e	O
-nt	College Name
-Frankfinn	College Name
-Institute	College Name
-of	College Name
-Airhostess	College Name
-Traini	College Name
+nt	College_Name
+Frankfinn	College_Name
+Institute	College_Name
+of	College_Name
+Airhostess	College_Name
+Traini	College_Name
 ng	O
 -	O
 Calicut	O
@@ -43295,8 +43294,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/pradeep-	Email Address
-chauhan/7fd59212dcc556bd	Email Address
+indeed.com/r/pradeep-	Email_Address
+chauhan/7fd59212dcc556bd	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -43324,11 +43323,11 @@ b.tech	Degree
 in	Degree
 computer	Degree
 science	Degree
-sunder	College Name
-deep	College Name
-group	College Name
-of	College Name
-institution	College Name
+sunder	College_Name
+deep	College_Name
+group	College_Name
+of	College_Name
+institution	College_Name
 -	O
 Noida	Location
 	O
@@ -43350,7 +43349,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Akansha-Jain/b53674429e164cfc	Email Address
+indeed.com/r/Akansha-Jain/b53674429e164cfc	Email_Address
 I	O
 am	O
 looking	O
@@ -43379,7 +43378,7 @@ Organization.	O
 WORK	O
 EXPERIENCE	O
 Developer	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 Pune	Location
 Maharashtra	O
@@ -43494,8 +43493,8 @@ BI	O
 for	O
 actionable	O
 insights	O
-for	Companies worked at
-Micro	Companies worked at
+for	Companies_worked_at
+Micro	Companies_worked_at
 soft	O
 business	O
 owners	O
@@ -43505,18 +43504,18 @@ B.TECH	Degree
 in	Degree
 Enginee	Degree
 r	O
-ing	College Name
-GRAPHIC	College Name
-ERA	College Name
-UNIVER	College Name
+ing	College_Name
+GRAPHIC	College_Name
+ERA	College_Name
+UNIVER	College_Name
 SITY	O
 -	O
 Dehra	O
 Dun	O
 Uttarakhand	O
 2012	O
-to	Graduation Year
-2	Graduation Year
+to	Graduation_Year
+2	Graduation_Year
 016	O
 STEPPING	O
 STONES	O
@@ -43577,8 +43576,8 @@ SERVER	Skills
 Languages:	Skills
 SQL	Skills
 PL	Skills
-/	Companies worked at
-S	Graduation Year
+/	Companies_worked_at
+S	Graduation_Year
 QL	O
 STRENGTHS:	O
 
@@ -43637,13 +43636,13 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Rishabh-	Email Address
-soni/503ce837ae2924ff	Email Address
+indeed.com/r/Rishabh-	Email_Address
+soni/503ce837ae2924ff	Email_Address
 WORK	O
 EXPERIENCE	O
 Typing	Profil
 work	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 January	O
 2018	O
@@ -43659,8 +43658,8 @@ do	O
 EDUCATION	O
 B-tech	Degree
 (CSE)	Degree
-IIT	College Name
-Delhi	College Name
+IIT	College_Name
+Delhi	College_Name
 Skills	O
 Specilization	Skills
 https://www.indeed.com/r/Rishabh-soni/503ce837ae2924ff?isid=rex-download&ikw=download-top&co=IN	O
@@ -43677,8 +43676,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Paul-	Email Address
-Rajiv/2bd46ce0f01fad54	Email Address
+indeed.com/r/Paul-	Email_Address
+Rajiv/2bd46ce0f01fad54	Email_Address
 Willing	O
 to	O
 relocate:	O
@@ -43687,7 +43686,7 @@ WORK	O
 EXPERIENCE	O
 Delivery	Profil
 Specialist	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 hyderbad	O
 Telangana	O
@@ -44013,8 +44012,8 @@ business	Degree
 management	Degree
 College	O
 (	O
-Osmania	College Name
-University	College Name
+Osmania	College_Name
+University	College_Name
 )	O
 -	O
 Hyderabad	O
@@ -44022,7 +44021,7 @@ Andhra	O
 Pradesh	O
 2011	O
 to	O
-2014	Graduation Year
+2014	Graduation_Year
 Board	O
 of	O
 Intermediate	O
@@ -44330,7 +44329,7 @@ Project	O
 on	O
 Women	O
 Haras	O
-smen	Graduation Year
+smen	Graduation_Year
 t	O
 and	O
 Empowerment	O
@@ -44395,13 +44394,13 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Karan-	Email Address
-Turkar/9ed71ae013a9e899	Email Address
+indeed.com/r/Karan-	Email_Address
+Turkar/9ed71ae013a9e899	Email_Address
 WORK	O
 EXPERIENCE	O
 Software	Profil
 developer	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 August	O
 2016	O
@@ -44411,7 +44410,7 @@ Software	Profil
 developer	Profil
 EDUCATION	O
 BE	Degree
-DAVV	College Name
+DAVV	College_Name
 Skills	O
 C++	Skills
 Html	Skills
@@ -44438,7 +44437,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Akshay-Dubey/87dcd40b335e6ffa	Email Address
+indeed.com/r/Akshay-Dubey/87dcd40b335e6ffa	Email_Address
 To	O
 work	O
 in	O
@@ -44484,7 +44483,7 @@ EXPERIENCE	O
 Microsoft	Profil
 Student	Profil
 Partner	Profil
-MICROSOFT	Companies worked at
+MICROSOFT	Companies_worked_at
 -	O
 January	O
 2015	O
@@ -44621,8 +44620,8 @@ https://akshaydubey.wordpress.com/	O
 Microsoft	O
 Student	O
 Associa	O
-te	Companies worked at
-MICRO	Companies worked at
+te	Companies_worked_at
+MICRO	Companies_worked_at
 SOFT	O
 -	O
 July	O
@@ -44688,8 +44687,8 @@ free	O
 tools	O
 &amp;	O
 emulato	O
-r.	Email Address
-https://www.indeed.com/r/Akshay-Dubey/	Email Address
+r.	Email_Address
+https://www.indeed.com/r/Akshay-Dubey/	Email_Address
 87dcd40b335e6ffa?isid=rex-download&ikw=download-top&co=IN	O
 
 Promoting	O
@@ -44768,9 +44767,9 @@ SQL	O
 Server	O
 databa	O
 se.	Degree
-EDUCATION	College Name
-B.E	College Name
-Si	College Name
+EDUCATION	College_Name
+B.E	College_Name
+Si	College_Name
 nhgad	O
 Institute	O
 2016	O
@@ -44869,8 +44868,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sayani-	Email Address
-Goswami/066e4d4956f82ee3	Email Address
+indeed.com/r/Sayani-	Email_Address
+Goswami/066e4d4956f82ee3	Email_Address
 WORK	O
 EXPERIENCE	O
 I	Profil
@@ -44890,7 +44889,7 @@ as	O
 Sales	O
 Consultant	O
 (Promoter)	O
-MICROSOFT	Companies worked at
+MICROSOFT	Companies_worked_at
 -	O
 August	O
 2014	O
@@ -44898,8 +44897,8 @@ to	O
 October	O
 2015	O
 EDUCATION	O
-Periyar	College Name
-University	College Name
+Periyar	College_Name
+University	College_Name
 2016	O
 to	O
 Present	O
@@ -44929,32 +44928,32 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sweety-Garg/9f2d2afa546d730d	Email Address
+indeed.com/r/Sweety-Garg/9f2d2afa546d730d	Email_Address
 WORK	O
 EXPERIENCE	O
 Technical	Profil
 consultant	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 Bangalore	O
 Urban	O
 Karnataka	O
 -	O
 July	O
-2013	Graduation Year
+2013	Graduation_Year
 to	O
 Present	O
 EDUCATION	O
 B.Tech	Degree
 in	Degree
 Engineering	Degree
-SRM	College Name
-University	College Name
+SRM	College_Name
+University	College_Name
 -	O
 Chennai	O
 Tamil	O
 Nadu	O
-2013	Graduation Year
+2013	Graduation_Year
 Engineering	O
 Central	O
 Academy	O
@@ -44987,7 +44986,7 @@ Management	Skills
 Skills.	Skills
 ?	Skills
 Responsible.	Skills
-h	Companies worked at
+h	Companies_worked_at
 ttps://www.indeed.com/r/Sweety-Garg/9f2d2afa546d730d?isid=rex-download&ikw=download-top&co=IN	O
 
 Ramkrishan	Name
@@ -45003,8 +45002,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ramkrishan-Bhatt/	Email Address
-da07dc6d058dfc64	Email Address
+indeed.com/r/Ramkrishan-Bhatt/	Email_Address
+da07dc6d058dfc64	Email_Address
 WORK	O
 EXPERIENCE	O
 Python	Profil
@@ -45184,10 +45183,10 @@ to	O
 August	O
 2016	O
 BCA	Degree
-affiliated	College Name
--	College Name
-Kota	College Name
-Rajasthan	College Name
+affiliated	College_Name
+-	College_Name
+Kota	College_Name
+Rajasthan	College_Name
 https://www.indeed.com/r/Ramkrishan-Bhatt/da07dc6d058dfc64?isid=rex-download&ikw=download-top&co=IN	O
 https://www.indeed.com/r/Ramkrishan-Bhatt/da07dc6d058dfc64?isid=rex-download&ikw=download-top&co=IN	O
 
@@ -45202,7 +45201,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/B-Gokul/ca7750b94830268d	Email Address
+indeed.com/r/B-Gokul/ca7750b94830268d	Email_Address
 I	O
 Wish	O
 to	O
@@ -45248,8 +45247,8 @@ WORK	O
 EXPE	O
 RIENCE	Profil
 So	O
-ftware	Companies worked at
-M	Companies worked at
+ftware	Companies_worked_at
+M	Companies_worked_at
 icrosoft	O
 -	O
 2018	O
@@ -45288,9 +45287,9 @@ BOARD	O
 UNIV	O
 ERSIT	Degree
 Y	O
-B.SC	College Name
-Periyar	College Name
-Uni	College Name
+B.SC	College_Name
+Periyar	College_Name
+Uni	College_Name
 versity	O
 -	O
 Salem	O
@@ -45339,7 +45338,7 @@ Excel	Skills
 	Skills
 Microsoft	Skills
 w	Skills
-o	Companies worked at
+o	Companies_worked_at
 rd	O
 2010	O
 
@@ -45353,12 +45352,12 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Anand-S/ce230cad6115ae68	Email Address
+indeed.com/r/Anand-S/ce230cad6115ae68	Email_Address
 WORK	O
 EXPERIENCE	O
 Space	Profil
 auditing	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 -	O
 2017	O
 to	O
@@ -45367,8 +45366,8 @@ Auditing	O
 the	O
 space.	O
 EDUCATION	O
-Vijaya	College Name
-main	College Name
+Vijaya	College_Name
+main	College_Name
 Vijaya	O
 Skills	O
 Good	Skills
@@ -45403,7 +45402,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Krishna-Prasad/b8d7a1135a44a37a	Email Address
+indeed.com/r/Krishna-Prasad/b8d7a1135a44a37a	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -45419,20 +45418,20 @@ EXPERIENCE	O
 Data	Profil
 Entry	Profil
 Operator	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 EDUCATION	O
 BSc	Degree
 in	Degree
 Computer	Degree
 Science	Degree
-Magadh	College Name
-university	College Name
+Magadh	College_Name
+university	College_Name
 -	O
 Patna	Location
 	O
 Bihar	O
 https://www.	O
-indeed.com/r/Krishna-Prasad/b8d7a1135a44a37a	Email Address
+indeed.com/r/Krishna-Prasad/b8d7a1135a44a37a	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 Saurabh	Name
@@ -45447,8 +45446,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Saurabh-Sandhikar/	Email Address
-e490c0d49e5aa698	Email Address
+indeed.com/r/Saurabh-Sandhikar/	Email_Address
+e490c0d49e5aa698	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -45645,7 +45644,7 @@ event)	O
 Microsoft	Profil
 Student	Profil
 partner	Profil
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Microsoft	Profil
 Student	Profil
 partner	Profil
@@ -45653,19 +45652,19 @@ EDUCATION	O
 B.Tech	Degree
 in	Degree
 CSE	Degree
-Gandhi	College Name
-Institute	College Name
-of	College Name
-Science	College Name
-And	College Name
-Technology	College Name
-(GITAM)	College Name
-University	College Name
+Gandhi	College_Name
+Institute	College_Name
+of	College_Name
+Science	College_Name
+And	College_Name
+Technology	College_Name
+(GITAM)	College_Name
+University	College_Name
 June	O
 2012	O
 to	O
 April	O
-2016	Graduation Year
+2016	Graduation_Year
 https://www.indeed.com/r/Saurabh-Sandhikar/e490c0d49e5aa698?isid=rex-download&ikw=download-top&co=IN	O
 https://www.indeed.com/r/Saurabh-Sandhikar/e490c0d49e5aa698?isid=rex-download&ikw=download-top&co=IN	O
 Delta	O
@@ -45716,7 +45715,7 @@ year)	Skills
 ADDITIONAL	O
 INFORMATION	O
 years.	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 student	O
 partner-Developed	O
 applications	O
@@ -45739,7 +45738,7 @@ students	O
 about	O
 latest	O
 technologies.	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Certified	O
 Technology	O
 Associate:	O
@@ -45747,7 +45746,7 @@ Web	O
 Development	O
 Fundamentals.	O
 Completed	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 Leadlab	O
 &amp;	O
 Global	O
@@ -45809,7 +45808,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Priyesh-Dubey/cd079a9e5de18281	Email Address
+indeed.com/r/Priyesh-Dubey/cd079a9e5de18281	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -45827,7 +45826,7 @@ Karnataka	O
 WORK	O
 EXPERIENCE	O
 Architect	Profil
-Cognizant	Companies worked at
+Cognizant	Companies_worked_at
 -	O
 Hyderabad	Location
 	O
@@ -45841,7 +45840,7 @@ Present	O
 
 Worked	O
 with	O
-Microsoft	Companies worked at
+Microsoft	Companies_worked_at
 	O
 Hyderabad	Location
 as	O
@@ -45994,8 +45993,8 @@ VS	O
 tests	O
 using	O
 Moq	O
-and	Companies worked at
-Micro	Companies worked at
+and	Companies_worked_at
+Micro	Companies_worked_at
 soft	O
 Fakes	O
 for	O
@@ -46122,8 +46121,8 @@ N	Profil
 Software	Profil
 Devel	Profil
 op	O
-er	Companies worked at
-Micro	Companies worked at
+er	Companies_worked_at
+Micro	Companies_worked_at
 soft	O
 Worked	O
 as	O
@@ -46191,8 +46190,8 @@ Test	Skills
 Microsoft	Skills
 Fakes	Skills
 N-	Skills
-U	Companies worked at
-n	Companies worked at
+U	Companies_worked_at
+n	Companies_worked_at
 it	O
 
 Laya	Name
@@ -46201,8 +46200,8 @@ Cluster	Profil
 HR	Profil
 Manager	Profil
 -	O
-Velammal	Companies worked at
-New	Companies worked at
+Velammal	Companies_worked_at
+New	Companies_worked_at
 Chennai	Location
 	O
 Tamil	O
@@ -46212,7 +46211,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Laya-A/74af8dc044f3fa7f	Email Address
+indeed.com/r/Laya-A/74af8dc044f3fa7f	Email_Address
 
 A	O
 competent	O
@@ -46379,8 +46378,8 @@ services.	O
 WORK	O
 EXPERIENCE	O
 Cluster	O
-HR	Companies worked at
-Manager	Companies worked at
+HR	Companies_worked_at
+Manager	Companies_worked_at
 Vela	O
 mmal	Location
 Ne	Location
@@ -46723,10 +46722,10 @@ In	O
 dia	Degree
 EDUCATI	Degree
 ON	O
-B.B.A	College Name
-in	College Name
-UIT	College Name
-K	College Name
+B.B.A	College_Name
+in	College_Name
+UIT	College_Name
+K	College_Name
 erala	O
 University	O
 2008	Skills
@@ -46877,11 +46876,11 @@ Audit)	Profil
 Job	O
 Profile	O
 in	O
-LabourNet	Companies worked at
-Services	Companies worked at
-India	Companies worked at
-Pvt	Companies worked at
-Ltd	Companies worked at
+LabourNet	Companies_worked_at
+Services	Companies_worked_at
+India	Companies_worked_at
+Pvt	Companies_worked_at
+Ltd	Companies_worked_at
 Bengaluru	Location
 Karnataka	O
 -	O
@@ -46889,7 +46888,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Vishwanath-P/06a16ac2d087d3c9	Email Address
+indeed.com/r/Vishwanath-P/06a16ac2d087d3c9	Email_Address
 I	O
 look	O
 forward	O
@@ -47243,7 +47242,7 @@ reporting	O
 to	O
 me.	O
 https://	O
-www.indeed.com/r/Vishwanath-P/06a16ac2d087	Email Address
+www.indeed.com/r/Vishwanath-P/06a16ac2d087	Email_Address
 d3c9?isid=rex-download&ikw=download-top&co=IN	O
 MIS	O
 Executive	O
@@ -48143,9 +48142,9 @@ and	O
 wi	Degree
 t	Degree
 h	O
-Good	College Name
-Quality.	College Name
-EDUCATION	College Name
+Good	College_Name
+Quality.	College_Name
+EDUCATION	College_Name
 BSc	O
 V	O
 V	O
@@ -48163,9 +48162,9 @@ Jr.	Profil
 ASP.NET	Profil
 Developer	Profil
 in	O
-True	College Name
-Vision	College Name
-Technology	College Name
+True	College_Name
+Vision	College_Name
+Technology	College_Name
 Ahmedabad	O
 Gujarat	O
 -	O
@@ -48230,9 +48229,9 @@ Jr.	Profil
 ASP.NET	Profil
 Developer	Profil
 in	O
-True	College Name
-Vision	College Name
-Technology	College Name
+True	College_Name
+Vision	College_Name
+Technology	College_Name
 -	O
 September	O
 2015	O
@@ -48266,18 +48265,18 @@ August	O
 2015	O
 EDUCATION	O
 MSC	Degree
-KSV	College Name
-University	College Name
+KSV	College_Name
+University	College_Name
 -	O
 Gandhinagar	O
 Gujarat	O
 April	O
 2015	O
 B.C.A	Degree
-Gujarat	College Name
-University	College Name
+Gujarat	College_Name
+University	College_Name
 April	O
-2013	Graduation Year
+2013	Graduation_Year
 Skills	O
 ASP	Skills
 (1	Skills
@@ -48407,8 +48406,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Siddhartha-Chetri/	Email Address
-f6959d21c6b91bba	Email Address
+indeed.com/r/Siddhartha-Chetri/	Email_Address
+f6959d21c6b91bba	Email_Address
 A	O
 career	O
 with	O
@@ -48460,19 +48459,19 @@ IT	O
 Sector.	O
 WORK	O
 EXPERIENCE	O
-Partner	Companies worked at
-Sites	Companies worked at
-Infosys	Companies worked at
-Concentrix	Companies worked at
-Merchants	Companies worked at
-and	Companies worked at
-Convergys	Companies worked at
-Collabera	Companies worked at
-Technologies-	Companies worked at
-Client-	Companies worked at
-Cisco	Companies worked at
-Systems	Companies worked at
-Inc	Companies worked at
+Partner	Companies_worked_at
+Sites	Companies_worked_at
+Infosys	Companies_worked_at
+Concentrix	Companies_worked_at
+Merchants	Companies_worked_at
+and	Companies_worked_at
+Convergys	Companies_worked_at
+Collabera	Companies_worked_at
+Technologies-	Companies_worked_at
+Client-	Companies_worked_at
+Cisco	Companies_worked_at
+Systems	Companies_worked_at
+Inc	Companies_worked_at
 -	O
 July	O
 2015	O
@@ -48955,7 +48954,7 @@ Expert	O
 Aditya	O
 Birla	O
 M	O
-inac	Graduation Year
+inac	Graduation_Year
 s	O
 -	O
 August	O
@@ -49127,18 +49126,18 @@ Application	Degree
 in	Degree
 Comp	Degree
 ut	O
-er	College Name
-Application	College Name
-Administrative	College Name
-Management	College Name
-College	College Name
-Bang	College Name
+er	College_Name
+Application	College_Name
+Administrative	College_Name
+Management	College_Name
+College	College_Name
+Bang	College_Name
 alore	O
 University	O
 -	O
 Bengaluru	O
 Kar	O
-nata	Graduation Year
+nata	Graduation_Year
 ka	O
 2007	O
 t	O
@@ -49374,9 +49373,9 @@ EXPERIENCE	O
 DevOps	Profil
 Consultant	Profil
 -	O
-Tech	Companies worked at
-Mahindra	Companies worked at
-Ltd	Companies worked at
+Tech	Companies_worked_at
+Mahindra	Companies_worked_at
+Ltd	Companies_worked_at
 -	O
 March	O
 2018	O
@@ -49393,9 +49392,9 @@ U4	O
 DevOps	Profil
 Consultant	Profil
 -	O
-Tech	Companies worked at
-Mahindra	Companies worked at
-Ltd	Companies worked at
+Tech	Companies_worked_at
+Mahindra	Companies_worked_at
+Ltd	Companies_worked_at
 -	O
 April	O
 2005	O
@@ -49440,25 +49439,25 @@ Information	Degree
 Technology	Degree
 and	Degree
 Management	Degree
-Periyar	College Name
-University	College Name
+Periyar	College_Name
+University	College_Name
 June	O
-2001	Graduation Year
+2001	Graduation_Year
 P.G.D.C.A	Degree
 in	Degree
 Computer	Degree
 Applications	Degree
-Nagarjuna	College Name
-University	College Name
+Nagarjuna	College_Name
+University	College_Name
 June	O
-1998	Graduation Year
+1998	Graduation_Year
 B.Sc.	Degree
 in	Degree
 M.P.C	Degree
-Andhra	College Name
-University	College Name
+Andhra	College_Name
+University	College_Name
 June	O
-1997	Graduation Year
+1997	Graduation_Year
 Skills	O
 .Net	Skills
 (Less	Skills
@@ -49755,10 +49754,10 @@ in	O
 Computer	O
 Engineering	O
 from	O
-Georgia	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
+Georgia	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
 (Atlanta)	O
 
 Worked	O
@@ -50547,10 +50546,10 @@ Electrical	Degree
 &	Degree
 Comp	Degree
 ut	O
-er	College Name
-Engineering	College Name
-Georgia	College Name
-Institu	College Name
+er	College_Name
+Engineering	College_Name
+Georgia	College_Name
+Institu	College_Name
 te	O
 of	O
 Technology	O
@@ -50571,10 +50570,10 @@ Electronics	Degree
 &	Degree
 Communica	Degree
 ti	O
-on	College Name
-Engineering	College Name
-Amrita	College Name
-School	College Name
+on	College_Name
+Engineering	College_Name
+Amrita	College_Name
+School	College_Name
 of	O
 Engineering	O
 -	O
@@ -50668,8 +50667,8 @@ Senior	Profil
 Process	Profil
 Executive	Profil
 -	O
-STAR	Companies worked at
-India	Companies worked at
+STAR	Companies_worked_at
+India	Companies_worked_at
 Bengaluru	Location
 	O
 Karnataka	O
@@ -50678,7 +50677,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Shaik-Tazuddin/1366179051f145eb	Email Address
+indeed.com/r/Shaik-Tazuddin/1366179051f145eb	Email_Address
 To	O
 establish	O
 myself	O
@@ -51084,10 +51083,10 @@ October	O
 EDU	O
 CATION	Degree
 B.Com	Degree
-in	College Name
-C.A	College Name
-S.V	College Name
-Un	College Name
+in	College_Name
+C.A	College_Name
+S.V	College_Name
+Un	College_Name
 iversity	O
 -	O
 Tirupati	O
@@ -51171,7 +51170,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Angad-Waghmare/42aa9e8655a5f7a3	Email Address
+indeed.com/r/Angad-Waghmare/42aa9e8655a5f7a3	Email_Address
 ?	O
 Total	O
 32	O
@@ -51525,8 +51524,8 @@ on	O
 Thursday	O
 every	O
 m	O
-onths.	Email Address
-https://www.indeed.com/r/Angad-Waghm	Email Address
+onths.	Email_Address
+https://www.indeed.com/r/Angad-Waghm	Email_Address
 are/42aa9e8655a5f7a3?isid=rex-download&ikw=download-top&co=IN	O
 ?	O
 Configure	O
@@ -51723,8 +51722,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Sohan-	Email Address
-Dhakad/038dfd47a0cf071f	Email Address
+indeed.com/r/Sohan-	Email_Address
+Dhakad/038dfd47a0cf071f	Email_Address
 Serve	O
 the	O
 organization	O
@@ -51832,8 +51831,8 @@ Companies	O
 Regulations	O
 &amp;	O
 Provisions.	O
-EDUCATION	College Name
-Jiwaj	College Name
+EDUCATION	College_Name
+Jiwaj	College_Name
 i	O
 University	O
 -	O
@@ -51862,8 +51861,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Madhava-	Email Address
-Konjeti/964a277f6ace570c	Email Address
+indeed.com/r/Madhava-	Email_Address
+Konjeti/964a277f6ace570c	Email_Address
 To	O
 contribute	O
 to	O
@@ -51903,10 +51902,10 @@ EXPERIENCE	O
 HR	Profil
 Trainee	Profil
 Associate	Profil
-Founding	Companies worked at
-Years	Companies worked at
-Learning	Companies worked at
-Solutions	Companies worked at
+Founding	Companies_worked_at
+Years	Companies_worked_at
+Learning	Companies_worked_at
+Solutions	Companies_worked_at
 -	O
 Bangalore	O
 Urban	O
@@ -51972,7 +51971,7 @@ Infosys	O
 Recruitment	O
 -	O
 September	O
-2016	Graduation Year
+2016	Graduation_Year
 to	O
 April	O
 2017	O
@@ -52030,10 +52029,10 @@ Bangalore	O
 Karnataka	O
 -	O
 September	O
-2016	Graduation Year
+2016	Graduation_Year
 to	O
 September	O
-2016	Graduation Year
+2016	Graduation_Year
 1month	O
 10days	O
 https://www.indeed.com/r/Madhava-Konjeti/964a277f6ace570c?isid=rex-download&ikw=download-top&co=IN	O
@@ -52057,30 +52056,30 @@ Infosys	O
 HR	Profil
 Executive	Profil
 September	O
-2016	Graduation Year
+2016	Graduation_Year
 -April	O
 EDUCATION	O
 MBA	Degree
-Visvesvaraya	College Name
-Technological	College Name
-University	College Name
+Visvesvaraya	College_Name
+Technological	College_Name
+University	College_Name
 2014	O
 to	O
-2016	Graduation Year
+2016	Graduation_Year
 BBM	Degree
 in	Degree
 education	Degree
-New	College Name
-Horizon	College Name
-College	College Name
-(Bangalore	College Name
-University)	College Name
+New	College_Name
+Horizon	College_Name
+College	College_Name
+(Bangalore	College_Name
+University)	College_Name
 -	O
 Bangalore	O
 Karnataka	O
 2010	O
 to	O
-2013	Graduation Year
+2013	Graduation_Year
 S.S.C	O
 Vijnana	O
 Vihara	O
@@ -52124,7 +52123,7 @@ at	Profil
 Infosys	Profil
 Limited	Profil
 -	O
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 Bengaluru	Location
 	O
 Karnataka	O
@@ -52133,8 +52132,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Shreya-Agnihotri/	Email Address
-c1755567027a0205	Email Address
+indeed.com/r/Shreya-Agnihotri/	Email_Address
+c1755567027a0205	Email_Address
 
 Having	O
 2.7	O
@@ -52278,8 +52277,8 @@ EDUCATION	O
 B.Tech	Degree
 in	Degree
 ECE	Degree
-Galgotias	College Name
-University	College Name
+Galgotias	College_Name
+University	College_Name
 Skills	O
 Ajax	Skills
 (Less	Skills
@@ -52349,15 +52348,15 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Tapan-kumar-Nayak/	Email Address
-da1f5ffb3c4c4b17	Email Address
+indeed.com/r/Tapan-kumar-Nayak/	Email_Address
+da1f5ffb3c4c4b17	Email_Address
 WORK	O
 EXPERIENCE	O
 10years	Duration
 G4S	Profil
 Security	Profil
 in	O
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 G4S	O
 -	O
 Bhubaneshwar	Location
@@ -52384,15 +52383,15 @@ Jain	Name
 Quality	Profil
 Analyst	Profil
 -	O
-ThoughtWorks	Companies worked at
-Technologies	Companies worked at
+ThoughtWorks	Companies_worked_at
+Technologies	Companies_worked_at
 Pune	Location
 -	O
 Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Arpit-Jain/3714fe32f98b03a9	Email Address
+indeed.com/r/Arpit-Jain/3714fe32f98b03a9	Email_Address
 
 Quality	Profil
 Analyst	Profil
@@ -52493,9 +52492,9 @@ EXPE	O
 RIENCE	Profil
 Quality	Profil
 A	O
-nalyst	Companies worked at
-ThoughtWorks	Companies worked at
-Tech	Companies worked at
+nalyst	Companies_worked_at
+ThoughtWorks	Companies_worked_at
+Tech	Companies_worked_at
 nologies	O
 -	O
 April	O
@@ -52537,7 +52536,7 @@ and	O
 Desktop	O
 Browsers	O
 http	O
-s://www.indeed.com/r/Arpit-Jain/3714fe32	Email Address
+s://www.indeed.com/r/Arpit-Jain/3714fe32	Email_Address
 f98b03a9?isid=rex-download&ikw=download-top&co=IN	O
 
 Functional	O
@@ -52577,10 +52576,10 @@ ZAP	O
 Test	O
 Engineer	O
 (Infos	O
-ys	Companies worked at
-Ltd	Companies worked at
-ThoughtWorks	Companies worked at
-Tech	Companies worked at
+ys	Companies_worked_at
+Ltd	Companies_worked_at
+ThoughtWorks	Companies_worked_at
+Tech	Companies_worked_at
 nologies	O
 -	O
 June	O
@@ -52664,18 +52663,18 @@ s	O
 cripts	Profil
 Quality	Profil
 A	O
-nalyst	Companies worked at
-ThoughtWorks	Companies worked at
-Tech	Companies worked at
+nalyst	Companies_worked_at
+ThoughtWorks	Companies_worked_at
+Tech	Companies_worked_at
 nologies	O
 EDU	O
 CATION	Degree
-B.Tech	College Name
-Jaypee	College Name
-Institute	College Name
-Of	College Name
-Information	College Name
-Tec	College Name
+B.Tech	College_Name
+Jaypee	College_Name
+Institute	College_Name
+Of	College_Name
+Information	College_Name
+Tec	College_Name
 hnology	O
 -	O
 Noida	O
@@ -52725,7 +52724,7 @@ Technology	Profil
 Support	Profil
 Executive	Profil
 at	O
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 -	O
 Development	O
 Porur	Location
@@ -52738,7 +52737,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Palani-S/d3b2e79f56262868	Email Address
+indeed.com/r/Palani-S/d3b2e79f56262868	Email_Address
 To	O
 seek	O
 a	O
@@ -52779,8 +52778,8 @@ Technology	Profil
 Support	Profil
 E	Profil
 xec	O
-utive	Companies worked at
-at	Companies worked at
+utive	Companies_worked_at
+at	Companies_worked_at
 Infosys	O
 Development	O
 -	O
@@ -52804,8 +52803,8 @@ Technology	Profil
 Support	Profil
 E	Profil
 xec	O
-utive	Companies worked at
-at	Companies worked at
+utive	Companies_worked_at
+at	Companies_worked_at
 Infosys	O
 Chennai	O
 from	O
@@ -53213,27 +53212,27 @@ EDUCATION	Degree
 MCA	Degree
 in	Degree
 E	O
-ngineering	College Name
-Anna	College Name
+ngineering	College_Name
+Anna	College_Name
 University	O
 -	O
 Chennai	O
 Tamil	O
 Nad	O
-u	Graduation Year
-D	Graduation Year
+u	Graduation_Year
+D	Graduation_Year
 ec	O
 ember	Degree
 2	O
-009	College Name
-B.SC.	College Name
-MS	College Name
+009	College_Name
+B.SC.	College_Name
+MS	College_Name
 University	O
 -	O
 Tirunelveli	O
 Tamil	O
 Nadu	O
-Se	Graduation Year
+Se	Graduation_Year
 ptember	O
 2006	O
 HSC	O
@@ -53242,7 +53241,7 @@ Kanna	O
 Matriculation	O
 Higher	O
 Second	O
-ary	Graduation Year
+ary	Graduation_Year
 School	O
 2006	O
 SSLC	O
@@ -53259,8 +53258,8 @@ Kondya	Name
 Systems	Profil
 Engineer	Profil
 	O
-Infosys	Companies worked at
-Bangalore	Companies worked at
+Infosys	Companies_worked_at
+Bangalore	Companies_worked_at
 Bangalore	Location
 Urban	O
 Karnataka	O
@@ -53269,8 +53268,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Meenalochani-	Email Address
-Kondya/81e406bd03e7a6d2	Email Address
+indeed.com/r/Meenalochani-	Email_Address
+Kondya/81e406bd03e7a6d2	Email_Address
 
 Completed	O
 M.Tech	O
@@ -53287,15 +53286,15 @@ Integrated	O
 Learning	O
 Program	O
 of	O
-Birla	College Name
-Institute	College Name
+Birla	College_Name
+Institute	College_Name
 of	O
 Technology	O
 and	O
 Science	O
 Pilani	O
 in	O
-2017	Graduation Year
+2017	Graduation_Year
 
 Placed	O
 in	O
@@ -53314,7 +53313,7 @@ between	O
 February	O
 and	O
 May	O
-2013	Graduation Year
+2013	Graduation_Year
 with	O
 Infosys	O
 at	O
@@ -53535,7 +53534,7 @@ ROLE	O
 Developer	O
 PERIOD	O
 October	O
-2013	Graduation Year
+2013	Graduation_Year
 to	O
 November	O
 2014	O
@@ -53665,20 +53664,20 @@ in	Degree
 Technology	Degree
 &	Degree
 Science	Degree
-Birla	College Name
-Institute	College Name
+Birla	College_Name
+Institute	College_Name
 -	O
 Pilani	O
 Rajasthan	O
-2017	Graduation Year
+2017	Graduation_Year
 B	Degree
 Tech	Degree
 in	Degree
 Sri	Degree
 Ramakrishna	Degree
-Anna	College Name
-University	College Name
-2013	Graduation Year
+Anna	College_Name
+University	College_Name
+2013	Graduation_Year
 Education	O
 Board	O
 of	O
@@ -53797,8 +53796,8 @@ Senior	O
 Systems	Profil
 Engineer	Profil
 	O
-Infosys	Companies worked at
-Bangalore	Companies worked at
+Infosys	Companies_worked_at
+Bangalore	Companies_worked_at
 )	Location
 Southern	O
 Gas	O
@@ -53838,10 +53837,10 @@ and	Profil
 QA	Profil
 Engineer	Profil
 at	O
-Skava	Companies worked at
-an	Companies worked at
-Infosys	Companies worked at
-Company	Companies worked at
+Skava	Companies_worked_at
+an	Companies_worked_at
+Infosys	Companies_worked_at
+Company	Companies_worked_at
 -	O
 Data	O
 Mining	O
@@ -53854,8 +53853,8 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Shrinidhi-Selva-	Email Address
-Kumar/50d8e59fabb41a63	Email Address
+indeed.com/r/Shrinidhi-Selva-	Email_Address
+Kumar/50d8e59fabb41a63	Email_Address
 Willing	O
 to	O
 relocate	O
@@ -53878,10 +53877,10 @@ and	Profil
 QA	Profil
 Engineer	Profil
 at	O
-Skava	Companies worked at
-an	Companies worked at
-Infosys	Companies worked at
-Company	Companies worked at
+Skava	Companies_worked_at
+an	Companies_worked_at
+Infosys	Companies_worked_at
+Company	Companies_worked_at
 Data	O
 Mining	O
 -	O
@@ -53937,15 +53936,15 @@ EDUCATION	O
 B.E	Degree
 in	Degree
 CSE	Degree
-Tejaa	College Name
-Shakthi	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
-for	College Name
-Womens	College Name
+Tejaa	College_Name
+Shakthi	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
+for	College_Name
+Womens	College_Name
 June	O
-2015	Graduation Year
+2015	Graduation_Year
 Kongu	O
 Vellalar	O
 Mat.	O
@@ -53973,10 +53972,10 @@ a	O
 Test	Profil
 Analyst	Profil
 -	O
-Infosys	Companies worked at
-Ltd/Edgeverve	Companies worked at
-Systems	Companies worked at
-Ltd	Companies worked at
+Infosys	Companies_worked_at
+Ltd/Edgeverve	Companies_worked_at
+Systems	Companies_worked_at
+Ltd	Companies_worked_at
 Bengaluru	Location
 	O
 Karnataka	O
@@ -53985,7 +53984,7 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Mayank-Shukla/3c6042bd141ad353	Email Address
+indeed.com/r/Mayank-Shukla/3c6042bd141ad353	Email_Address
 ?	O
 3+	O
 years	O
@@ -54057,10 +54056,10 @@ as	O
 a	O
 Test	O
 Analyst	O
-Infosys	Companies worked at
-Ltd/Edgeverve	Companies worked at
-Systems	Companies worked at
-Ltd	Companies worked at
+Infosys	Companies_worked_at
+Ltd/Edgeverve	Companies_worked_at
+Systems	Companies_worked_at
+Ltd	Companies_worked_at
 -	O
 January	O
 2015	O
@@ -54262,40 +54261,40 @@ in	Degree
 Banking	Degree
 and	Degree
 Finance	Degree
-Manipal	College Name
-University	College Name
+Manipal	College_Name
+University	College_Name
 -	O
 Bengaluru	Location
 	O
 Karnataka	O
-2014	Graduation Year
+2014	Graduation_Year
 B.Tech.	Degree
 in	Degree
 Information	Degree
 Technology	Degree
 https://www.	O
-indeed.com/r/Mayank-Shukla/3c6042bd141ad353	Email Address
+indeed.com/r/Mayank-Shukla/3c6042bd141ad353	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
-Saroj	College Name
-Institute	College Name
-of	College Name
-Technology	College Name
-&	College Name
-Management	College Name
+Saroj	College_Name
+Institute	College_Name
+of	College_Name
+Technology	College_Name
+&	College_Name
+Management	College_Name
 -	O
 Lucknow	O
 Uttar	O
 Pradesh	O
-2011	College Name
-Lucknow	College Name
-Public	College Name
-Inter	College Name
-College	College Name
+2011	College_Name
+Lucknow	College_Name
+Public	College_Name
+Inter	College_Name
+College	College_Name
 -	O
 Lucknow	O
 Uttar	O
 Pradesh	O
-2005	Graduation Year
+2005	Graduation_Year
 DIVISION	O
 Skills	O
 CRM	Skills
@@ -54329,14 +54328,14 @@ Bardolia	Name
 Project	Profil
 Lead	Profil
 for	O
-Infosys	Companies worked at
-OpenStack	Companies worked at
+Infosys	Companies_worked_at
+OpenStack	Companies_worked_at
 -	O
 Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Ahmad-Bardolia/8e2c49ea8e7dcd27	Email Address
+indeed.com/r/Ahmad-Bardolia/8e2c49ea8e7dcd27	Email_Address
 
 OpenStack	O
 Cloud	O
@@ -54346,8 +54345,8 @@ a	O
 Project	Profil
 Lead	Profil
 for	O
-Infosys	Companies worked at
-OpenStack	Companies worked at
+Infosys	Companies_worked_at
+OpenStack	Companies_worked_at
 
 Virtualization:	O
 Hyper-V	Skills
@@ -54567,8 +54566,8 @@ EXPERIENCE	O
 Project	Profil
 Lead	Profil
 for	O
-Infosys	Companies worked at
-OpenStack	Companies worked at
+Infosys	Companies_worked_at
+OpenStack	Companies_worked_at
 OpenStack	O
 
 DevOps	O
@@ -54615,14 +54614,14 @@ Email	O
 me	O
 on	O
 Indeed:	O
-indeed.com/r/Puran-Mal/357ea77b3b002be6	Email Address
+indeed.com/r/Puran-Mal/357ea77b3b002be6	Email_Address
 WORK	O
 EXPERIENCE	O
 Admin	Profil
 assistant	Profil
 at	O
-Infosys	Companies worked at
-limited	Companies worked at
+Infosys	Companies_worked_at
+limited	Companies_worked_at
 Front	O
 office	O
 work	O
@@ -54766,7 +54765,7 @@ Ubuntu	Skills
 fedora	Skills
 Linux.	Skills
 https://www.	O
-indeed.com/r/Pavithra-M/26f392ec8251143b	Email Address
+indeed.com/r/Pavithra-M/26f392ec8251143b	Email_Address
 ?isid=rex-download&ikw=download-top&co=IN	O
 
 I	O
@@ -54824,21 +54823,21 @@ MBA	Degree
 in	Degree
 Information	Degree
 Technology	Degree
-Sikkim	College Name
-Manipal	College Name
-University	College Name
-2013	Graduation Year
+Sikkim	College_Name
+Manipal	College_Name
+University	College_Name
+2013	Graduation_Year
 Bachelor	Degree
 of	Degree
 Arts	Degree
-University	College Name
-of	College Name
-Calcutta	College Name
+University	College_Name
+of	College_Name
+Calcutta	College_Name
 -	O
 Kolkata	O
 West	O
 Bengal	O
-2005	Graduation Year
+2005	Graduation_Year
 'A'	Degree
 Level	Degree
 in	Degree
@@ -54909,8 +54908,8 @@ in	Degree
 Biochemistry	Degree
 in	Degree
 Biochemistry	Degree
-Ramakrishna	College Name
-College	College Name
+Ramakrishna	College_Name
+College	College_Name
 Skills	O
 Excel	Skills
 (10+	Duration
@@ -54930,14 +54929,14 @@ Kumar	Name
 Security	Profil
 Analyst	Profil
 in	O
-Infosys	Companies worked at
+Infosys	Companies_worked_at
 EDUCATION	O
 B-	Degree
 Tech	Degree
-Jawaharlal	College Name
-Nehru	College Name
-Technological	College Name
-University	College Name
+Jawaharlal	College_Name
+Nehru	College_Name
+Technological	College_Name
+University	College_Name
 -	O
 Hyderabad	O
 Telangana	O
