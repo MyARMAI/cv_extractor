@@ -14,23 +14,27 @@ import json
 import numpy as np
 import tensorflow as tf
 import keras
-
+import gensim
 from keras.preprocessing.sequence import pad_sequences
 
 session = keras.backend.get_session()
 init = tf.global_variables_initializer()
+
 session.run(init)
 
 graph = tf.get_default_graph()
 
-
+print("current dir"+os.getcwd())
 model = tf.keras.models.load_model(
-    "../models/saved_model/lstm_ner_model_F1_37_3.h5")
+    "..\models\saved_model\lstm_ner_model_F1_37_3.h5")
 
 
-tokenizer = RegexpTokenizer(r'\w+')
+phraser = gensim.models.Phrases.load(
+    "..\models\saved_model\phraser")
+
 word2idx = {}
 max_len = 50
+tokenizer = RegexpTokenizer(r'\w+')
 
 
 with open("word2idx.json", "r", encoding="utf-8") as f:
@@ -56,7 +60,7 @@ def dataCleaning(raw_data, stop_lang="english"):
     cleaned_data = re.sub("[\\r\\n\|]*", "", raw_data)
     stop_words = set(stopwords.words(stop_lang))
     cleaned_data = [x for x in tokenizer.tokenize(cleaned_data)]
-   # print(cleaned_data)
+  #  print(cleaned_data)
     return cleaned_data
 
 
@@ -77,13 +81,15 @@ def post_process(out):
         category.append(value)
         if value == "Skills" and re.match("[0-9]", key):
             out[key] = "Level"
-
+    bi_gram = []
     result = {}
     category = list(set(category))
     for _c in category:
-        c = [x for x, y in out.items() if y == _c]
-        result[_c] = c
-    result.pop("O")
+        c = [x.lower() for x, y in out.items() if y == _c]
+        # apply bigram model
+        result[_c] = phraser[c]
+    result
+    # print(result)
     return result
 
 
@@ -95,7 +101,6 @@ def predict(filepath):
     cleaned_test_file = dataCleaning(raw_test_file)
 
     sequences = pre_process_doc(cleaned_test_file)
-
     pred_dict = {}
 
     output_file = ""
@@ -113,7 +118,7 @@ def predict(filepath):
             for w, pred in zip(seq, p[0]):
                 pred_dict[w] = tags[pred]
                 output_file += w+"  "+tags[pred]+"\n"
-             ##   print("{:15}: {:5}".format(w, tags[pred]))
+                #print("{:15}: {:5}".format(w, tags[pred]))
 
     return post_process(pred_dict)
 
@@ -121,7 +126,8 @@ def predict(filepath):
 if __name__ == "__main__":
     tf.compat.v1.disable_v2_behavior()
     print("main")
-    test_file = r'C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\cv\cv_atos\eng\CV ATOS Amadou NDIAYE - ENGLISH.doc'
+
+    test_file = r'..\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx'
     predict(test_file)
     #res = predict("./out/CV_ATOS_Amadou_NDIAYE_-_ENGLISH.doc")
    # print(res)

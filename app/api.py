@@ -10,7 +10,12 @@ from flask_cors import CORS
 from flask import Flask, flash, request, redirect, url_for, jsonify
 from werkzeug.utils import secure_filename
 import textract
+
 from predict import predict
+
+import os
+import glob
+
 
 TF_PREDICT_SERVER = " http://localhost:8501/v1/models/extractor:predict"
 
@@ -41,6 +46,10 @@ def extractor():
         filename = secure_filename(file.filename)
         file.save("./temp/"+filename)
         res = predict("./temp/"+filename)
+        files = glob.glob('./temp/*')
+        for f in files:
+            os.remove(f)
+        
         return jsonify(res)
 
     return jsonify("-1")
