@@ -1,1 +1,0 @@
-docker run -p 8501:8501 --name tf_server --mount type=bind,source=C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\models\SavedFormat,target=models/extractor -e MODEL_NAME=extractor -t tensorflow/serving
