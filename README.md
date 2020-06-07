@@ -1,5 +1,5 @@
 # myArmAi
-
+![Docker](https://github.com/MyARMAI/cv_extractor/workflows/Docker/badge.svg?branch=master)
 MyARM CV fields Extractor. There's two types of extractor :
 
 1. Rule based extractor
