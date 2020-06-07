@@ -24,4 +24,4 @@ Dependencies :
 - cd into app/src
 - python index.py
 - Open your navigator and go to : http://127.0.0.1:5000/
-- For testing : send a Resume (CV) in docx or doc format(pdf only work if using the ner extractor) file post request to /v1/api/extractor/extract (methods=["POST"])
+- For testing : send a Resume (CV) in docx or doc format(pdf only work if using the ner extractor) post request to /v1/api/extractor/extract
