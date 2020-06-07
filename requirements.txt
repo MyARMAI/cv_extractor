@@ -4,4 +4,4 @@ flask
 textract
 gensim
 numpy
-ntlk
+nltk
