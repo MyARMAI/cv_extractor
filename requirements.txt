@@ -1,0 +1,7 @@
+tensorflow
+keras
+flask
+textract
+gensim
+numpy
+ntlk
