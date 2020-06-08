@@ -19,8 +19,8 @@ app.config["DEBUG"] = True
 ALLOWED_EXTENSIONS = {'pdf', 'doc', 'docx'}
 
 CORS(app)
+
 BASE_PATH = os.path.abspath(os.path.join(__file__, ".."))
-print(BASE_PATH)
 
 TMP_DIR = BASE_PATH+"/temp/" 
 
@@ -49,4 +49,4 @@ def ner_extractor():
 
     return jsonify("-1")
 
-app.run()
+app.run(host="0.0.0.0",port=8080)
