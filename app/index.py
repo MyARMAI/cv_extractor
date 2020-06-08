@@ -19,9 +19,10 @@ app.config["DEBUG"] = True
 ALLOWED_EXTENSIONS = {'pdf', 'doc', 'docx'}
 
 CORS(app)
-BASE_PATH = os.path.abspath(".")
+BASE_PATH = os.path.abspath(os.path.join(__file__, ".."))
+print(BASE_PATH)
 
-TMP_DIR = BASE_PATH+"/app/temp/" 
+TMP_DIR = BASE_PATH+"/temp/" 
 
 def allowed_file(filename):
     return "." in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS

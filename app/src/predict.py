@@ -15,6 +15,7 @@ import tensorflow as tf
 import keras
 import gensim
 from keras.preprocessing.sequence import pad_sequences
+tf.compat.v1.disable_v2_behavior()
 
 session = keras.backend.get_session()
 init = tf.global_variables_initializer()
@@ -23,7 +24,7 @@ session.run(init)
 
 graph = tf.get_default_graph()
 
-BASE_PATH = os.path.abspath(".")
+BASE_PATH = os.path.abspath(os.path.join(__file__, "../../.."))
 
 ##################
 model_path = BASE_PATH + "/models/saved_model/lstm_ner_model_F1_37_3.h5"
@@ -34,8 +35,6 @@ word2idx_path = BASE_PATH + "/app/assets/word2idx.json"
 
 tag2idx_path = BASE_PATH + "/app/assets/tag2idx.json"
 ##################
-
-print(model_path)
 
 model = tf.keras.models.load_model(model_path)
 
@@ -134,7 +133,7 @@ def predict(filepath):
 
 
 if __name__ == "__main__":
-    tf.compat.v1.disable_v2_behavior()
+
     print("main")
 
     test_file = r'..\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx'
