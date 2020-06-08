@@ -1,7 +1,6 @@
 from tensorflow.python.keras.backend import set_session
 from tensorflow.python.keras.models import load_model
 
-
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
 from collections import Counter
@@ -24,24 +23,35 @@ session.run(init)
 
 graph = tf.get_default_graph()
 
-print("current dir"+os.getcwd())
-model = tf.keras.models.load_model(
-    "..\..\models\saved_model\lstm_ner_model_F1_37_3.h5")
+BASE_PATH = os.path.abspath(".")
 
+##################
+model_path = BASE_PATH + "/models/saved_model/lstm_ner_model_F1_37_3.h5"
 
-phraser = gensim.models.Phrases.load(
-    "..\..\models\saved_model\phraser")
+phraser_path = BASE_PATH + "/models/saved_model/phraser"
+
+word2idx_path = BASE_PATH + "/app/assets/word2idx.json"
+
+tag2idx_path = BASE_PATH + "/app/assets/tag2idx.json"
+##################
+
+print(model_path)
+
+model = tf.keras.models.load_model(model_path)
+
+phraser = gensim.models.Phrases.load(phraser_path)
 
 word2idx = {}
 max_len = 50
 tokenizer = RegexpTokenizer(r'\w+')
 
 
-with open(r"..\assets\word2idx.json", "r", encoding="utf-8") as f:
+with open(word2idx_path, encoding="utf-8") as f:
     word2idx = json.load(f)
 
-with open(r"..\assets\tag2idx.json", "r", encoding="utf-8") as f:
+with open(tag2idx_path, encoding="utf-8") as f:
     tag2idx = json.load(f)
+
 tags = tag2idx.keys()
 
 tags = list(tag2idx.keys())
@@ -128,6 +138,6 @@ if __name__ == "__main__":
     print("main")
 
     test_file = r'..\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx'
-    predict(test_file)
+    # predict(test_file)
     #res = predict("./out/CV_ATOS_Amadou_NDIAYE_-_ENGLISH.doc")
    # print(res)

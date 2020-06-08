@@ -1,7 +1,9 @@
 tensorflow
 keras
+pandas
 flask
 textract
 gensim
 numpy
 nltk
+flask_cors
