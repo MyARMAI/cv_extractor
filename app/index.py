@@ -22,7 +22,7 @@ CORS(app)
 
 BASE_PATH = os.path.abspath(os.path.join(__file__, ".."))
 
-TMP_DIR = BASE_PATH+"/temp/" 
+TMP_DIR = BASE_PATH+"/out/" 
 
 def allowed_file(filename):
     return "." in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
