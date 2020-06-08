@@ -14,6 +14,6 @@ RUN pip install -r ./requirements.txt
 
 EXPOSE 3030
 
-WORKDIR /flask_app
+WORKDIR /flask_app/
 
-CMD ["python","/app/index.py"]
+CMD ["python","app/index.py"]
