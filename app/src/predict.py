@@ -14,7 +14,10 @@ import numpy as np
 import tensorflow as tf
 import keras
 import gensim
+import nltk
 from keras.preprocessing.sequence import pad_sequences
+
+nltk.download('stopwords')
 tf.compat.v1.disable_v2_behavior()
 
 session = keras.backend.get_session()
