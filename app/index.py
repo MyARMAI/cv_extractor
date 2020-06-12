@@ -27,7 +27,7 @@ TMP_DIR = BASE_PATH+"/out/"
 def allowed_file(filename):
     return "." in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
-@app.route("/api/v2/extractor/extract", methods=["POST"])
+@app.route("/api/v1/extractor/extract", methods=["POST"])
 def ner_extractor():
     if 'file' not in request.files:
         return jsonify("no file was provided")

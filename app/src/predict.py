@@ -16,6 +16,9 @@ import gensim
 import nltk
 
 import string
+
+from .utils import loadFile,pre_process_doc,dataCleaning,post_process
+
 printable = set(string.printable)
 
 tf.compat.v1.disable_v2_behavior()
@@ -55,49 +58,6 @@ with open(tag2idx_path, encoding="utf-8") as f:
 tags = tag2idx.keys()
 
 tags = list(tag2idx.keys())
-
-
-def loadFile(filepath):
-
-    if not os.path.isfile(filepath):
-        raise Exception("OpenFileException", "File doesn't exist")
-
-    raw_file = textract.process(os.path.join(filepath)).decode()
-    return raw_file
-
-
-def dataCleaning(raw_data, stop_lang="english"):
-    r = re.sub("[\\r\\t\\n\|\-/]", " ", raw_data)
-    #r = ''.join(filter(lambda x: x in printable, r))
-    r = r.split()
-    return r
-
-
-def pre_process_doc(data):
-    array_nbr = math.ceil(len(data)/max_len)
-    sequences = np.array_split(np.array(data), array_nbr)
-    return sequences
-
-
-def post_process(out):
-    # if a number follow a skills --> transform to level
-    # if a string has a duration has a tag --> O
-    ##
-    # for key,value in out.items():
-    category = []
-    for key, value in out.items():
-        category.append(value)
-        if value == "Skills" and re.match("[0-9]", key.split("_")[1]):
-            out[key] = "Level"
-    bi_gram = []
-    result = {}
-    category = list(set(category))
-    for _c in category:
-        c = [x.split("_")[1].lower() for x, y in out.items() if y == _c]
-        # apply bigram model
-        result[_c] = phraser[c]
-    return result
-
 
 def predict(filepath):
 
