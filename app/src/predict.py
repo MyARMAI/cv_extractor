@@ -73,8 +73,7 @@ def predict(filepath):
     pred_sentence = []
 
     for seq in sequences:
-        pred_sentence = pad_sequences(sequences=[[word2idx.get(w, 0) for w in seq]],
-                                      padding="post", value=0, maxlen=max_len)
+        pred_sentence = pad_sequences(sequences=[[word2idx.get(w, 0) for w in seq]],padding="post", value=0, maxlen=max_len)
         global session
         global graph
         with graph.as_default():
@@ -91,13 +90,20 @@ def predict(filepath):
     # print(pred_dict)
     return post_process(pred_dict)
 
+##ner parser
+def queryParser(sentence):
+    output ={}
+    l = re.sub("[\\r\\t\\n\|\-\_–/,\(\)]", " ", sentence)
+    e = l.split()
+    for i in e:
+        x_test_sent = pad_sequences(sequences=[[word2idx.get(i, 0)]],
+                                padding="post", value=0, maxlen=max_len)
+
+        p = model.predict(np.array([x_test_sent[0]]))
+        p = np.argmax(p, axis=-1)
+        output[i] = tags[p[0][0]]
+    print(output)
+
 
 if __name__ == "__main__":
-
-    print("main")
-
-    test_file = r'C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Fassou Mathias Niamy - ENGLISH.docx'
-    r = predict(test_file)
-    print(r)
-    #res = predict("./out/CV_ATOS_Amadou_NDIAYE_-_ENGLISH.doc")
-   # print(res)
+    queryParser("Software Developer (.NET, C#, MS SQL Server)")
