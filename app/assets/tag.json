@@ -1,0 +1,13 @@
+{
+  "NAME": 0,
+  "LOCATION": 1,
+  "DATE": 2,
+  "YEARS_OF_EXPERIENCE": 3,
+  "COMPANIES_WORKED_AT": 4,
+  "SKILLS": 5,
+  "O": 6,
+  "DEGREE": 7,
+  "COLLEGE_NAME": 8,
+  "EMAIL_ADDRESS": 9,
+  "PROFIL": 10
+}
