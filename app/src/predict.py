@@ -3,7 +3,7 @@ from tensorflow.python.keras.backend import set_session
 from tensorflow.python.keras.models import load_model
 
 from collections import Counter
-
+import sys
 import math
 import textract
 import os
@@ -17,8 +17,6 @@ import nltk
 
 import string
 
-from .utils import loadFile,pre_process_doc,dataCleaning,post_process
-
 printable = set(string.printable)
 
 tf.compat.v1.disable_v2_behavior()
@@ -31,6 +29,9 @@ session.run(init)
 graph = tf.get_default_graph()
 
 BASE_PATH = os.path.abspath(os.path.join(__file__, "../../.."))
+
+sys.path.append(BASE_PATH+"/app/src/")
+from utils import loadFile, pre_process_doc, post_process, dataCleaning
 
 ##################
 model_path = BASE_PATH + "/models/saved_model/lstm_ner_model_F1_37_3.h5"
@@ -92,18 +93,20 @@ def predict(filepath):
 
 ##ner parser
 def queryParser(sentence):
-    output ={}
-    l = re.sub("[\\r\\t\\n\|\-\_–/,\(\)]", " ", sentence)
-    e = l.split()
-    for i in e:
-        x_test_sent = pad_sequences(sequences=[[word2idx.get(i, 0)]],
+    output = {}
+    sent = re.sub("[\\r\\t\\n\|\-\–/,\(\)]", " ", sentence)
+    sent = sent.split()
+    j = 0
+    for w in sent:
+        x_test_sent = pad_sequences(sequences=[[word2idx.get(w, 0)]],
                                 padding="post", value=0, maxlen=max_len)
 
         p = model.predict(np.array([x_test_sent[0]]))
         p = np.argmax(p, axis=-1)
-        output[i] = tags[p[0][0]]
+        output[str(j)+'_'+w] = tags[p[0][0]]
+    print(post_process(output))
     print(output)
 
 
 if __name__ == "__main__":
-    queryParser("Software Developer (.NET, C#, MS SQL Server)")
+    queryParser("R&D Software Developer, Java/C++ (Experienced)")
