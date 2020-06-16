@@ -6,4 +6,5 @@ textract
 gensim
 numpy
 nltk
+tensorflow_hub
 flask_cors
