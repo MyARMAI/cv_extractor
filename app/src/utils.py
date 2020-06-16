@@ -18,9 +18,7 @@ phraser = gensim.models.Phrases.load(phraser_path)
 printable = set(string.printable)
 max_len = 50
 
-
 def loadFile(filepath):
-
     if not os.path.isfile(filepath):
         raise Exception("OpenFileException", "File doesn't exist")
 

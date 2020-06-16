@@ -5,35 +5,42 @@ import tensorflow as tf
 import tensorflow_hub as hub
 import numpy as np
 import gensim
+<<<<<<< HEAD
+=======
+import sys
+
+>>>>>>> elmo
 from keras.models import Model, Input
 from keras.layers.merge import add
 from keras.layers import LSTM, Embedding, Dense, TimeDistributed, Dropout, Bidirectional, Lambda
 from keras import backend as K
 
+<<<<<<< HEAD
 import sys
 
 sys.path.append(BASE_PATH+"/app/src/")
 from utils import loadFile, pre_process_doc, post_process, dataCleaning,fill_out,prepare,divide_chunks
 
+=======
+>>>>>>> elmo
 batch_size = 35
 max_len = 117
 
 tf.compat.v1.disable_v2_behavior()
 
-session = K.get_session()
+
+
+""" session = K.get_session()
 
 init = tf.global_variables_initializer()
-
 session.run(init)
 
-graph = tf.get_default_graph()
+graph = tf.get_default_graph() """
 
 BASE_PATH = os.path.abspath(os.path.join(__file__, "../../.."))
 
 sys.path.append(BASE_PATH+"/app/src/")
-from utils import loadFile, pre_process_doc, post_process, dataCleaning,fill_out,prepare,divide_chunks
-
-
+from utils import loadFile, pre_process_doc, post_process, dataCleaning,divide_chunks,fill_out,prepare
 ##################
 model_path = BASE_PATH + "/models/saved_model/lstm_elmo.h5"
 
@@ -56,7 +63,6 @@ def loadElmo():
     sess = K.get_session()
     K.set_session(sess)
     elmo_model = hub.Module("https://tfhub.dev/google/elmo/3", trainable=False)
-    sess.run(init)
     sess.run(tf.tables_initializer())
     return elmo_model
 
@@ -87,7 +93,7 @@ def createModel():
 def elmoPredict(filepath):
     model = createModel()
     model.load_weights(model_path)
-    model.summary()
+    ##model.summary()
 
     raw_file = loadFile(filepath)
     cleaned_file = dataCleaning(raw_file)
@@ -98,16 +104,17 @@ def elmoPredict(filepath):
         sent = prepare(r, batch_size, max_len)
         offset = batch_size - len(sent)
         for i in range(offset):
-            sent.append(fill_out([]), max_len)
-        p = model.predict(np.array(sent), batch_size=35)[0]
+            sent.append(fill_out([]))
+        p = model.predict(np.array(sent),verbose=1, batch_size=35)[0]
 
         p = np.argmax(p, axis=-1)
         i = 0
         for w, pred in zip(sent[0], p):
             pred_dict[str(i)+'_'+w] = tags[pred]
             i += 1
-            print("{:15}: {:5}".format(w, tags[pred]))
-    return pred_dict
+            #print("{:15}: {:5}".format(w, tags[pred]))
+    return post_process(pred_dict)
+  
 
 
 def prepareSentence(sentence):
