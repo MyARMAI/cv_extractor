@@ -8,7 +8,7 @@ import glob
 from flask_cors import CORS
 from flask import Flask, flash, request, redirect, url_for, jsonify
 
-from src.predict import predict,queryParser
+from src.predict import predict
 from src.elmo import elmoPredict
 
 app = flask.Flask(__name__)

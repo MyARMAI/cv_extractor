@@ -12,6 +12,9 @@ from keras import backend as K
 
 import sys
 
+sys.path.append(BASE_PATH+"/app/src/")
+from utils import loadFile, pre_process_doc, post_process, dataCleaning,fill_out,prepare,divide_chunks
+
 batch_size = 35
 max_len = 117
 
