@@ -8,8 +8,8 @@ import glob
 from flask_cors import CORS
 from flask import Flask, flash, request, redirect, url_for, jsonify
 
-from src.predict import predict
-#from src.elmo import elmoPredict
+from src.predict import predict,queryParser
+from src.elmo import elmoPredict
 
 app = flask.Flask(__name__)
 
@@ -59,6 +59,12 @@ def ner_extractor():
 
     return jsonify("-1")
 
+
+@app.route("/api/v2/extractor/queryParser",methods=["POST"])
+def extractQuery():
+    query = request.get_json(force=True)["query"]
+    parsed = queryParser(query)
+    return jsonify(parsed)
 
 @app.route("/api/v2/extractor/extract", methods=["POST"])
 def elmo_extractor():

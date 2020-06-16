@@ -5,7 +5,7 @@ import keras
 import gensim
 import numpy as np
 import sys
-import sys
+import re
 
 from tensorflow.python.keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
@@ -85,12 +85,14 @@ def queryParser(sentence):
     for w in sent:
         x_test_sent = pad_sequences(sequences=[[word2idx.get(w, 0)]],
                                 padding="post", value=0, maxlen=max_len)
-
-        p = model.predict(np.array([x_test_sent[0]]))
-        p = np.argmax(p, axis=-1)
-        output[str(j)+'_'+w] = tags[p[0][0]]
-    print(post_process(output))
-    print(output)
+        global session
+        global graph
+        with graph.as_default():
+            set_session(session)
+            p = model.predict(np.array([x_test_sent[0]]))
+            p = np.argmax(p, axis=-1)
+            output[str(j)+'_'+w] = tags[p[0][0]]
+    return post_process(output)
 
 
 if __name__ == "__main__":
