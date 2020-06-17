@@ -20,4 +20,4 @@ RUN curl -LJO https://github.com/MyARMAI/cv_extractor/raw/dev/models/saved_model
 
 WORKDIR /flask_app
 
-CMD ["wget","app/index.py"]
+CMD ["python","app/index.py"]
