@@ -47,19 +47,58 @@ def post_process(out):
     ##
     # for key,value in out.items():
     category = []
+    skills =[]
     for key, value in out.items():
         category.append(value)
-        if value == "Skills" and re.match("[0-9]", key.split("_")[1]):
-            out[key] = "Level"
+        if value.lower() == "skills" :
+           skills.append(value)
     bi_gram = []
     result = {}
     category = list(set(category))
+    
     for _c in category:
         c = [x.split("_")[1].lower() for x, y in out.items() if y == _c]
         # apply bigram model
         result[_c] = phraser[c]
+    #print(out)
     return result
 
+def elmo_post_process(out):
+    skills=[]
+    pattern =["years","jour","technical","skills","language","framework","uml","database","bdd"]
+    for key,value in out.items():
+        val = key.split("_")[1]
+        if(value.lower()=="skills"):
+            skills.append(val)
+        if(value.lower()=="years_of_experience"):
+            skills.append(val)
+    skills = [s for s in skills if s.lower() not in pattern]
+    ## remove duplicated string entry
+    res=[]
+    for s in skills:
+        try:
+            v = float(s)
+            res.append(s)
+        except:
+            if s not in res:
+                res.append(s)
+    i = 0
+    while i <len(skills):
+        try:
+            v = float(skills[i])
+            if i+1 <len(skills):
+                level = float(skills[i+1])
+                output[skills[i]] = level
+        except:
+            pass
+        i+=1
+    res = {}
+    for key,value in output.items():
+        try:
+            float(key)
+        except:
+            res[key]= value
+    return res
 
 def convertToSavedModel(modelpath, output_dir):
 

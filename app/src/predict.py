@@ -5,11 +5,8 @@ import keras
 import gensim
 import numpy as np
 import sys
-<<<<<<< HEAD
 import re
-=======
 import sys
->>>>>>> elmo
 
 from tensorflow.python.keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
@@ -31,10 +28,6 @@ from utils import loadFile, pre_process_doc, post_process, dataCleaning
 ##################
 model_path = BASE_PATH + "/models/saved_model/lstm_ner_model_F1_37_3.h5"
 
-<<<<<<< HEAD
-
-=======
->>>>>>> elmo
 word2idx_path = BASE_PATH + "/app/assets/word2idx.json"
 
 tag2idx_path = BASE_PATH + "/app/assets/tag2idx.json"
@@ -77,12 +70,11 @@ def predict(filepath):
                 pred_dict[str(i)+'_'+w] = tags[pred]
                 output_file += w+"  "+tags[pred]+"\n"
                 i += 1
-                #print("{:15}: {:5}".format(w, pred))
+                #print("{:15}: {:5}".format(w, tags[pred]))
                 
     res = post_process(pred_dict)
     #print(res)
     return res
-<<<<<<< HEAD
 
 ##ner parser
 def queryParser(sentence):
@@ -105,16 +97,3 @@ def queryParser(sentence):
 
 if __name__ == "__main__":
     queryParser("R&D Software Developer, Java/C++ (Experienced)")
-=======
-
-
-if __name__ == "__main__":
-
-    print("main")
-
-    test_file = r'C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx'
-    r = predict(test_file)
-    print(r)
-    #res = predict("./out/CV_ATOS_Amadou_NDIAYE_-_ENGLISH.doc")
-   # print(res)
->>>>>>> elmo

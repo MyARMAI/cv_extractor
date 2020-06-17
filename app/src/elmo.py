@@ -5,30 +5,18 @@ import tensorflow as tf
 import tensorflow_hub as hub
 import numpy as np
 import gensim
-<<<<<<< HEAD
-=======
 import sys
 
->>>>>>> elmo
 from keras.models import Model, Input
 from keras.layers.merge import add
 from keras.layers import LSTM, Embedding, Dense, TimeDistributed, Dropout, Bidirectional, Lambda
 from keras import backend as K
 
-<<<<<<< HEAD
-import sys
 
-sys.path.append(BASE_PATH+"/app/src/")
-from utils import loadFile, pre_process_doc, post_process, dataCleaning,fill_out,prepare,divide_chunks
-
-=======
->>>>>>> elmo
 batch_size = 35
 max_len = 117
 
 tf.compat.v1.disable_v2_behavior()
-
-
 
 """ session = K.get_session()
 
@@ -40,7 +28,7 @@ graph = tf.get_default_graph() """
 BASE_PATH = os.path.abspath(os.path.join(__file__, "../../.."))
 
 sys.path.append(BASE_PATH+"/app/src/")
-from utils import loadFile, pre_process_doc, post_process, dataCleaning,divide_chunks,fill_out,prepare
+from utils import loadFile, pre_process_doc, post_process, dataCleaning,divide_chunks,fill_out,prepare,elmo_post_process
 ##################
 model_path = BASE_PATH + "/models/saved_model/lstm_elmo.h5"
 
@@ -97,7 +85,7 @@ def elmoPredict(filepath):
 
     raw_file = loadFile(filepath)
     cleaned_file = dataCleaning(raw_file)
-
+    output_file=""
     res = list(divide_chunks(cleaned_file, max_len))
     pred_dict = {}
     for r in res:
@@ -113,7 +101,7 @@ def elmoPredict(filepath):
             pred_dict[str(i)+'_'+w] = tags[pred]
             i += 1
             #print("{:15}: {:5}".format(w, tags[pred]))
-    return post_process(pred_dict)
+    return elmo_post_process(pred_dict)
   
 
 
