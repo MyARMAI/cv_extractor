@@ -83,6 +83,7 @@ def elmo_post_process(out):
             if s not in res:
                 res.append(s)
     i = 0
+    output={}
     while i <len(skills):
         try:
             v = float(skills[i])

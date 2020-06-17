@@ -114,7 +114,17 @@ def prepareSentence(sentence):
             new_seq.append("__PAD__")
     return new_seq
 
+import glob
+from datetime import datetime
+
 
 if __name__ == "__main__":
-    test_file = r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx"
-    elmoPredict(test_file)
+    files = glob.glob(r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\*")
+    
+    output=[]
+    startTime = datetime.now()
+    for f in files:
+        output.append(elmoPredict(f))
+    print("Elapsed time :  s".format(datetime.now() - startTime))
+    #test_file = r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx"
+    #elmoPredict(test_file)
