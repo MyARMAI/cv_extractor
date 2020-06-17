@@ -14,6 +14,10 @@ RUN pip install -r ./requirements.txt
 
 EXPOSE 3030
 
-WORKDIR /flask_app/
+WORKDIR /flask_app/models/saved_model/
 
-CMD ["python","app/index.py"]
+RUN curl -LJO https://github.com/MyARMAI/cv_extractor/raw/dev/models/saved_model/lstm_elmo.h5
+
+WORKDIR /flask_app
+
+CMD ["wget","app/index.py"]
