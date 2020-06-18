@@ -23,7 +23,7 @@ BASE_PATH = os.path.abspath(os.path.join(__file__, ".."))
 
 TMP_DIR = BASE_PATH+"/out/"
 
-model = startElmo()
+#model = startElmo()
 
 
 def allowed_file(filename):
@@ -68,7 +68,7 @@ def extractQuery():
     parsed = queryParser(query)
     return jsonify(parsed)
 
-@app.route("/api/v2/extractor/extract", methods=["POST"])
+""" @app.route("/api/v2/extractor/extract", methods=["POST"])
 def elmo_extractor():
     filename = validate()
     if filename:
@@ -76,6 +76,6 @@ def elmo_extractor():
         cleanDir()
         return jsonify(res)
 
-    return jsonify("-1")
+    return jsonify("-1") """
 
 app.run(host="0.0.0.0", port=8080,threaded=False)

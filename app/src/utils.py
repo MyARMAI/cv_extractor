@@ -75,7 +75,6 @@ def elmo_post_process(out,k='skills',level="years_of_experience"):
             skills.append(val)
     skills = [s for s in skills if s.lower() not in pattern]
     ## remove duplicated string entry
-    print(skills)
     res=[]
     for s in skills:
         try:
@@ -94,7 +93,6 @@ def elmo_post_process(out,k='skills',level="years_of_experience"):
         except:
             pass
         i+=1
-    print(output)
     res = {}
     for key,value in output.items():
         try:
