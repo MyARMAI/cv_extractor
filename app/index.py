@@ -9,11 +9,11 @@ from flask_cors import CORS
 from flask import Flask, flash, request, redirect, url_for, jsonify
 
 from src.predict import predict
-from src.elmo import elmoPredict
+from src.elmo import elmoPredict,startElmo
 
 app = flask.Flask(__name__)
 
-app.config["DEBUG"] = True
+app.config["DEBUG"] = False
 
 ALLOWED_EXTENSIONS = {'pdf', 'doc', 'docx'}
 
@@ -22,6 +22,8 @@ CORS(app)
 BASE_PATH = os.path.abspath(os.path.join(__file__, ".."))
 
 TMP_DIR = BASE_PATH+"/out/"
+
+model = startElmo()
 
 
 def allowed_file(filename):
@@ -70,10 +72,10 @@ def extractQuery():
 def elmo_extractor():
     filename = validate()
     if filename:
-        res = elmoPredict(TMP_DIR+filename)
+        res = elmoPredict(model,TMP_DIR+filename)
         cleanDir()
         return jsonify(res)
 
     return jsonify("-1")
 
-app.run(host="0.0.0.0", port=8080)
+app.run(host="0.0.0.0", port=8080,threaded=False)

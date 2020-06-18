@@ -78,9 +78,13 @@ def createModel():
     return model
 
 
-def elmoPredict(filepath):
+def startElmo():
     model = createModel()
     model.load_weights(model_path)
+    return model
+
+def elmoPredict(model,filepath):
+   
     ##model.summary()
 
     raw_file = loadFile(filepath)
@@ -101,6 +105,8 @@ def elmoPredict(filepath):
             pred_dict[str(i)+'_'+w] = tags[pred]
             i += 1
             #print("{:15}: {:5}".format(w, tags[pred]))
+    with open(BASE_PATH+"/app/assets/out.json","w") as out:
+        json.dump(pred_dict,out,indent=4)
     return elmo_post_process(pred_dict)
   
 
@@ -120,11 +126,12 @@ from datetime import datetime
 
 if __name__ == "__main__":
     files = glob.glob(r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\*")
-    
-    output=[]
+    model = startElmo()
+    """ output=[]
     startTime = datetime.now()
     for f in files:
         output.append(elmoPredict(f))
-    print("Elapsed time :  s".format(datetime.now() - startTime))
-    #test_file = r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx"
-    #elmoPredict(test_file)
+    print("Elapsed time :  s".format(datetime.now() - startTime)) """
+    test_file = r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx"
+    r= elmoPredict(model,test_file)
+    print(r)

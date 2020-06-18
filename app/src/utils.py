@@ -86,7 +86,6 @@ def elmo_post_process(out):
     output={}
     while i <len(skills):
         try:
-            v = float(skills[i])
             if i+1 <len(skills):
                 level = float(skills[i+1])
                 output[skills[i]] = level
