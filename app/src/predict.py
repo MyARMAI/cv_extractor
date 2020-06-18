@@ -23,7 +23,7 @@ graph = tf.get_default_graph()
 BASE_PATH = os.path.abspath(os.path.join(__file__, "../../.."))
 
 sys.path.append(BASE_PATH+"/app/src/")
-from utils import loadFile, pre_process_doc, post_process, dataCleaning
+from utils import loadFile, pre_process_doc, post_process, dataCleaning,elmo_post_process
 
 ##################
 model_path = BASE_PATH + "/models/saved_model/lstm_ner_model_F1_37_3.h5"
@@ -72,7 +72,7 @@ def predict(filepath):
                 i += 1
                 #print("{:15}: {:5}".format(w, tags[pred]))
                 
-    res = post_process(pred_dict)
+    res = elmo_post_process(pred_dict,k="skills")
     #print(res)
     return res
 
@@ -97,3 +97,6 @@ def queryParser(sentence):
 
 if __name__ == "__main__":
     queryParser("R&D Software Developer, Java/C++ (Experienced)")
+    test_file = r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx"
+    r= predict(test_file)
+    print(r)
