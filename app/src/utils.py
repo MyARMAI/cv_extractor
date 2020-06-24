@@ -93,12 +93,12 @@ def elmo_post_process(out,k='skills',level="years_of_experience"):
         except:
             pass
         i+=1
-    res = {}
+    res = []
     for key,value in output.items():
         try:
             float(key)
         except:
-            res[key]= value
+            res.append({'skills':key,'niveau':value})
     return res
 
 def convertToSavedModel(modelpath, output_dir):

@@ -1,0 +1,280 @@
+[
+    {
+        "Postgresql": 2.0,
+        "Python": 2.0,
+        "CSS": 1.5,
+        "Atos": 1.0,
+        "\u00e0": 29.0
+    },
+    {
+        "fonctionnelles": 2.0,
+        "C": 2.0,
+        "CSS": 2.0,
+        "cahier": 3.0
+    },
+    {
+        "Hadoop": 2.0,
+        "Sqoop": 2.0,
+        "Spark": 2.0,
+        "Kafka": 2.0,
+        "Storm": 2.0,
+        "Avro": 1.5,
+        "Ambari": 1.5,
+        "S3": 2.0,
+        "Neo4j": 2.0,
+        "Python": 2.0,
+        "C++": 2.0,
+        "Java": 2.0,
+        "PHP": 2.0,
+        "HTML": 2.0
+    },
+    {
+        "SQL": 2.5,
+        "PHP": 2.5,
+        "VBA": 2.0,
+        "XML": 2.0,
+        "Atos": 2.0,
+        "\u00e0": 14.0
+    },
+    {
+        "SQL": 2.5,
+        "JavaScript": 1.0,
+        "C": 2.0,
+        "Java": 2.0,
+        "CSS": 2.0,
+        "fichier.": 5.0,
+        "Atos": 2.0,
+        "\u00e0": 1.0
+    },
+    {
+        "DBA": 6.0,
+        "sur": 14.0,
+        "AIX": 6.0,
+        "pour": 50.0,
+        "Patching,": 1.0,
+        "Mise": 22.0
+    },
+    {
+        "Java": 6.0,
+        "Javascript": 2.0,
+        "Json": 2.0,
+        "Javascript,": 1.0,
+        "Atos": 1.0
+    },
+    {
+        "\u00e9tude": 8.0,
+        "Server": 2.5,
+        "JavaScript": 2.0,
+        "C": 2.0,
+        "HTML": 3.0,
+        "PHP": 3.0,
+        "Java": 1.0,
+        "ligne": 10.0,
+        "Atos": 7.0,
+        ":": 1.0
+    },
+    {
+        "EE": 2.0,
+        "CSS": 2.0,
+        "Oracle": 2.0,
+        "MongoDB": 1.5,
+        "Linux": 2.0,
+        "Windows": 2.0,
+        "Algebra": 2.0
+    },
+    {
+        "JavaScript": 2.0,
+        "C": 1.5,
+        "CSS3": 2.0,
+        "Java": 3.0,
+        "s\u00e9curit\u00e9": 23.0,
+        "\u00e0": 0.0,
+        "\u00e9quipe": 15.0,
+        "Seam": 2.0,
+        "de": 2.0,
+        "scripts": 7.0,
+        "Atos": 2.0,
+        ":": 11.0
+    },
+    {
+        "Suur": 1.0
+    },
+    {
+        "Redhat": 2.0,
+        "SSIS": 2.0,
+        "software": 1.5,
+        "View": 1.5,
+        "SQL": 2.0,
+        "Langage": 2.0,
+        "Java": 1.0,
+        ":": 1.0,
+        "niveau": 2.0,
+        "RedHat": 5.0,
+        "fiches": 1.0,
+        "Atos": 1.0,
+        "Mise": 1.0
+    },
+    {
+        "JavaScript": 2.0,
+        "Java": 2.0,
+        "CSS3": 2.0,
+        ":": 22.0,
+        "Atos": 1.0,
+        "de": 18.0,
+        "magasins": 4.0,
+        "XML": 2.0,
+        "fiches": 5.0
+    },
+    {
+        "\uf075": 2.0,
+        "techniques": 1.0,
+        "Mise": 22.0,
+        "C": 2.0,
+        "Java": 2.0,
+        "Atos": 5.0,
+        ":": 22.0,
+        "HTML,": 3.0
+    },
+    {
+        "SQL": 2.5,
+        "JavaScript": 1.0,
+        "C": 2.0,
+        "Java": 2.0,
+        "fichier.": 5.0,
+        "Atos": 2.0,
+        ":": 30.0
+    },
+    {
+        "Java": 2.0,
+        "Acc\u00e8s": 11.0,
+        "version": 1.0
+    },
+    {
+        "Json": 2.0,
+        "HTML": 5.0,
+        "CSS": 3.0,
+        "fin": 7.0,
+        "HTML,": 3.0
+    },
+    {
+        "Data": 1.0,
+        "AJAX": 1.0,
+        "JQuery": 1.0,
+        "CSS": 2.0,
+        "C": 2.0,
+        "HTML": 1.0,
+        "de": 7.0,
+        "cot\u00e9": 6.0,
+        "Linux,": 1.0,
+        "Atos": 1.0
+    },
+    {
+        "C": 1.5,
+        "HTML": 2.0,
+        "Java": 1.0,
+        "XML": 1.0,
+        "LINUX": 1.0,
+        "Netbeans": 1.0,
+        ":": 1.0,
+        "basses": 1.0,
+        "Atos": 1.0
+    },
+    {
+        "fundamentals": 1.0,
+        "MLlib": 1.0,
+        "Python": 2.5,
+        "cript": 2.0,
+        "Scala": 2.5,
+        "C": 2.0,
+        "Xml": 2.0,
+        "Java": 2.0,
+        "Tableau": 2.5,
+        "Niveaux": 1.0,
+        "Atos": 6.0,
+        "de": 3.0,
+        "Case": 1.0,
+        "supermarch\u00e9s.": 5.0
+    },
+    {
+        "C": 1.0,
+        "aux": 2.0
+    },
+    {
+        "finances": 4.0,
+        "niveaux": 1.0,
+        "utilisateurs": 600.0,
+        "sur": 3.0,
+        "pour": 2.0,
+        "\u00e0": 1.0
+    },
+    {
+        "techniques": 1.0,
+        "Connaissance,": 2.0,
+        "Maitrise,": 3.0,
+        "PHP": 2.0,
+        "XML": 2.0,
+        "CSS3.": 3.0,
+        "\u00e0": 14.0
+    },
+    {
+        "Postgresql": 2.0,
+        "Oracle": 1.5,
+        "C#": 1.5,
+        "CSS": 2.0,
+        "C++": 1.5,
+        "Java": 2.5,
+        "associative": 1.0
+    },
+    {
+        "SQL": 1.0,
+        "JQuery": 1.0,
+        "Bash": 2.0,
+        "Bootstrap": 2.0,
+        "Java": 2.0,
+        "learn": 1.0,
+        "Connaissance": 2.0,
+        "version": 3.0,
+        "tache": 10.0,
+        "D\u00e9veloppent": 1.0
+    },
+    {
+        "Analyst": 2.0,
+        "GSM:": 1.0,
+        "Visualization,": 2.0,
+        "serveurs": 11.0,
+        "Mise": 10.0
+    },
+    {
+        "BON": 4.0
+    },
+    {
+        "sous": 33.0,
+        "carri\u00e8re": 6.0,
+        "de": 2.0,
+        "\u2022": 6.0,
+        "Mise": 4.0
+    },
+    {
+        "Windev": 7.0,
+        "mois": 6.0,
+        "aupr\u00e8s": 2.0
+    },
+    {
+        "six": 6.0,
+        "environnement": 2.0,
+        "Solaris": 10.0,
+        "SAS": 9.3,
+        "SAS,": 9.0
+    },
+    {
+        "carri\u00e8res": 2.0,
+        ":": 3.0
+    },
+    {
+        "les": 3.0
+    },
+    {
+        "Java": 6.0,
+        "11i,": 2.0
+    }
+]

@@ -12,6 +12,7 @@ from keras.layers.merge import add
 from keras.layers import LSTM, Embedding, Dense, TimeDistributed, Dropout, Bidirectional, Lambda
 from keras import backend as K
 
+os.environ['TFHUB_CACHE_DIR'] = r'C:\tf_hub_cache'
 
 batch_size = 35
 max_len = 117
@@ -28,6 +29,7 @@ graph = tf.get_default_graph() """
 BASE_PATH = os.path.abspath(os.path.join(__file__, "../../.."))
 
 sys.path.append(BASE_PATH+"/app/src/")
+
 from utils import loadFile, pre_process_doc, post_process, dataCleaning,divide_chunks,fill_out,prepare,elmo_post_process
 ##################
 model_path = BASE_PATH + "/models/saved_model/lstm_elmo.h5"
@@ -84,9 +86,6 @@ def startElmo():
     return model
 
 def elmoPredict(model,filepath):
-   
-    ##model.summary()
-
     raw_file = loadFile(filepath)
     cleaned_file = dataCleaning(raw_file)
     output_file=""
@@ -105,8 +104,6 @@ def elmoPredict(model,filepath):
             pred_dict[str(i)+'_'+w] = tags[pred]
             i += 1
             #print("{:15}: {:5}".format(w, tags[pred]))
-    with open(BASE_PATH+"/app/assets/out.json","w") as out:
-        json.dump(pred_dict,out,indent=4)
     return elmo_post_process(pred_dict)
   
 
@@ -127,11 +124,12 @@ from datetime import datetime
 if __name__ == "__main__":
     files = glob.glob(r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\*")
     model = startElmo()
-    """ output=[]
     startTime = datetime.now()
+    res =[]
     for f in files:
-        output.append(elmoPredict(f))
-    print("Elapsed time :  s".format(datetime.now() - startTime)) """
-    test_file = r"C:\Users\Cheikh\Desktop\Projet_memoire\myArmAi\samples\base_cv\cv\CV ATOS Amadou NDIAYE - ENGLISH.docx"
-    r= elmoPredict(model,test_file)
-    print(r)
+        res.append(elmoPredict(model,f))
+    endtime = datetime.now()
+    print("Time for extracting all cv : {} ".format(endtime-startTime)) 
+    with open(BASE_PATH+"/app/assets/out.json","w") as out:
+        json.dump(res,out,indent=4)
+    
